@@ -13,4 +13,4 @@ Los archivos originales en Affinity Publisher están igualmente disponibles en D
 
 <p></p>
 
-![Alt text](/img/cairn.svg "Click to embiggen")
+[![Alt text](/img/cairn.svg "Click to embiggen"){:height="50%" width="50%"}](/img/cairn.svg)
