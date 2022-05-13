@@ -18,7 +18,7 @@ Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el ju
 Los jugadores actúan como aventureros inquebrantables que exploran un bosque oscuro y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
 
 ## Contenido
-- [Sumario](/#Sumario)
+- [Sumario](/cairn-srd.md#Sumario)
 - [Principios de los Guardianes](#Principios-de-los-Guardianes)
 - [Principios de los Jugadores](#Principios-de-los-Jugadores)
 - [Crear el Personaje](#Crear-el-Personaje)
