@@ -168,7 +168,7 @@ Inés tira por la FUE de su personaje, el resultado obtenido en la tirada es 2, 
 </details>
 
 ### Protección contra Golpes  
-Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](#Cicatrices).
+Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](#Cicatrices-1).
 
 #### Inventario
 Los personajes tienen un total de 10 espacios de inventario: una mochila con seis espacios, un espacio en cada mano, y dos espacios en la parte superior del cuerpo (como el cinturón, el pecho o la cabeza). También, la mochila puede servir como saco de dormir en casos de emergencia, pero solo si se vacía todo su contenido.
@@ -1005,7 +1005,7 @@ Los ataques **sin armas** siempre hacen 1d4 de daño. Si **múltiples atacantes*
 Si un ataque está en **desventaja**, el dado de daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante tira 1d12. Los ataques con la cualidad **golpe por alcance** afectan a todos los objetivos del área, tirando por separado para cada uno de ellos.
 
 **DAÑO**  
-Si un ataque lleva la PG de una PJ exactamente a 0, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices).
+Si un ataque lleva la PG de una PJ exactamente a 0, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
 
 El daño que reduce el HP de un objetivo **por debajo** de 0 disminuye su FUE de acuerdo con la cantidad restante. Luego debe hacer una tirada de salvación de FUE para evitar el **daño crítico**. El fallo deja al PJ fuera de combate y mueren si no se trata.
 
