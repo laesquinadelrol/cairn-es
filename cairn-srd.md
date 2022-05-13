@@ -8,22 +8,25 @@ nav_order: 2
 
 <p></p>
 
-**Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+**Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+La traducción al español de Cairn SRD se realizó por [Antigona](https://twitter.com/Antigona_404), [La esquina del rol](https://twitter.com/laesquinadelrol) y Alinel.
+
 Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluyendo Word, Affinity, Google Docs, etc.).
 
 **Cairn** es un juego de aventuras para un facilitador (el **Guardián**) y al menos un jugador.
 Los jugadores actúan como aventureros inquebrantables que exploran un bosque oscuro y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
 
 ## Contenido
-- [Sumario](.../cairn-es/cairn-srd/#Sumario)
-- [Principios de los Guardianes](#Principios-de-los-Guardianes)
-- [Principios de los Jugadores](#Principios-de-los-Jugadores)
-- [Crear el Personaje](#Crear-el-Personaje)
-- [Equipo](#Listado-de-Equipo-Precios-en-monedas-de-oro)
-- [Reglas](#Reglas)
-- [Bestiario](#Bestiario)
-- [100 Hechizos](#100-Hechizos)
-- [Resumen de Reglas](#Resumen-de-Reglas)
+- [Sumario](/cairn-srd#Sumario)
+- [Principios de los Guardianes](/cairn-srd#Principios-d/cairn-srde-los-Guardianes)
+- [Principios de los Jugadores](/cairn-srd#Principios-de-los-Jugadores)
+- [Crear el Personaje](/cairn-srd#Crear-el-Personaje)
+- [Equipo](/cairn-srd#Listado-de-Equipo-Precios-en-monedas-de-oro)
+- [Reglas](/cairn-srd#Reglas)
+- [Bestiario](/cairn-srd#Bestiario)
+- [100 Hechizos](/cairn-srd#100-Hechizos)
+- [Resumen de Reglas](/cairn-srd#Resumen-de-Reglas)
 
 
 ## Sumario
@@ -54,7 +57,7 @@ Tanto el Guardián como los jugadores tienen directrices de juego que ayudan a f
 ### Objetivos Compartidos
 Los jugadores confían en que los demás están comprometidos con la ambientación compartida, los objetivos de los personajes y los retos del grupo. Por lo tanto, el grupo suele trabajar conjuntamente hacia un objetivo común, siempre como un equipo.
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](/cairn-srd#Contenido)
 <p></p>
 
 ## Principios de los Guardianes
@@ -104,7 +107,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   En esas situaciones, tira 1d6. Un resultado de 4 o más favorece generalmente a los jugadores.
 -   Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](/cairn-srd#Contenido)
 <p></p>
 
 ## Principios para los Jugadores
@@ -139,7 +142,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   No espere nada. Gánese su reputación.
 -   Ante todo, siga avanzando  y juegue para ver qué sucede.
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](/cairn-srd#Contenido)
 <p></p>
 
 ## Crear el Personaje
@@ -147,7 +150,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 #### Nombre, Bagaje y Rasgos
 Primero, elija o tire por el **nombre** y **bagaje** del personaje en la [tabla](#name--background-d20) respectiva. El bagaje de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
 
-Luego, realiza tiradas para el resto de rasgos de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#character-traits-d10) tables.
+Luego, realiza tiradas para el resto de rasgos de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](/cairn-srd#Rasgos-del-personaje-d10).
 
 Finalmente, realiza una tirada para determinar su **edad** (2d20+10).
 
@@ -165,7 +168,7 @@ Inés tira por la FUE de su personaje, el resultado obtenido en la tirada es 2, 
 </details>
 
 ### Protección contra Golpes  
-Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](/cairn-srd#scars-1) table.
+Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](/cairn-srd#scars-1).
 
 #### Inventario
 Los personajes tienen un total de 10 espacios de inventario: una mochila con seis espacios, un espacio en cada mano, y dos espacios en la parte superior del cuerpo (como el cinturón, el pecho o la cabeza). También, la mochila puede servir como saco de dormir en casos de emergencia, pero solo si se vacía todo su contenido.
@@ -183,11 +186,11 @@ Todos los PJ comienzan con:
 -   Una antorcha (un espacio)
 -   3d6 monedas de oro
 
-Realiza varias tiradas en las tablas de **Equipo Inicial** para determinar la armadura, armas, herramientas y demás equipo de tu PJ. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#spellbooks-d100) (o realiza una tirada de 2d10, usando un dado como el valor de las unidades y el otro dado como el valor de la decenas).
+Realiza varias tiradas en las tablas de **Equipo Inicial** para determinar la armadura, armas, herramientas y demás equipo de tu PJ. Si se indica, tira 1d100 en el [**Libro de Hechizos**](/cairn-srd#Libro-de-Hechizos-d100) (o realiza una tirada de 2d10, usando un dado como el valor de las unidades y el otro dado como el valor de la decenas).
 
 Consulta el **Listado de Equipo** para ver los valores relacionados con la armadura, daño y espacios. Los objetos pequeños pueden ser contados como parte de un mismo espacio.
 
-Si desea algo más parecido a las clases tradicionales, consulte la lista de [**Paquete de Equipo Opcionales**](#optional-gear-packages).
+Si desea algo más parecido a las clases tradicionales, consulte la lista de [**Paquete de Equipo Opcionales**](/cairn-srd#Paquetes-de-Equipo-Opcionales).
 
 <p></p>
 
@@ -227,12 +230,12 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Bagaje
 
 |||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Alquimista     |6          |Carterista     |11        |Enterrador |16    |Mago |
-|2           |Apostador    |7          |Cazador        |12        |Explorador|17    |Mercader|
-|3           |Artista          |8          |Clérigo          |13        |Herbalista |18    |Mercenario  |
-|4           |Carnicero     |9          |Criado           |14        |Herrero    |19    |Minero   |
-|5           |Carpintero    |10         |Criminal        |15        |Ladrón   |20    |Traficante    |
+|------------|--------------|-----------|-------------|----------|-------------|------|----------|
+|1           |Alquimista    |6          |Carterista   |11        |Enterrador   |16    |Mago      |
+|2           |Apostador     |7          |Cazador      |12        |Explorador   |17    |Mercader  |
+|3           |Artista       |8          |Clérigo      |13        |Herbalista   |18    |Mercenario|
+|4           |Carnicero     |9          |Criado       |14        |Herrero      |19    |Minero    |
+|5           |Carpintero    |10         |Criminal     |15        |Ladrón       |20    |Traficante|
 
 <p></p>
 
@@ -241,32 +244,32 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Físico
 
 |  |          |      |            |
-| -------- | -------- | ---- | ---------- |
-| 1        | Atlético  | 6    | Flácido    |
-| 2        | Bajo      | 7    | Gordo      |
-| 3        | Enorme    | 8    | Larguirucho |
-| 4        | Escuálido | 9    | Musculoso      |
-| 5        | Escultural| 10   | Robusto   |
+| -------- | -------- | ---- | -------------- |
+| 1        | Atlético  | 6    | Flácido       |
+| 2        | Bajo      | 7    | Gordo         |
+| 3        | Enorme    | 8    | Larguirucho   |
+| 4        | Escuálido | 9    | Musculoso     |
+| 5        | Escultural| 10   | Robusto       |
 
 #### Piel
 
 |  |            |      |           |
-| ---- | ---------- | ---- | --------- |
-| 1    | Bronceada         | 6    | Marcas por viruela     |
-| 2    | Delicada          | 7    | Oscurecida      |
-| 3    | Estirada          | 8    | Pigmentada    |
-| 4    | Lesiones Ovaladas | 9    | Rosácea  |
-| 5    | Marca de nacimiento| 10   | Tatuada |
+| ---- | ------------------- | ------ | ------------------ |
+| 1    | Bronceada           | 6      | Marcas por viruela |
+| 2    | Delicada            | 7      | Oscurecida         |
+| 3    | Estirada            | 8      | Pigmentada         |
+| 4    | Lesiones Ovaladas   | 9      | Rosácea            |
+| 5    | Marca de nacimiento | 10     | Tatuada            |
 
 #### Cabello
 
 |  |         |      |           |
-| ---- | ------- | ---- | --------- |
-| 1    | Abundante    | 6    | Largo      |
-| 2    | Calvo        | 7    | Ondulado |
-| 3    | Encrespado   | 8    | Rizado      |
-| 4    | Escaso       | 9    | Sucio      |
-| 5    | Grasoso      | 10   | Trenzado     |
+| ---- | ------------ | ---- | --------- |
+| 1    | Abundante    | 6    | Largo     |
+| 2    | Calvo        | 7    | Ondulado  |
+| 3    | Encrespado   | 8    | Rizado    |
+| 4    | Escaso       | 9    | Sucio     |
+| 5    | Grasoso      | 10   | Trenzado  |
 
 #### Rostro
 
@@ -281,12 +284,12 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Forma de Hablar
 
 |  |         |      |            |
-| ------ | ------- | ---- | ---------- |
-| 1      | Áspera   | 6    | Formal   |
-| 2      | Chillona | 7    | Franca    |
-| 3      | Clara    | 8    | Monótona    |
+| ------ | ---------- | ---- | ---------- |
+| 1      | Áspera     | 6    | Formal   |
+| 2      | Chillona   | 7    | Franca    |
+| 3      | Clara      | 8    | Monótona    |
 | 4      | Enigmática | 9    | Susurrante |
-| 5      | Estridente  | 10   | Tartamuda   |
+| 5      | Estridente | 10   | Tartamuda   |
 
 #### Vestimenta
 
@@ -345,16 +348,16 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Armadura
 
 |  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
-|  1-3  |    4-14    |   15-19   |  20   |
-| Ninguna  | Brigantina | Cota de malla | Armadura completa |
+| :-------: | :--------: | :------------: | :---: |
+|  1-3      |    4-14    |   15-19        |  20   |
+| Ninguna   | Brigantina | Cota de malla  | Armadura completa |
 
 #### Yelmos y Escudos
 
 |  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       Ninguno       | Yelmo | Escudo | Yelmo y Escudo |
+| :------------------: | :----: | :----: | :-------------: |
+|       1-13           | 14-16  | 17-19  |       20        |
+|       Ninguno        | Yelmo  | Escudo | Yelmo y Escudo |
 
 #### Armas
 
@@ -529,14 +532,15 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |Vejiga Natatoria                              |
 
 #### Enano
+
 ||
-|-----------------------------------------|
-|Raíz espinosa (1d6)                        |
+|------------------------------------------------------------------|
+|Raíz espinosa (1d6)                                               |
 |Armadura de entramado de piñas de pino (1 Armadura)               |
-|Paleta/cuchara (de construcción)                                   |
-|Tarro de hormigas del bosque                       |
-|Hongos venenosos                       |
-|Taladro manual                              |
+|Paleta/cuchara (de construcción)                                  |
+|Tarro de hormigas del bosque                                      |
+|Hongos venenosos                                                  |
+|Taladro manual                                                    |
 
 #### Explorador
 
@@ -595,6 +599,7 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 
 
 #### Zahorí (Radietista)
+
 |                                         |
 |-----------------------------------------|
 |Hoz (1d6)                              |
@@ -774,7 +779,7 @@ Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de maner
 | 11   | Herida mortal: Estás exhausto y fuera de acción. Mueres en una hora a menos que te cures. Tras la recuperación, tira 2d6. Tome el nuevo resultado como su PG máximo. |
 | 12   | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si tu próxima tirada de salvación contra un daño crítico es un fallo, muere horriblemente. Si la pasa, tira 3d6. Si el total es superior a su PG máximo, toma el nuevo resultado. |
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](/cairn-srd#Contenido)
 <p></p>
 
 ## Bestiario
@@ -841,7 +846,7 @@ Algunos consejos:
 
 Los dados de daño son más o menos los mismos, aunque los ataques armados hacen al menos 1d6 de daño.
 
-[regresa al contenido](#Contenido)
+[regresa al contenido](/cairn-srd#Contenido)
 <p></p>
 
 ## 100 Hechizos
@@ -950,7 +955,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
 
 
-[regresar al contenido](#contenido)
+[regresar al contenido](/cairn-srd#contenido)
 <p></p>
 
 # Resumen de Reglas
