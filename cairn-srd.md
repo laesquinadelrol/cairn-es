@@ -18,15 +18,15 @@ Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el ju
 Los jugadores actúan como aventureros inquebrantables que exploran un bosque oscuro y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
 
 ## Contenido
-- [Sumario](/cairn-srd.md#Sumario)
-- [Principios de los Guardianes](#Principios-de-los-Guardianes)
-- [Principios de los Jugadores](#Principios-de-los-Jugadores)
-- [Crear el Personaje](#Crear-el-Personaje)
-- [Equipo](#Listado-de-Equipo-Precios-en-monedas-de-oro)
-- [Reglas](#Reglas)
-- [Bestiario](#Bestiario)
-- [100 Hechizos](#100-Hechizos)
-- [Resumen de Reglas](#Resumen-de-Reglas)
+- [Sumario](#sumario)
+- [Principios de los Guardianes](#principios-de-los-guardianes)
+- [Principios de los Jugadores](#principios-de-los-jugadores)
+- [Crear el Personaje](#crear-el-personaje)
+- [Equipo](#listado-de-equipo-precios-en-monedas-de-oro)
+- [Reglas](#reglas)
+- [Bestiario](#bestiario)
+- [100 Hechizos](#100-hechizos)
+- [Resumen de Reglas](#resumen-de-reglas)
 
 
 ## Sumario
@@ -57,7 +57,7 @@ Tanto el Guardián como los jugadores tienen directrices de juego que ayudan a f
 ### Objetivos Compartidos
 Los jugadores confían en que los demás están comprometidos con la ambientación compartida, los objetivos de los personajes y los retos del grupo. Por lo tanto, el grupo suele trabajar conjuntamente hacia un objetivo común, siempre como un equipo.
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](#contenido)
 <p></p>
 
 ## Principios de los Guardianes
@@ -107,7 +107,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   En esas situaciones, tira 1d6. Un resultado de 4 o más favorece generalmente a los jugadores.
 -   Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](#contenido)
 <p></p>
 
 ## Principios para los Jugadores
@@ -142,7 +142,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   No espere nada. Gánese su reputación.
 -   Ante todo, siga avanzando  y juegue para ver qué sucede.
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](#contenido)
 <p></p>
 
 ## Crear el Personaje
@@ -150,7 +150,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 #### Nombre, Bagaje y Rasgos
 Primero, elija o tire por el **nombre** y **bagaje** del personaje en la [tabla](#name--background-d20) respectiva. El bagaje de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
 
-Luego, realiza tiradas para el resto de rasgos de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#Rasgos-del-personaje-d10).
+Luego, realiza tiradas para el resto de rasgos de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#rasgos-del-personaje-d10).
 
 Finalmente, realiza una tirada para determinar su **edad** (2d20+10).
 
@@ -168,7 +168,7 @@ Inés tira por la FUE de su personaje, el resultado obtenido en la tirada es 2, 
 </details>
 
 ### Protección contra Golpes  
-Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](#Cicatrices-1).
+Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](#cicatrices-1).
 
 #### Inventario
 Los personajes tienen un total de 10 espacios de inventario: una mochila con seis espacios, un espacio en cada mano, y dos espacios en la parte superior del cuerpo (como el cinturón, el pecho o la cabeza). También, la mochila puede servir como saco de dormir en casos de emergencia, pero solo si se vacía todo su contenido.
@@ -186,11 +186,11 @@ Todos los PJ comienzan con:
 -   Una antorcha (un espacio)
 -   3d6 monedas de oro
 
-Realiza varias tiradas en las tablas de **Equipo Inicial** para determinar la armadura, armas, herramientas y demás equipo de tu PJ. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#Libro-de-Hechizos-d100) (o realiza una tirada de 2d10, usando un dado como el valor de las unidades y el otro dado como el valor de la decenas).
+Realiza varias tiradas en las tablas de **Equipo Inicial** para determinar la armadura, armas, herramientas y demás equipo de tu PJ. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#libro-de-hechizos-d100) (o realiza una tirada de 2d10, usando un dado como el valor de las unidades y el otro dado como el valor de la decenas).
 
 Consulta el **Listado de Equipo** para ver los valores relacionados con la armadura, daño y espacios. Los objetos pequeños pueden ser contados como parte de un mismo espacio.
 
-Si desea algo más parecido a las clases tradicionales, consulte la lista de [**Paquete de Equipo Opcionales**](#Paquetes-de-Equipo-Opcionales).
+Si desea algo más parecido a las clases tradicionales, consulte la lista de [**Paquete de Equipo Opcionales**](#paquetes-de-equipo-opcionales).
 
 <p></p>
 
@@ -779,7 +779,7 @@ Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de maner
 | 11   | Herida mortal: Estás exhausto y fuera de acción. Mueres en una hora a menos que te cures. Tras la recuperación, tira 2d6. Tome el nuevo resultado como su PG máximo. |
 | 12   | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si tu próxima tirada de salvación contra un daño crítico es un fallo, muere horriblemente. Si la pasa, tira 3d6. Si el total es superior a su PG máximo, toma el nuevo resultado. |
 
-[regresar al contenido](#Contenido)
+[regresar al contenido](#contenido)
 <p></p>
 
 ## Bestiario
@@ -846,7 +846,7 @@ Algunos consejos:
 
 Los dados de daño son más o menos los mismos, aunque los ataques armados hacen al menos 1d6 de daño.
 
-[regresa al contenido](#Contenido)
+[regresa al contenido](#contenido)
 <p></p>
 
 ## 100 Hechizos
