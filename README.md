@@ -13,4 +13,4 @@ Los archivos originales en Affinity Publisher están igualmente disponibles en D
 
 <p></p>
 
-[![Alt text](/img/cairn.svg)
+![Alt text](/img/cairn.svg)
