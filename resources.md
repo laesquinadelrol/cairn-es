@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources
+title: Recursos
 nav_order: 8
 has_children: true
 ---

@@ -15,7 +15,7 @@ La traducción al español de Cairn SRD se realizó por [Antigona](https://twitt
 Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluyendo Word, Affinity, Google Docs, etc.).
 
 **Cairn** es un juego de aventuras para un facilitador (el **Guardián**) y al menos un jugador.
-Los jugadores actúan como aventureros inquebrantables que exploran un bosque oscuro y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
+Los jugadores actúan como aventureros inquebrantables que exploran un bosque sombrío y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
 
 ## Contenido
 - [Sumario](/cairn-srd.md#Sumario)
@@ -33,7 +33,7 @@ Los jugadores actúan como aventureros inquebrantables que exploran un bosque os
 
 **Cairn** fue escrito con la siguiente filosofía de diseño en mente::
 
-### Neutralidad 
+### Neutralidad
 El rol del Guardián es presentar las reglas, situaciones, Personajes no Jugadores (PNJ) y la historia de manera clara, mientras actúa como un árbitro neutral.
 
 ### Sin Clases  
@@ -42,7 +42,7 @@ El rol o las habilidades de un personaje no están limitados por una sola clase.
 ### Mortal
 Los personajes podrán ser poderosos, pero siguen siendo vulnerables al daño de muchas maneras. La muerte siempre está a la vuelta de la esquina, pero nunca ocurre aleatoriamente o sin previo aviso.
 
-### Primero la Ficción 
+### Primero la Ficción
 Los dados no siempre reflejan la dificultad de un obstáculo o su resultado. En cambio, el éxito y el fallo son arbitrados por el Guardián en diálogo con los jugadores, en función de lo que ocurre en el mundo.
 
 ### Avance de los Personajes  
@@ -51,7 +51,7 @@ Los personajes cambian mientras exploran el mundo, reciben nuevas habilidades y 
 ### Elecciones de los Jugadores  
 Los jugadores deben entender siempre las razones que hay detrás de las decisiones que han tomado y la información sobre los riesgos potenciales debería ser compartida con ellos de manera directa y frecuente.
 
-### Principios 
+### Principios
 Tanto el Guardián como los jugadores tienen directrices de juego que ayudan a fomentar una experiencia de juego específica definida por el pensamiento crítico, la exploración y la narrativa emergente.
 
 ### Objetivos Compartidos
@@ -62,14 +62,14 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 
 ## Principios de los Guardianes
 ### Información
--   Proporcione información útil acerca del mundo mientras los personajes lo exploran.
+-   Proporciona información útil acerca del mundo mientras los personajes lo exploran.
 -   Los jugadores no requieren tiradas de dados para reconocer las circunstancias en las que se encuentran.   
--   Sea práctico y directo con sus  respuestas a las preguntas de los jugadores.
--   Responda con sinceridad, describa con coherencia y siempre deje saber a los jugadores que pueden seguir haciendo preguntas.
+-   Se práctico y directo con tus  respuestas a las preguntas de los jugadores.
+-   Responde con sinceridad, describe con coherencia y siempre deja saber a los jugadores que pueden seguir haciendo preguntas.
 
 ### Dificultad
--   Se debe apostar por el contexto y el realismo, en vez de por los números y las mecánicas.
--   Si algo que los jugadores quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo. 
+-   Apuesta por el contexto y el realismo, en vez de por los números y las mecánicas.
+-   Si algo que los jugadores quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
 -   ¿Es creíble lo que el jugador describe y cómo aprovecha la situación? Deja que ocurra.    
 -   Las Tiradas de Salvación cubre una gran cantidad de situaciones inciertas y frecuentemente es todo lo que se necesita para lidiar con las acciones de riesgo.
 
@@ -77,28 +77,28 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   El mundo del juego es orgánico, maleable y aleatorio. Se intuye y da giros bruscos.
 -   Use tablas aleatorias y generadores para desarrollar situaciones, no historias o tramas.
 -   Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo ellos afectan el mundo.
--   Los PNJ no desean morir. Infunda a cada uno de ellos su propio interés y voluntad de vivir.
+-   Los PNJ no desean morir. Infunda a cada uno de ellos su propias razones y voluntad de vivir.
 
 ### Concentrarse en la Narrativa  
--   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
+-   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores oportunidades para que se entrenen en el manejo de armas o incluso misiones de caracter personal que faciliten la mejora y especialización de su personaje.
 -   Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas.
 -   Una daga en la garganta te matará, independientemente de tu costosa armadura e impresionante entrenamiento.
 
 ### Peligro  
 -   El mundo del juego produce un riesgo real de sufrimiento y muerte a los personajes jugadores.   
--   Avisa a los jugadores cuanto un peligro serio está presente. Mientras más peligroso, más obvio.
+-   Avisa a los jugadores cuanto un peligro serio está presente. Mientras más peligroso, más obvio será.
 -   Ponga trampas visibles y deje que los jugadores se tomen su tiempo para encontrar una solución.
 -   Ofrezca a los jugadores oportunidades para resolver problemas e interactuar con el mundo
 
-### Tesoro 
+### Tesoro
 -   Un tesoro es muy específico del entorno del cual fue recuperado. Por sí mismo, cuenta una historia.    
 -   El tesoro es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y prestigio.
 -   Las reliquias no son Tesoros, aunque son útiles e interesantes.
 -   Utilice el Tesoro como señuelo para que los personajes lleguen a lugares exóticos bajo el dominio de enemigos intimidantes.
 
 ### Opciones  
--   Ofrezca a los jugadores una opción interesante para forzar su elección cuando la situación se calma.    
--   Use preguntas dicotómicas como:  “entonces ¿A o B?”, cuando sus intenciones no son claras. 
+-   Ofrezca a los jugadores una opción interesante para forzar su elección cuando la situación esté en calma.    
+-   Use preguntas dicotómicas como:  “entonces ¿A o B?”, cuando sus intenciones no son claras.
 -   Colaboren todos juntos en este diálogo para mantener el juego en movimiento.
 -   Asegúrese de que las acciones de los personajes de los jugadores dejen su huella en el mundo.
 
@@ -129,7 +129,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   Trata a los PNJ como si fueran personas reales y confía en tu curiosidad para obtener información y resolver problemas de forma segura.    
 -   Encontrarás que la mayoría de la gente es interesante y querrá hablar las cosas antes de ponerse violenta.
 
-### Sea Precavido
+### Se Precavido
 -   Pelear es una elección y rara vez una sabia, considere si la violencia es la mejor manera de lograr sus objetivos.    
 -   Sume las probabilidades a su favor y retírese cuando las cosas parecen desfavorables.
 
@@ -274,27 +274,27 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Rostro
 
 |  |           |      |          |
-| ---- | --------- | ---- | -------- |
+| ---- | ------------ | ---- | --------------------- |
 | 1    | Afilado      | 6    | De mejillas hundidas  |
-| 2    | Alargado     | 7    | Desfigurado |
-| 3    | Cara de rata | 8    | Huesudo    |
-| 4    | Cincelado    | 9    | Pálido   |
-| 5    | Cuadrado     | 10   | Perfecto   |
+| 2    | Alargado     | 7    | Desfigurado           |
+| 3    | Cara de rata | 8    | Huesudo               |
+| 4    | Cincelado    | 9    | Pálido                |
+| 5    | Cuadrado     | 10   | Perfecto              |
 
 #### Forma de Hablar
 
 |  |         |      |            |
-| ------ | ---------- | ---- | ---------- |
-| 1      | Áspera     | 6    | Formal   |
-| 2      | Chillona   | 7    | Franca    |
-| 3      | Clara      | 8    | Monótona    |
-| 4      | Enigmática | 9    | Susurrante |
-| 5      | Estridente | 10   | Tartamuda   |
+| ------ | ---------- | ---- | ------------ |
+| 1      | Áspera     | 6    | Formal       |
+| 2      | Chillona   | 7    | Franca       |
+| 3      | Clara      | 8    | Monótona     |
+| 4      | Enigmática | 9    | Susurrante   |
+| 5      | Estridente | 10   | Tartamuda    |
 
 #### Vestimenta
 
 |  |         |      |        |
-| -------- | ------- | ---- | ------ |
+| -------- | -------------- | ---- | ------ |
 | 1        | Antigua        | 6    | Elegante |
 | 2        | De otro lugar  | 7    | Maloliente |
 | 3        | Desaliñada     | 8    | Manchada |
@@ -401,7 +401,7 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
-| Herramienta o baratija | Equipa para expediciones | Armadura o arma | libro de hechizos |
+| Herramienta o baratija | Equipo para expediciones | Armadura o arma | libro de hechizos |
 
 <p></p>
 
@@ -409,16 +409,16 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 
 |||||||||
 |---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Adhere           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Anchor           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Animate Object   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Anthropomorphize |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Arcane Eye       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Astral Prison    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Attract          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Auditory Illusion|33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Babble           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Bait Flower      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
+|1  |Acelerar           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
+|2  |Adherir           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
+|3  |Agujero   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
+|4  |Aire líquido |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
+|5  |Alterar gravedad       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
+|6  |Amortiguador mágico    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
+|7  |Ancla          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
+|8  |Antropomorfizar |33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
+|9  |Arrebatar           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
+|10 |Atadura invisible      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
 |11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
 |12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
 |13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
@@ -637,7 +637,7 @@ Expandir para ver el ejemplo
 Descansar unos instantes y beber agua restablece los PI perdidos, pero deja al grupo expuesto. Los puntos perdidos de la puntuación de características (consulte **Daño crítico**) generalmente se recuperan con una semana de descanso y cuidados de un sanador o alguien con experiencia en esos menesteres. Algunos de estos servicios son gratis, mientras que medios de recuperación por magia o más oportunos pueden conllevar un costo.
 
 ### Estar Exhausto y Fatiga
-Un PJ con la condición **Exhausto** debido a estar privado de necesidades cruciales (como comer o descansar) no puede recuperar su PG ni sus puntos de sus puntuaciones de característica. Cualquier personaje que esté con la condición de exhausto por más de un día añade **Fatiga** a su inventario, un espacio marcado por cada día en esta condición. Cada fatiga ocupa un espacio y permanecerá marcado hasta que tenga la posibilidad el personaje de recuperarse (ya sea, por ejemplo, descansando toda una noche en un lugar seguro) 
+Un PJ con la condición **Exhausto** debido a estar privado de necesidades cruciales (como comer o descansar) no puede recuperar su PG ni sus puntos de sus puntuaciones de característica. Cualquier personaje que esté con la condición de exhausto por más de un día añade **Fatiga** a su inventario, un espacio marcado por cada día en esta condición. Cada fatiga ocupa un espacio y permanecerá marcado hasta que tenga la posibilidad el personaje de recuperarse (ya sea, por ejemplo, descansando toda una noche en un lugar seguro)
 También, los PJ obtienen fatiga por **lanzar hechizos** o por eventos viviendo dentro de la ficción.
 
 ### Armadura
@@ -735,7 +735,7 @@ Si pelea desde una posición de ventaja (como contra un enemigo indefenso o medi
 Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el único resultado más alto.
 
 ### Golpe por Alcance
-Los ataque con la cualidad **Golpe por alcance** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El golpe por alcance se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta. 
+Los ataque con la cualidad **Golpe por alcance** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El golpe por alcance se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
 
 ### Daño Crítico
 El daño que reduce la PG de un objetivo por debajo de cero disminuye la FUE de un objetivo en la cantidad restante. Luego, el objetivo tiene que hacer una tirada de salvación de FUE para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla en una tirada de salvación de daño crítico.
@@ -952,7 +952,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
 | 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
 | 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              | 
+| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              |
 
 
 [regresar al contenido](#contenido)
