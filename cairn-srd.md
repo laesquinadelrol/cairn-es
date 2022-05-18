@@ -110,7 +110,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 [regresar al contenido](#contenido)
 <p></p>
 
-## Principios para los Jugadores
+## Principios de los Jugadores
 ### Agencia de los Personajes
 -   Las Características y las Tiradas de Salvación no definen a los personajes. Estos valores son solo herramientas.    
 -   No solo te preguntes qué haría tu personaje en cada situación; también pregúntate qué es lo que tú harías.
@@ -382,7 +382,7 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 | ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
 | 1    | Abrojos       | 6    | Fuelle       | 11   | Pala        | 16   | Reloj de arena     |
 | 2    | Caña de pescar| 7    | Grasa        | 12   | Palanca     | 17   | Sellador     |
-| 3    | Cinsel        | 8    | Lima de metal | 13   | Pegamento  | 18   | Serrucho |
+| 3    | Cincel        | 8    | Lima de metal | 13   | Pegamento  | 18   | Serrucho |
 | 4    | Clavos        | 9    | Martillo      | 14   | Pinzas de metal | 19   | Taladro manual  |
 | 5    | Cubo          | 10   | Olla para cocinar| 15   | Red      | 20   | Tiza   |
 
@@ -479,7 +479,7 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |Carreta (+4 espacios, voluminosa)            |30               |Pintura facial           |10        |
 |Carretón (+8 espacios, lento)                |200              |Plantas de acónito       |10         |
 |Catalejo                                     |40               |Pluma y tinta            |10        |
-|Cinsel                                       |5                |Polea                    |10        |
+|Cincel                                       |5                |Polea                    |10        |
 |Clavo                                        |1                |Raciones (tres días)     |10         |
 |Cuerno                                       |10               |Red                      |10         |
 |Cubo                                         |5                |Reloj de arena           |50         |
