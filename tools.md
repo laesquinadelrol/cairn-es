@@ -6,4 +6,4 @@ has_children: true
 redirect_from: /resources/tools/
 ---
 
-# Tools
+# Herramientas

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Print
+title: Versión física
 nav_order: 3
 ---
 
