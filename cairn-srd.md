@@ -10,7 +10,7 @@ nav_order: 2
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-La traducción al español de Cairn SRD se realizó por [Antigona](https://twitter.com/Antigona_404), [La esquina del rol](https://twitter.com/laesquinadelrol) y Alinel.
+La traducción al español de Cairn SRD con permiso del autor se realizó por [Antigona](https://twitter.com/Antigona_404), [La esquina del rol](https://twitter.com/laesquinadelrol) y Alinel.
 
 Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluyendo Word, Affinity, Google Docs, etc.).
 
@@ -49,7 +49,7 @@ Los dados no siempre reflejan la dificultad de un obstáculo o su resultado. En 
 Los personajes cambian mientras exploran el mundo, reciben nuevas habilidades y capacidades para sobrevivir a eventos peligrosos y superar obstáculos.
 
 ### Elecciones de los Jugadores  
-Los jugadores deben entender siempre las razones que hay detrás de las decisiones que han tomado y la información sobre los riesgos potenciales debería ser compartida con ellos de manera directa y frecuente.
+Los jugadores siempre deben entender las razones que hay detrás de las decisiones que han tomado y la información sobre los riesgos potenciales debería ser compartida con ellos de manera directa y frecuente.
 
 ### Principios
 Tanto el Guardián como los jugadores tienen directrices de juego que ayudan a fomentar una experiencia de juego específica definida por el pensamiento crítico, la exploración y la narrativa emergente.
@@ -64,47 +64,47 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 ### Información
 -   Proporciona información útil acerca del mundo mientras los personajes lo exploran.
 -   Los jugadores no requieren tiradas de dados para reconocer las circunstancias en las que se encuentran.   
--   Se práctico y directo con tus  respuestas a las preguntas de los jugadores.
+-   Se práctico y directo con sus  respuestas a las preguntas de los jugadores.
 -   Responde con sinceridad, describe con coherencia y siempre deja saber a los jugadores que pueden seguir haciendo preguntas.
 
 ### Dificultad
 -   Apuesta por el contexto y el realismo, en vez de por los números y las mecánicas.
 -   Si algo que los jugadores quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
 -   ¿Es creíble lo que el jugador describe y cómo aprovecha la situación? Deja que ocurra.    
--   Las Tiradas de Salvación cubre una gran cantidad de situaciones inciertas y frecuentemente es todo lo que se necesita para lidiar con las acciones de riesgo.
+-   Las Tiradas de Salvación cubren una gran cantidad de situaciones inciertas y suele ser todo lo que se necesita para lidiar con las situaciones de riesgo.
 
 ### Preparación
--   El mundo del juego es orgánico, maleable y aleatorio. Se intuye y da giros bruscos.
--   Use tablas aleatorias y generadores para desarrollar situaciones, no historias o tramas.
+-   El mundo del juego es orgánico, maleable y aleatorio. Es intuitivo y da giros bruscos.
+-   Usa tablas aleatorias y generadores para desarrollar situaciones, no historias ni tramas.
 -   Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo ellos afectan el mundo.
 -   Los PNJ no desean morir. Infunda a cada uno de ellos su propias razones y voluntad de vivir.
 
 ### Concentrarse en la Narrativa  
--   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores oportunidades para que se entrenen en el manejo de armas o incluso misiones de caracter personal que faciliten la mejora y especialización de su personaje.
--   Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas.
+-   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores oportunidades para que se entrenen en el manejo de armas o incluso misiones de caracter personal que faciliten el crecimiento y la especialización de su personaje.
+-   Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas para alcanzarlos.
 -   Una daga en la garganta te matará, independientemente de tu costosa armadura e impresionante entrenamiento.
 
 ### Peligro  
 -   El mundo del juego produce un riesgo real de sufrimiento y muerte a los personajes jugadores.   
--   Avisa a los jugadores cuanto un peligro serio está presente. Mientras más peligroso, más obvio será.
--   Ponga trampas visibles y deje que los jugadores se tomen su tiempo para encontrar una solución.
--   Ofrezca a los jugadores oportunidades para resolver problemas e interactuar con el mundo
+-   Avisa a los jugadores cuanto un peligro serio está presente. Mientras más peligroso, más obvio.
+-   Pon trampas visibles y deja que los jugadores se tomen su tiempo para encontrar una solución.
+-   Ofrece a los jugadores oportunidades para resolver problemas e interactuar con el mundo.
 
 ### Tesoro
--   Un tesoro es muy específico del entorno del cual fue recuperado. Por sí mismo, cuenta una historia.    
+-   Un tesoro es muy específico al entorno del que fue recuperado. Este cuenta una historia por sí mismo.    
 -   El tesoro es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y prestigio.
 -   Las reliquias no son Tesoros, aunque son útiles e interesantes.
--   Utilice el Tesoro como señuelo para que los personajes lleguen a lugares exóticos bajo el dominio de enemigos intimidantes.
+-   Utiliza el Tesoro como señuelo para que los personajes lleguen a lugares exóticos bajo el dominio de enemigos intimidantes.
 
-### Opciones  
--   Ofrezca a los jugadores una opción interesante para forzar su elección cuando la situación esté en calma.    
--   Use preguntas dicotómicas como:  “entonces ¿A o B?”, cuando sus intenciones no son claras.
+### Elección  
+-   Cuando la situación se calme ofrece a los jugadores una opción interesante para forzar su elección.
+-   Cuando las intenciones de los jugadores no sean claras utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
 -   Colaboren todos juntos en este diálogo para mantener el juego en movimiento.
--   Asegúrese de que las acciones de los personajes de los jugadores dejen su huella en el mundo.
+-   Asegúrate de que las acciones de los personajes de los jugadores dejen su huella en el mundo.
 
 ### Dado del Destino  
--   De vez en cuando querrá un elemento de aleatoriedad en su partida (por ejemplo: clima, conocer a un personaje único, etc.).    
--   En esas situaciones, tira 1d6. Un resultado de 4 o más favorece generalmente a los jugadores.
+-   De vez en cuando querrás un elemento de aleatoriedad en su partida (por ejemplo: clima, conocer a un personaje único, etc.).    
+-   En esas situaciones, tira 1d6. Un resultado de 4 o más suelen favorecer a los jugadores.
 -   Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
 
 [regresar al contenido](#contenido)
@@ -113,12 +113,12 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 ## Principios para los Jugadores
 ### Agencia de los Personajes
 -   Las Características y las Tiradas de Salvación no definen a los personajes. Estos valores son solo herramientas.    
--   No solo te preguntes qué haría el personaje en esa situación, también tienes que cuestionarte qué harías tú.
--   Sea creativo con su intuición, objetos y relaciones.
+-   No solo te preguntes qué haría tu personaje en cada situación; también pregúntate qué es lo que tú harías.
+-   Utiliza tu intuición, objetos y conexiones de manera creativa.
 
 ### Trabajo en Equipo
--   Siempre busque el consenso de los demás jugadores antes de avanzar.    
--   Manténganse en el mismo canal en cuanto a los objetivos y los límites, respétense entre sí y logren más como grupo que como jugadores separados.
+-   Siempre busca el consenso de los demás jugadores antes de avanzar.    
+-   Mantengan un acuerdo claro entorno a los objetivos y  límites del grupo, respétense mutuamente para lograr en conjunto lo que no pueden lograr por separado.
 
 ### Exploración
 -   Hacer preguntas y escuchar los detalles es más útil que cualquier estadística, objeto o habilidad que tengas.    
@@ -127,15 +127,15 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 
 ### Interactuando con Personajes no Jugadores
 -   Trata a los PNJ como si fueran personas reales y confía en tu curiosidad para obtener información y resolver problemas de forma segura.    
--   Encontrarás que la mayoría de la gente es interesante y querrá hablar las cosas antes de ponerse violenta.
+-   Pronto descubrirás que la mayoría de las personas son interesantes y que querrán hablar o dialogar antes de recurrir a la violencia.
 
-### Se Precavido
--   Pelear es una elección y rara vez una sabia, considere si la violencia es la mejor manera de lograr sus objetivos.    
--   Sume las probabilidades a su favor y retírese cuando las cosas parecen desfavorables.
+### Sea Precavido
+-   Pelear es una elección, y rara vez es la más sabia. Considera si la violencia es la mejor manera de lograr tus objetivos.    
+-   Trata de aumentar las probabilidades a tu favor y retírate cuando las cosas parecen desfavorables.
 
-### Preparese
+### Prepárate
 -   Piense en formas de evitar obstáculos, mediante misiones de reconocimiento, la sutileza y la búsqueda de información.    
--   Investige un poco y pregunte acerca de sus objetivos.
+-   Investiga y has preguntas acerca de tus objetivos.
 
 ### Sea Ambicioso
 -   Establezca sus objetivos y utilice lo poco que tiene disponible para dar pasos hacia adelante.    
@@ -408,32 +408,32 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Libro de Hechizos (d100)
 
 |||||||||
-|---|-----------------|---|----------------|---|---------------|---|---------------|
-|1  |Acelerar           |26 |Earthquake      |51 |Masquerade     |76 |Smoke Form     |
-|2  |Adherir           |27 |Elasticity      |52 |Miniaturize    |77 |Sniff          |
-|3  |Agujero   |28 |Elemental Wall  |53 |Mirror Image   |78 |Snuff          |
-|4  |Aire líquido |29 |Filch           |54 |Mirrorwalk     |79 |Sort           |
-|5  |Alterar gravedad       |30 |Flare           |55 |Multiarm       |80 |Spectacle      |
-|6  |Amortiguador mágico    |31 |Fog Cloud       |56 |Night Sphere   |81 |Spellsaw       |
-|7  |Ancla          |32 |Frenzy          |57 |Objectify      |82 |Spider Climb   |
-|8  |Antropomorfizar |33 |Gate            |58 |Ooze Form      |83 |Summon Cube    |
-|9  |Arrebatar           |34 |Gravity Shift   |59 |Pacify         |84 |Swarm          |
-|10 |Atadura invisible      |35 |Greed           |60 |Phobia         |85 |Telekinesis    |
-|11 |Beast Form       |36 |Haste           |61 |Pit            |86 |Telepathy      |
-|12 |Befuddle         |37 |Hatred          |62 |Primal Surge   |87 |Teleport       |
-|13 |Body Swap        |38 |Hear Whispers   |63 |Push/Pull      |88 |Target Lure    |
-|14 |Charm            |39 |Hover           |64 |Raise Dead     |89 |Thicket        |
-|15 |Command          |40 |Hypnotize       |65 |Raise Spirit   |90 |Summon Idol    |
-|16 |Comprehend       |41 |Icy Touch       |66 |Read Mind      |91 |Time Control   |
-|17 |Cone of Foam     |42 |Identify Owner  |67 |Repel          |92 |True Sight     |
-|18 |Control Plants   |43 |Illuminate      |68 |Scry           |93 |Upwell         |
-|19 |Control Weather  |44 |Invisible Tether|69 |Sculpt Elements|94 |Vision         |
-|20 |Cure Wounds      |45 |Knock           |70 |Sense          |95 |Visual Illusion|
-|21 |Deafen           |46 |Leap            |71 |Shield         |96 |Ward           |
-|22 |Detect Magic     |47 |Liquid Air      |72 |Shroud         |97 |Web            |
-|23 |Disassemble      |48 |Magic Dampener  |73 |Shuffle        |98 |Widget         |
-|24 |Disguise         |49 |Manse           |74 |Sleep          |99 |Wizard Mark    |
-|25 |Displace         |50 |Marble Craze    |75 |Slick          |100|X-Ray Vision   |
+|---|-----------------------|---|--------------------|---|-------------------|---|------------------|
+|1  |Acelerar               |26 |Curar heridas       |51 |Herramienta        |76 |Oír susurros      |
+|2  |Adherir                |27 |Desmontar           |52 |Hipnotizar         |77 |Ojo arcano        |
+|3  |Agujero                |28 |Desplazar           |53 |Hogar              |78 |Oleada primigenia |
+|4  |Aire líquido           |29 |Detectar magia      |54 |Identificar dueño  |79 |Oler              |
+|5  |Alterar gravedad       |30 |Disfraz             |55 |Iluminar           |80 |Pacificar         |
+|6  |Amortiguador mágico    |31 |Dormir              |56 |Ilusión auditiva   |81 |Prisión astral    |
+|7  |Ancla                  |32 |Elasticidad         |57 |Ilusión visual     |82 |Proteger          |
+|8  |Antropomorfizar        |33 |Empujar/tirar       |58 |Imagen espejo      |83 |Puerta            |
+|9  |Arrebatar              |34 |Encantar            |59 |Intercambiar       |84 |Puerta espejo     |
+|10 |Atadura invisible      |35 |Enjambre            |60 |Invocar cubo       |85 |Repeler           |
+|11 |Atraer                 |36 |Ensordecer          |61 |Invocar ídolo      |86 |Resbalar          |
+|12 |Balbuceo               |37 |Escalda de araña    |62 |Leer mentes        |87 |Salto             |
+|13 |Bengala                |38 |Escudo              |63 |Levantar espíritu  |88 |Sentir            |
+|14 |Brazo múltiple         |39 |Esculpir materia    |64 |Levantar muerto    |89 |Señalar objetivo  |
+|15 |Cambio de cuerpo       |40 |Esfera nocturna     |65 |Levitar            |90 |Tela              |
+|16 |Canicas                |41 |Espectáculo         |66 |Machete            |91 |Telequinesis      |
+|17 |Clasificar             |42 |Espesura            |67 |Manantial          |92 |Telepatía         |
+|18 |Codicia                |43 |Espiar              |68 |Marca de mago      |93 |Teletransportar   |
+|19 |Comandar               |44 |Extingir            |69 |Mascarada          |94 |Terremoto         |
+|20 |Comprender             |45 |Flor carnada        |70 |Miniaturizar       |95 |Toque             |
+|21 |Confundir              |46 |Fobia               |71 |Muro elemental     |96 |Toque helado      |
+|22 |Cono de espuma         |47 |Forma bestial       |72 |Nube de niebla     |97 |Velo              |
+|23 |Controlar el clima     |48 |Forma de humo       |73 |Objetivar          |98 |Visión            |
+|24 |Controlar el tiempo    |49 |Forma de limo       |74 |Objeto animado     |99 |Visión de rayos X |
+|25 |Controlar plantas      |50 |Frenesí             |75 |Odio               |100|Visión verdadera  |
 
 <p></p>
 
@@ -473,7 +473,7 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |Bolsa de piel encerada                       |5                |Mula (+6 espacios, lenta)|30         |
 |Botas con pinchos                            |5                |Olla para cocinar        |10         |
 |Caballo (+4 espacios)                        |75               |Pala                     |5      |
-|Cadena (10 pies)                             |10               |Palanca                  |10        |
+|Cadena (3 mts)                               |10               |Palanca                  |10        |
 |Canica de cristal                            |5                |Pegamento                |5         |
 |Caña de pescar                               |10               |Pico                     |10        |
 |Carreta (+4 espacios, voluminosa)            |30               |Pintura facial           |10        |
@@ -483,15 +483,15 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |Clavo                                        |1                |Raciones (tres días)     |10         |
 |Cuerno                                       |10               |Red                      |10         |
 |Cubo                                         |5                |Reloj de arena           |50         |
-|Escalera (voluminosa, 10 pies)               |10               |Saco                     |5         |
+|Escalera (voluminosa, 3 mts)                 |10               |Saco                     |5         |
 |Espejo                                       |5                |Saco de dormir           |5         |
 |Esponja grande                               |5                |Serrucho                 |5         |
-|Esposas                                      |10               |Soga (25 pies)           |5         |
+|Esposas                                      |10               |Soga (8 mts)             |5         |
 |Fuelle                                       |10               |Taladro manual           |10        |
 |Gancho de agarre                             |25               |Tienda (para 2 personas, voluminosa)                |20        |
 |Ganzúas                                      |25               |Tiza                     |1        |
 |Grasa                                        |10               |Trampa grande            |20         |
-|Incienso                                     |10               |Vara (10 pies)           |5    |
+|Incienso                                     |10               |Vara (3 mts)             |5    |
 |Jabón                                        |1                |Vejiga Natatoria         |5        |
 
 <p></p>
@@ -527,7 +527,7 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |Espada elegante (1d8)                       |
 |Arco recurvo (1d8)                         |
 |Ropa recubierta en oro (1 Armadura)                  |
-|Libro de hechizos (_Encantar_ o _Detectar_)               |
+|Libro de hechizos (_Encantar_ o _Detectar magia_)               |
 |Flauta dorada                             |
 |Vejiga Natatoria                              |
 
@@ -791,7 +791,7 @@ Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de maner
 - Aprecia los Libro de hechizos; dispuestos a negociar.
 
 **Hombre encapuchado**  
-12 PG, 9 FUE, 12 DES, 14 VOL, Báculo de poder (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/Jalar, Escudo_)
+12 PG, 9 FUE, 12 DES, 14 VOL, Báculo de poder (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
 - Los Vigilantes del bosque; un culto que deriva su poder de líneas místicas, piedras rúnicas y similares.
 - Daño Crítico: absorbe una parte del alma de la víctima (1d4 de daño a la VOL).
 
@@ -851,108 +851,108 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 
 ## 100 Hechizos
 
-|      |                                         |                                                              |
-| ---- | --------------------------------------- | ------------------------------------------------------------ |
-| 1    | [Adhere](#adhere)                       | An object is covered in extremely sticky slime.              |
-| 2    | [Anchor](#anchor)                       | A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side. |
-| 3    | [Animate Object](#animate-object)       | An object obeys your commands as best it can.                |
-| 4    | [Anthropomorphize](#anthropomorphize)   | An animal either gains human intelligence or human appearance for one day. |
-| 5    | [Arcane Eye](#arcane-eye)               | You can see through a magical floating eyeball that flies around at your command. |
-| 6    | [Astral Prison](#astral-prison)         | An object is frozen in time and space within an invulnerable crystal shell. |
-| 7    | [Attract](#attract)                     | Two objects are strongly magnetically attracted to each other if they come within 10 feet. |
-| 8    | [Auditory Illusion](#auditory-illusion) | You create illusory sounds that seem to come from a direction of your choice. |
-| 9    | [Babble](#babble)                       | A creature must loudly and clearly repeat everything you think It is otherwise mute. |
-| 10   | [Bait Flower](#bait-flower)             | A plant sprouts from the ground that emanates the smell of decaying flesh. |
-| 11   | [Beast Form](#beast-form)               | You and your possessions transform into a mundane animal.    |
-| 12   | [Befuddle](#befuddle)                   | A creature of your choice is unable to form new short-term memories for the duration of the spell. |
-| 13   | [Body Swap](#body-swap)                 | You switch bodies with a creature you touch If one body dies, the other dies as well. |
-| 14   | [Charm](#charm)                         | A creature you can see treats you as a friend.               |
-| 15   | [Command](#command)                     | A target obeys a single three-word command that does not cause it harm. |
-| 16   | [Comprehend](#comprehend)               | You become fluent in all languages for a short while.        |
-| 17   | [Cone of Foam](#cone-of-foam)           | Dense foam sprays from your hand, coating the target.        |
-| 18   | [Control Plants](#control-plants)       | Nearby plants and trees obey you and gain the ability to move at a slow pace. |
-| 19   | [Control Weather](#control-weather)     | You may alter the type of weather at will, but you do not otherwise control it. |
-| 20   | [Cure Wounds](#cure-wounds)             | Restore 1d4 STR per day to a creature you can touch.         |
-| 21   | [Deafen](#deafen)                       | All nearby creatures are deafened.                           |
-| 22   | [Detect Magic](#detect-magic)           | You can see or hear nearby magical auras.                    |
-| 23   | [Disassemble](#disassemble)             | Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them. |
-| 24   | [Disguise](#disguise)                   | You may alter the appearance of one character at will as long as they remain humanoid Attempts to duplicate other characters will seem uncanny. |
-| 25   | [Displace](#displace)                   | An object appears to be up to 15ft from its actual position. |
-| 26   | [Earthquake](#earthquake)               | The ground begins shaking violently. Structures may be damaged or collapse. |
-| 27   | [Elasticity](#elasticity)               | Your body can stretch up to 10ft.                            |
-| 28   | [Elemental Wall](#elemental-wall)       | A straight wall of ice or fire 50ft long and 10ft high rises from the ground. |
-| 29   | [Filch](#filch)                         | A visible item teleports to your hands.                      |
-| 30   | [Flare](#flare)                         | A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe. |
-| 31   | [Fog Cloud](#fog-cloud)                 | A dense fog spreads out from you.                            |
-| 32   | [Frenzy](#frenzy)                       | A nearby creature erupts in a frenzy of violence.            |
-| 33   | [Gate](#gate)                           | A portal to a random plane opens.                            |
-| 34   | [Gravity Shift](#gravity-shift)         | You can change the direction of gravity, but only for yourself. |
-| 35   | [Greed](#greed)                         | A creature develops the overwhelming urge to possess a visible item of your choice. |
-| 36   | [Haste](#haste)                         | Your movement speed is tripled.                              |
-| 37   | [Hatred](#hatred)                       | A creature develops a deep hatred of another creature or group and wishes to destroy them. |
-| 38   | [Hear Whispers](#hear-whispers)         | You can hear faint sounds clearly.                           |
-| 39   | [Hover](#hover)                         | An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid. |
-| 40   | [Hypnotize](#hypnotize)                 | A creature enters a trance and will truthfully answer one yes or no question you ask it. |
-| 41   | [Icy Touch](#icy-touch)                 | A thick ice layer spreads across a touched surface, up to 10ft in radius. |
-| 42   | [Identify Owner](#identify-owner)       | Letters appear over the object you touch, spelling out the name of the object's owners, if there are any. |
-| 43   | [Illuminate](#illuminate)               | A floating light moves as you command.                       |
-| 44   | [Invisible Tether](#invisible-tether)   | Two objects within 10ft of each other cannot be moved more than 10ft apart. |
-| 45   | [Knock](#knock)                         | A nearby mundane or magical lock unlocks loudly.             |
-| 46   | [Leap](#leap)                           | You jump up to 10ft high, once.                              |
-| 47   | [Liquid Air](#liquid-air)               | The air around you becomes swimmable .                       |
-| 48   | [Magic Dampener](#magic-dampener)       | All nearby magical effects have their effectiveness halved.  |
-| 49   | [Manse](#manse)                         | A sturdy, furnished cottage appears for hours You can permit and forbid entry to it at will. |
-| 50   | [Marble Craze](#marble-craze)           | Your pockets are full of marbles, and will refill every 30 seconds. |
-| 51   | [Masquerade](#masquerade)               | A characters appearance and voice becomes identical to those of a character you touch. |
-| 52   | [Miniaturize](#miniaturize)             | A creature you touch is shrunk down to the size of a mouse.  |
-| 53   | [Mirror Image](#mirror-image)           | An illusory duplicate of yourself appears and is under your control. |
-| 54   | [Mirrorwalk](#mirrorwalk)               | A mirror becomes a gateway to another mirror that you looked into today. |
-| 55   | [Multiarm](#multiarm)                   | You temporarily gain an extra arm.                           |
-| 56   | [Night Sphere](#night-sphere)           | A 50ft wide sphere of darkness displaying the night sky appears before you. |
-| 57   | [Objectify](#objectify)                 | You become any inanimate object between the size of a grand piano and an apple. |
-| 58   | [Ooze Form](#ooze-form)                 | You become a living jelly.                                   |
-| 59   | [Pacify](#pacify)                       | A creature near you has an aversion to violence.             |
-| 60   | [Phobia](#phobia)                       | A nearby creature becomes terrified of an object of your choice. |
-| 61   | [Pit](#pit)                             | A pit 10ft wide and 10ft deep opens in the ground.           |
-| 62   | [Primal Surge](#primal-surge)           | A creature rapidly evolves into a future version of its species. |
-| 63   | [Push/Pull](#push/pull)                 | An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man. |
-| 64   | [Raise Dead](#raise-dead)               | A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders. |
-| 65   | [Raise Spirit](#raise-spirit)           | The spirit of a nearby corpse manifests and will answer 1 question. |
-| 66   | [Read Mind](#read-mind)                 | You can hear the surface thoughts of nearby creatures.       |
-| 67   | [Repel](#repel)                         | Two objects are strongly magnetically repelled from each other within 10 feet. |
-| 68   | [Scry](#scry)                           | You can see through the eyes of a creature you touched earlier today. |
-| 69   | [Sculpt Elements](#sculpt-elements)     | Inanimate material behaves like clay in your hands.          |
-| 70   | [Sense](#sense)                         | Choose one kind of object (key, gold, arrow, jug, etc). You can sense the nearest example. |
-| 71   | [Shield](#shield)                       | A creature you touch is protected from mundane attacks for one minute. |
-| 72   | [Shroud](#shroud)                       | A creature you touch is invisible until they move.           |
-| 73   | [Shuffle](#shuffle)                     | Two creatures you can see instantly switch places.           |
-| 74   | [Sleep](#sleep)                         | A creature you can see falls into a light sleep.             |
-| 75   | [Slick](#slick)                         | Every surface in a 30ft radius becomes extremely slippery.   |
-| 76   | [Smoke Form](#smoke-form)               | Your body becomes a living smoke that you can control.       |
-| 77   | [Sniff](#sniff)                         | You can smell even the faintest traces of scents.            |
-| 78   | [Snuff](#snuff)                         | The source of any mundane light you can see is instantly snuffed out. |
-| 79   | [Sort](#sort)                           | Inanimate items sort themselves according to categories you set. |
-| 80   | [Spectacle](#spectacle)                 | A clearly false but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound. |
-| 81   | [Spellsaw](#spellsaw)                   | A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless. |
-| 82   | [Spider Climb](#spider-climb)           | You can climb surfaces like a spider.                        |
-| 83   | [Summon Cube](#summon-cube)             | Once per second you may summon or banish a 3-foot-wide cube of earth New cubes must be affixed to the earth or to other cubes. |
-| 84   | [Swarm](#swarm)                         | You become a swarm of crows, rats, or piranhas You can only be harmed by blast attacks. |
-| 85   | [Telekinesis](#telekinesis)             | You may mentally 1 move item under 60lbs.                    |
-| 86   | [Telepathy](#telepathy)                 | Two creatures can hear each other's thoughts, no matter how far apart. |
-| 87   | [Teleport](#teleport)                   | An object or person you can see is transported from one place to another in a 50ft radius. |
-| 88   | [Target Lure](#target-lure)             | An object you touch becomes the target of any nearby spell.  |
-| 89   | [Thicket](#thicket)                     | A thicket of trees and dense brush up to 50ft wide suddenly sprouts up. |
-| 90   | [Summon Idol](#summon-idol)             | A carved stone statue the size of a mule rises from the ground. |
-| 91   | [Time Control](#time-control)           | Time in a 50ft bubble slows down or increases by 10% for 30 seconds. |
-| 92   | [True Sight](#true-sight)               | You see through all nearby illusions.                        |
-| 93   | [Upwell](#upwell)                       | A spring of seawater appears.                                |
-| 94   | [Vision](#vision)                       | You completely control what a creature sees.                 |
-| 95   | [Visual Illusion](#visual-illusion)     | A silent, immobile, room-sized illusion of your choice appears. |
-| 96   | [Ward](#ward)                           | A silver circle 50ft across appears on the ground. Choose one species that cannot cross it. |
-| 97   | [Web](#web)                             | Your wrists shoot thick webbing.                             |
-| 98   | [Widget](#widget)                       | A primitive version of a drawn tool or item appears before you and disappears after a short time. |
-| 99   | [Wizard Mark](#wizard-mark)             | Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you and can be seen at any distance, even through solid objects. |
-| 100  | [X-Ray Vision](#x-ray-vision)           | You can see through walls, dirt, clothing, etc.              |
+|      |                                            |                                                                                                       |
+| ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------  |
+| 1    | [Acelerar](#acelerar)                      | Triplicas tu velocidad de movimiento.                                                                 |
+| 2    | [Adherir](#adherir)                        | Cubre un objeto de una baba extremadamente pegajosa.                                                  |
+| 3    | [Agujero](#agujero)                        | Un agujero de 3 mts de ancho y profundidad se abre en el suelo.                                       |
+| 4    | [Aire líquido](#aire-líquido)              | El aire a tu alrededor se vuelve apto para nadar.                                                     |
+| 5    | [Alterar gravedad](#alterar-gravedad)      | Cambias la dirección de la gravedad. Solo tú te ves afectado.                                         |
+| 6    | [Amortiguador mágico](#astral-prison)      | Todos los efectos mágicos cercanos reducen su efectividad a la mitad.                                 |
+| 7    | [Ancla](#ancla)                            | Un resistente cable brota de tus brazos, fijándote en dos puntos a 15 metros a cada lado.             |
+| 8    | [Antropomorfizar](#antropomorfizar)        | Un animal adquiere inteligencia o apariencia humana durante un día.                                   |
+| 9    | [Arrebatar](#arrebatar)                    | Un objeto que puedas ver se transporta a tu mano.                                                     |
+| 10   | [Atadura invisible](#atadura-invisible)    | Dos objetos a menos de 3 mts uno del otro no pueden separarse a más de 3 mts de distancia.            |
+| 11   | [Atraer](#beast-form)                      | Dos objetos se atraen fuertemente de manera magnética entre sí, si se acercan a 3 metros.             |
+| 12   | [Balbuceo](#balbuceo)                      | Una criatura debe repetir en voz alta y clara todo lo que piensas. De lo contrario, se queda mudo.    |
+| 13   | [Bengala](#bengala)                        | Disparas una esfera de energía brillante hacia el cielo, revelando tu ubicación a cualquier aliado o enemigo.|
+| 14   | [Brazo múltilpe](#brazo-multiple)          | Temporalmente obtienes un brazo extra.                                                                |
+| 15   | [Cambio de cuerpo](#cambio-de-cuerpo)      | Cambias de cuerpo con una criatura que toques. Si un cuerpo muere, el otro también muere.             |
+| 16   | [Canicas](#canicas)                        | Tus bolsillos se llenan de canicas, y vuelven a llenarse cada 30 segundos.                            |
+| 17   | [Clasificar](#clasificar)                  | Los objetos inanimados se organizan a sí mismos según las categorías que determines.                  |
+| 18   | [Codicia](#codicia)                        | Una criatura desarrolla un impulso abrumador de poseer un objeto visible a tu elección.               |
+| 19   | [Comandar](#comandar)                      | Un objetivo obedece un comando de tres palabras siempre y cuando no le cause daño.                    |
+| 20   | [Comprender](#comprender)                  | Dominas todos los idiomas durante un periodo corto de tiempo.                                         |
+| 21   | [Confundir](#confundir)                    | Una criatura de tu elección no puede formar recuerdos a corto plazo mientras dure el hechizo.                         |
+| 22   | [Cono de espuma](#cono-de-espuma)          | Una densa espuma emerge de tus manos, cubriendo al objetivo.                                          |
+| 23   | [Controlar el clima](#controlar-el-clima)  | Puedes alterar el tipo de clima a voluntad, pero no controlarlo.                                      |
+| 24   | [Controlar el tiempo](#controlar-el-tiempo)| El tiempo dentro de una burbuja de 15 mts se alenta o acelera en un 10% por 30 segundos.              |
+| 25   | [Controlar plantas](#controlar-plantas)    | Los árboles y plantas cercanas te obedecen y obtienen la habilidad de moverse lentamente.             |
+| 26   | [Curar heridas](#curar-heridas)            | Recupera 1d4 de FUE una vez al día a una criatura que puedas tocar.                                   |
+| 27   | [Desmontar](#desmontar)                    | Puedes desmontar y montar cualquier parte de tu cuerpo a voluntad, sin causar daño ni dolor. Mantienes control sobre las partes desmontadas.                            |
+| 28   | [Desplazar](#desplazar)                    | Un objeto parece estar a 5 metros de su posición real.                                                |
+| 29   | [Detectar magia](#detectar-magia)          | Puedes ver u oír las auras mágicas cercanas.                                                          |
+| 30   | [Disfraz](#disfraz)                        | Puedes alterar la apariencia de un personaje a voluntad, siempre y cuando sea humanoide. Imitar la apariencia de otros personajes tendrá un resultado extraño. |
+| 31   | [Dormir](#dormir)                          | Una criatura que puedas ver cae en un sueño ligero.                                                   |
+| 32   | [Elasticidad](#elasticidad)                | Tu cuerpo puede estirarse hasta 3 metros.                                                             |
+| 33   | [Empujar/tirar](#empujar/tirar)            | Un objeto de cualquier tamaño es lanzado en tu dirección, o empujado directamente desde ti con la fuerza de un hombre.                            |
+| 34   | [Encantar](#encantar)                      | Una criatura que puedes ver te trata como a un amigo.                                                 |
+| 35   | [Enjambre](#enjambre)                      | Te conviertes en un enjambre de cuervos, ratas o pirañas. Solo puedes ser afectado por ataques de “golpe por alcance”. |
+| 36   | [Ensordecer](#ensordecer)                  | Todas las criaturas cercanas pierden la audición.                                                     |
+| 37   | [Escala de araña](#escalada-de-araña)      | Puedes escalar superficies como una araña.                                                            |
+| 38   | [Escudo](#escudo)                          | Una criatura que toques es protegida de los ataques comunes por un minuto.                            |
+| 39   | [Escupir materia](#esculpir-materia)       | Los materiales inanimados se comportan como arcilla entre tus manos.                                  |
+| 40   | [Esfera nocturna](#esfera-nocturna)        | Una esfera de oscuridad de 15 mts de ancho que contiene el cielo nocturno aparece frente a ti.        |
+| 41   | [Espectáculo](#espectáculo)                | Una ilusión claramente falsa e impresionante aparece bajo tu control. Puede ser tan grande como un palacio y tiene movimiento y sonido. |
+| 42   | [Espesura](#espesura)                      | Un matorral de árboles y arbustos densos de hasta 15 mts. de ancho brota repentinamente.              |
+| 43   | [Espiar](#espiar)                          | Puedes ver a través de los ojos de una criatura que hayas tocado durante el día.                      |
+| 44   | [Extingir](#extingir)                      | Las fuentes de luz comunes que puedas ver se apagan instantáneamente.                                 |
+| 45   | [Flor carnada](#flor-carnada)              | Una planta brota del suelo y emana el olor a carne en descomposición.                                 |
+| 46   | [Fobia](#fobia)                            | Una criatura cercana se aterroriza de un objeto a tu elección.                                        |
+| 47   | [Forma bestial](#forma-bestial)            | Tú y tus posesiones se transforman en un animal común.                                                |
+| 48   | [Forma de humo](#forma-de-humo)            | Tu cuerpo se convierte en una nube de humo viviente que puedes controlar.                             |
+| 49   | [Forma de limo](#forma-de-limo)            | Te conviertes en una gelatina viviente.                                                               |
+| 50   | [Frenesí](#frenesí)                        | Una criatura cercana estalla en un frenesí de violencia.                                              |
+| 51   | [Herramienta](#herramienta)                | Una versión primitiva de una herramienta u objeto aparece frente a ti y desaparece luego de un momento.  |
+| 52   | [Hipnotizar](#hipnotizar)                  | Una criatura entra en trance y responderá con sinceridad una pregunta que le hagas con “sí” o “no”.   |
+| 53   | [Hogar](#hogar)                            | Haces aparecer una cabaña robusta y amueblada durante 12 horas. Puedes decidir quién puede entrar y quién no. |
+| 54   | [Identificar dueño](#identificar-dueño)    | Aparecen letras sobre el objeto que toques, indicando el nombre de su dueño, siempre y cuando lo tenga.  |
+| 55   | [Iluminar](#iluminar)                      | Una luz flotante se mueve  a tu voluntad.                                                             |
+| 56   | [Ilusión auditiva](#ilusión-auditiva)      | Crea la ilusión de sonidos que parecen provenir de una dirección de tu elección.                      |
+| 57   | [Ilusión visual](#ilusión-visual)          | Haces aparecer una ilusión del tamaño de una habitación, inmovil y silenciosa.                        |
+| 58   | [Imagen Espejo](#Imagen-Espejo)            | Un duplicado ilusorio de tí mismo aparece bajo tu control.                                            |
+| 59   | [Intercambiar](#intercambiar)              | Dos criaturas que puedas ver intercambian posiciones.                                                 |
+| 60   | [Invocar cubo](#invocar-cubo)              | Una vez por segundo puedes invocar o desterrar un cubo de tierra de un metro de ancho. Los nuevos cubos deben adherirse a la tierra o a otros cubos. |
+| 61   | [Invocar ídolo](#invocar-ídolo)            | Una estatua de piedra tallada del tamaño de una mula emerge desde el suelo.                           |
+| 62   | [Leer mentes](#leer-mentes)                | Puedes oír los pensamientos superficiales de las criaturas                                            |
+| 63   | [Levantar espíritu](#levantar-espíritu)    | El espíritu de un cuerpo cercano se manifiesta y responde una pregunta.                               |
+| 64   | [Levantar muerto](#levantar-muerto)        | Un esqueleto emerge del suelo para servirte. Es increiblemente estúpido  y solo puede seguir órdenes sencillas. |               
+| 65   | [Levitar](#levitar)                        | Un objeto levita sin fricción a 60 cm del suelo. Puede aguantar hasta el peso de un humanoide.        |
+| 66   | [Machete](#machete)                        | Una cuchilla giratoria sale volando de tu pecho, cortando cualquier material vegetal en su camino. Es inofensiva contra cualquier otro material.       |
+| 67   | [Manantial](#manantial)                    | Haces aparecer un manantial de agua de mar.                                                           |
+| 68   | [Marca de mago](#marca-de-mago)            | Lanzas un chorro de pintura de un color imposible. Solo tú puedes ver esta pintura, a cualquier distancia e incluso a través de objetos sólidos.  |
+| 69   | [Mascarada](#mascarada)                    | La voz y apariencia de un personaje se vuelven idénticas a las de un personaje que toques.            |
+| 70   | [Miniaturizar](#miniaturizar)              | Una criatura que toques es reducida al tamaño de un ratón.                                            |
+| 71   | [Muro elemental](#muro-elemental)          | Un muro recto de 15mt de largo y 3mt de ancho, hecha de fuego o hielo, emerge desde el suelo.         |
+| 72   | [Nube de niebla](#nube-de-niebla)          | Produces una espesa nube de niebla desde tu ubicación.                                                |
+| 73   | [Objetivar](#objetivar)                    | Te conviertes en un objeto inanimado. Puede ser tan grande como un piano o pequeño como una manzana.            |
+| 74   | [Objeto animado](#objeto-animado)          | Un objeto obedece tus órdenes lo mejor que puede.                                                     |
+| 75   | [Odio](#odio)                              | Una criatura desarrolla un profundo odio por otra criatura o grupo y desea destruirlas.               |
+| 76   | [Oír susurros](#oír-susurros)              | Puedes escuchar sonidos débiles con claridad.                                                         |
+| 77   | [Ojo Arcano](#ojo-arcano)                  | Puedes ver a través de un globo ocular mágico y flotante que vuela a tu alrededor.                    |
+| 78   | [Oleada Primigenia](#oleada-primigenia)    | Una criatura evoluciona rápidamente en una versión futura de su especie.                              |
+| 79   | [Oler](#oler)                              | Puedes oler incluso los más mínimos rastros de aromas.                                                |
+| 80   | [Pacificar](#pacificar)                    | Una criatura cercana desarrolla aversión a la violencia.                                              |
+| 81   | [Prisión astral](#prision-astral)          | Congela un objeto en el tiempo y el espacio dentro de una coraza de cristal invulnerable.             |
+| 82   | [Proteger](#proteger)                      | Un círculo plateado de 15 mts aparece sobre el suelo. Escoge una especie que no puede atravesarlo.                        |
+| 83   | [Puerta](#puerta)                          | Abres un portal a un plano aleatorio. |
+| 84   | [Puerta Espejo](#puerta-espejo)            | Conviertes un espejo en un portal hacia otro espejo que hayas visto durante el día.                   |
+| 85   | [Repeler](#repeler)                        | Dos objetos se repelen magnéticamente en un radio de 3 mts.                                           |
+| 86   | [Resbalar](#resbalar)                      | Toda superficie en un radio de 9 mts se vuelve extremadamente resbaladiza.                            |
+| 87   | [Salto](#salto)                            | Saltas hasta 3 metros una única vez.                                                                  |
+| 88   | [Sentir](#sentir)                          | Elige un tipo de objeto (llave, oro, flecha, jarra, etc). Puedes sentir el que se encuentre más cerca.  |
+| 89   | [Señalar objetivo](#señalar-objetivo)      | Un objeto que toques se convierte en el objetivo de cualquier hechizo cercano.                        |
+| 90   | [Tela](#tela)                              | Lanzas una tela gruesa desde tus muñecas.                                                             |
+| 91   | [Telequinesis](#telequinesis)              | Puedes mover un objeto de menos de 30 kg con la mente.                                                |
+| 92   | [Telepatía](#telepatia)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren.                       |
+| 93   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver de un lugar a otro en un radio de 15 mts.                                |
+| 94   | [Terremoto](#terremoto)                    | La tierra se sacude violentamente. Las estructuras colapsarán o sufrirán daño.                        |
+| 95   | [Toque](#toque)                            | Una cerradura común o mágica cercana se abre ruidosamente.                                            |
+| 96   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3mt.        |
+| 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva                                       |
+| 98   | [Visión](#visión)                          | Controlas completamente lo que ve una criatura.                                                       |
+| 99   | [Visión de rayos X](#visión-de-rayos-X)    | Puedes ver a través de las paredes, tierra, tela, etc.                                                |
+| 100  | [Visión verdadera](#visión-verdadera)      | Ves a través de todas las ilusiones cercanas.                                                         |
 
 
 [regresar al contenido](#contenido)
