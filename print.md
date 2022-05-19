@@ -2,6 +2,7 @@
 layout: default
 title: Versión física
 nav_order: 3
+nav_exclude: true
 ---
 
 # ¡Consígue tu copia física!
