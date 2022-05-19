@@ -10,7 +10,7 @@ nav_order: 2
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-La traducción al español de Cairn SRD con permiso del autor se realizó por [Antigona](https://twitter.com/Antigona_404), [La esquina del rol](https://twitter.com/laesquinadelrol) y Alinel.
+La traducción al español de Cairn SRD con permiso del autor se realizó por [Antigona](https://twitter.com/Antigona_404), [La esquina del rol](https://twitter.com/laesquinadelrol) y Alinel. Las correcciones estuvieron a cargo de calpurnio pisón.
 
 Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluyendo Word, Affinity, Google Docs, etc.).
 
@@ -31,7 +31,7 @@ Los jugadores actúan como aventureros inquebrantables que exploran un bosque so
 
 ## Sumario
 
-**Cairn** fue escrito con la siguiente filosofía de diseño en mente::
+**Cairn** fue escrito con la siguiente filosofía de diseño en mente:
 
 ### Neutralidad
 El rol del Guardián es presentar las reglas, situaciones, Personajes no Jugadores (PNJ) y la historia de manera clara, mientras actúa como un árbitro neutral.
@@ -148,7 +148,7 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 ## Crear el Personaje
 
 #### Nombre, Bagaje y Rasgos
-Primero, elija o tire por el **nombre** y **bagaje** del personaje en la [tabla](#name--background-d20) respectiva. El bagaje de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
+Primero, elija o tire por el **nombre** y **bagaje** del personaje en la [tabla](#nombre-y-Bagaje-d20) respectiva. El bagaje de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
 
 Luego, realiza tiradas para el resto de rasgos de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#rasgos-del-personaje-d10).
 
@@ -734,8 +734,8 @@ Si pelea desde una posición de ventaja (como contra un enemigo indefenso o medi
 ### Ataque con Dos Armas
 Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el único resultado más alto.
 
-### Golpe por Alcance
-Los ataque con la cualidad **Golpe por alcance** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El golpe por alcance se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
+### Estallido
+Los ataque con la cualidad **Estallido** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El Estallido se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
 
 ### Daño Crítico
 El daño que reduce la PG de un objetivo por debajo de cero disminuye la FUE de un objetivo en la cantidad restante. Luego, el objetivo tiene que hacer una tirada de salvación de FUE para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla en una tirada de salvación de daño crítico.
@@ -801,7 +801,7 @@ Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de maner
 - No se ve afectado por las técnicas de persuasión mundanas, pero ama un buen hueso.
 
 **Troll del bosque**   
-12 PG, 15 FUE, 12 DES, 7 WOL, garras y mordida (d8+d8 golpe por alcance)
+12 PG, 15 FUE, 12 DES, 7 WOL, garras y mordida (d8+d8 estallido)
 - Como acción, puede recuperar PG perdidos.
 - Daño crítico: comienzan a crecer musgo y ramas de las heridas del objetivo.
 
@@ -887,16 +887,16 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 32   | [Elasticidad](#elasticidad)                | Tu cuerpo puede estirarse hasta 3 metros.                                                             |
 | 33   | [Empujar/tirar](#empujar/tirar)            | Un objeto de cualquier tamaño es lanzado en tu dirección, o empujado directamente desde ti con la fuerza de un hombre.                            |
 | 34   | [Encantar](#encantar)                      | Una criatura que puedes ver te trata como a un amigo.                                                 |
-| 35   | [Enjambre](#enjambre)                      | Te conviertes en un enjambre de cuervos, ratas o pirañas. Solo puedes ser afectado por ataques de “golpe por alcance”. |
+| 35   | [Enjambre](#enjambre)                      | Te conviertes en un enjambre de cuervos, ratas o pirañas. Solo puedes ser afectado por ataques de “estallido”. |
 | 36   | [Ensordecer](#ensordecer)                  | Todas las criaturas cercanas pierden la audición.                                                     |
 | 37   | [Escala de araña](#escalada-de-araña)      | Puedes escalar superficies como una araña.                                                            |
-| 38   | [Escudo](#escudo)                          | Una criatura que toques es protegida de los ataques comunes por un minuto.                            |
+| 38   | [Escudo](#escudo)                          | Una criatura que toques es protegida de los ataques mundanos por un minuto.                           |
 | 39   | [Escupir materia](#esculpir-materia)       | Los materiales inanimados se comportan como arcilla entre tus manos.                                  |
 | 40   | [Esfera nocturna](#esfera-nocturna)        | Una esfera de oscuridad de 15 mts de ancho que contiene el cielo nocturno aparece frente a ti.        |
 | 41   | [Espectáculo](#espectáculo)                | Una ilusión claramente falsa e impresionante aparece bajo tu control. Puede ser tan grande como un palacio y tiene movimiento y sonido. |
 | 42   | [Espesura](#espesura)                      | Un matorral de árboles y arbustos densos de hasta 15 mts. de ancho brota repentinamente.              |
 | 43   | [Espiar](#espiar)                          | Puedes ver a través de los ojos de una criatura que hayas tocado durante el día.                      |
-| 44   | [Extingir](#extingir)                      | Las fuentes de luz comunes que puedas ver se apagan instantáneamente.                                 |
+| 44   | [Extingir](#extingir)                      | Las fuentes de luz mundanas que puedas ver se apagan instantáneamente.                                |
 | 45   | [Flor carnada](#flor-carnada)              | Una planta brota del suelo y emana el olor a carne en descomposición.                                 |
 | 46   | [Fobia](#fobia)                            | Una criatura cercana se aterroriza de un objeto a tu elección.                                        |
 | 47   | [Forma bestial](#forma-bestial)            | Tú y tus posesiones se transforman en un animal común.                                                |
@@ -947,7 +947,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 92   | [Telepatía](#telepatia)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren.                       |
 | 93   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver de un lugar a otro en un radio de 15 mts.                                |
 | 94   | [Terremoto](#terremoto)                    | La tierra se sacude violentamente. Las estructuras colapsarán o sufrirán daño.                        |
-| 95   | [Toque](#toque)                            | Una cerradura común o mágica cercana se abre ruidosamente.                                            |
+| 95   | [Toque](#toque)                            | Una cerradura mundana o mágica cercana se abre ruidosamente.                                          |
 | 96   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3mt.        |
 | 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva                                       |
 | 98   | [Visión](#visión)                          | Controlas completamente lo que ve una criatura.                                                       |
@@ -1002,7 +1002,7 @@ Nadie puede tener más de 3 de Armadura.
 
 Los ataques **sin armas** siempre hacen 1d4 de daño. Si **múltiples atacantes** apuntan al mismo enemigo, tira todos los dados de daño y quédate con el único resultado más alto. Si atacas con **dos armas** al mismo tiempo, tira ambos dados de daño y mantén el más alto.
 
-Si un ataque está en **desventaja**, el dado de daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante tira 1d12. Los ataques con la cualidad **golpe por alcance** afectan a todos los objetivos del área, tirando por separado para cada uno de ellos.
+Si un ataque está en **desventaja**, el dado de daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante tira 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando por separado para cada uno de ellos.
 
 **DAÑO**  
 Si un ataque lleva la PG de una PJ exactamente a 0, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
