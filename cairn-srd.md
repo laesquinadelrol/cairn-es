@@ -21,7 +21,7 @@ Los jugadores actúan como aventureros inquebrantables que exploran un bosque so
 - [Sumario](#sumario)
 - [Principios de los Guardianes](#principios-de-los-guardianes)
 - [Principios de los Jugadores](#principios-de-los-jugadores)
-- [Crear el Personaje](#crear-el-personaje)
+- [Creación del Personaje](#creación-del-personaje)
 - [Equipo](#listado-de-equipo-precios-en-monedas-de-oro)
 - [Reglas](#reglas)
 - [Bestiario](#bestiario)
@@ -68,27 +68,27 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   Responde con sinceridad, describe con coherencia y siempre deja saber a los jugadores que pueden seguir haciendo preguntas.
 
 ### Dificultad
--   Apuesta por el contexto y el realismo, en vez de por los números y las mecánicas.
+-   Se debe apostar por el contexto y el realismo, en vez de por los números y las mecánicas.
 -   Si algo que los jugadores quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
 -   ¿Es creíble lo que el jugador describe y cómo aprovecha la situación? Deja que ocurra.    
 -   Las Tiradas de Salvación cubren una gran cantidad de situaciones inciertas y suele ser todo lo que se necesita para lidiar con las situaciones de riesgo.
 
 ### Preparación
--   El mundo del juego es orgánico, maleable y aleatorio. Es intuitivo y da giros bruscos.
+-   El mundo del juego es orgánico, maleable y aleatorio. Se intuye y da giros bruscos.
 -   Usa tablas aleatorias y generadores para desarrollar situaciones, no historias ni tramas.
 -   Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo ellos afectan el mundo.
--   Los PNJ no desean morir. Infunda a cada uno de ellos su propias razones y voluntad de vivir.
+-   Los PNJ no desean morir. Infunda a cada uno de ellos su propio interés y voluntad de vivir.
 
 ### Concentrarse en la Narrativa  
--   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores oportunidades para que se entrenen en el manejo de armas o incluso misiones de caracter personal que faciliten el crecimiento y la especialización de su personaje.
--   Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas para alcanzarlos.
+-   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
+-   Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas.
 -   Una daga en la garganta te matará, independientemente de tu costosa armadura e impresionante entrenamiento.
 
 ### Peligro  
 -   El mundo del juego produce un riesgo real de sufrimiento y muerte a los personajes jugadores.   
 -   Avisa a los jugadores cuanto un peligro serio está presente. Mientras más peligroso, más obvio.
 -   Pon trampas visibles y deja que los jugadores se tomen su tiempo para encontrar una solución.
--   Ofrece a los jugadores oportunidades para resolver problemas e interactuar con el mundo.
+-   Ofrece a los jugadores oportunidades para resolver problemas e interactuar con el mundo
 
 ### Tesoro
 -   Un tesoro es muy específico al entorno del que fue recuperado. Este cuenta una historia por sí mismo.    
@@ -96,21 +96,22 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   Las reliquias no son Tesoros, aunque son útiles e interesantes.
 -   Utiliza el Tesoro como señuelo para que los personajes lleguen a lugares exóticos bajo el dominio de enemigos intimidantes.
 
-### Elección  
+### Opciones  
 -   Cuando la situación se calme ofrece a los jugadores una opción interesante para forzar su elección.
 -   Cuando las intenciones de los jugadores no sean claras utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
 -   Colaboren todos juntos en este diálogo para mantener el juego en movimiento.
 -   Asegúrate de que las acciones de los personajes de los jugadores dejen su huella en el mundo.
 
 ### Dado del Destino  
--   De vez en cuando querrás un elemento de aleatoriedad en su partida (por ejemplo: clima, conocer a un personaje único, etc.).    
--   En esas situaciones, tira 1d6. Un resultado de 4 o más suelen favorecer a los jugadores.
+-   De vez en cuando querrás un elemento de aleatoriedad en tu partida (por ejemplo: clima, conocer a un personaje único, etc.).    
+-   En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a los jugadores.
 -   Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
 
 [regresar al contenido](#contenido)
 <p></p>
 
 ## Principios de los Jugadores
+
 ### Agencia de los Personajes
 -   Las Características y las Tiradas de Salvación no definen a los personajes. Estos valores son solo herramientas.    
 -   No solo te preguntes qué haría tu personaje en cada situación; también pregúntate qué es lo que tú harías.
@@ -129,23 +130,23 @@ Los jugadores confían en que los demás están comprometidos con la ambientaci�
 -   Trata a los PNJ como si fueran personas reales y confía en tu curiosidad para obtener información y resolver problemas de forma segura.    
 -   Pronto descubrirás que la mayoría de las personas son interesantes y que querrán hablar o dialogar antes de recurrir a la violencia.
 
-### Sea Precavido
+### Se Precavido
 -   Pelear es una elección, y rara vez es la más sabia. Considera si la violencia es la mejor manera de lograr tus objetivos.    
 -   Trata de aumentar las probabilidades a tu favor y retírate cuando las cosas parecen desfavorables.
 
 ### Prepárate
--   Piense en formas de evitar obstáculos, mediante misiones de reconocimiento, la sutileza y la búsqueda de información.    
--   Investiga y has preguntas acerca de tus objetivos.
+-   Piensa en formas de evitar obstáculos, mediante misiones de reconocimiento, la sutileza y la búsqueda de información.    
+-   Investiga y has pregunta acerca de tus objetivos.
 
-### Sea Ambicioso
--   Establezca sus objetivos y utilice lo poco que tiene disponible para dar pasos hacia adelante.    
--   No espere nada. Gánese su reputación.
--   Ante todo, siga avanzando  y juegue para ver qué sucede.
+### Se Ambicioso
+-   Define metas y utiliza todos los medios a tu disposición para acercarte a ellas.   
+-   No des nada por garantizado. Gánate tu reputación.
+-   Manten las cosas en movimiento y juega para descubrir qué sucede.
 
 [regresar al contenido](#contenido)
 <p></p>
 
-## Crear el Personaje
+## Creación del Personaje
 
 #### Nombre, Bagaje y Rasgos
 Primero, elija o tire por el **nombre** y **bagaje** del personaje en la [tabla](#nombre-y-Bagaje-d20) respectiva. El bagaje de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
@@ -656,8 +657,8 @@ Cuando los PJ encuentre un PNJ cuya reacción al grupo no es obvia, el Guardián
 ### Moral
 Los enemigos tienen que realizar una tirada de salvación de VOL exitosa para evitar huir cuando sufren su primera baja y tienen que hacerlo de nuevo cuando se reduce a la mitad el número de combatientes aún en pie. Algunos utilizan la VOL del líder en lugar de la de sus secuaces. Enemigos solitarios tienen que realizar una tirada de salvación de VOL exitosa cuando su PG cae hasta 0. La moral no afecta a los PJ.
 
-### Ayudante
-Los PJ pueden contratar **ayudantes** para que los apoyen durante una expedición. Para crear un ayudante, tira 3d6 por cada puntuación de característica, luego asigna 1d6 PG y un arma (1d6), luego realiza las tiradas en las tablas indicadas en la sección [**Creación del Personaje**](#character-creation) para darle más forma al PNJ. Los ayudantes tienen un salario entre 1 y 3 mo por día, o se le puede pagar con una parte del tesoro que obtenga el grupo.
+### Ayudantes
+Los PJ pueden contratar **ayudantes** para que los apoyen durante una expedición. Para crear un ayudante, tira 3d6 por cada puntuación de característica, luego asigna 1d6 PG y un arma (1d6), luego realiza las tiradas en las tablas indicadas en la sección [**Creación del Personaje**](##creación-del-personaje) para darle más forma al PNJ. Los ayudantes tienen un salario entre 1 y 3 mo por día, o se le puede pagar con una parte del tesoro que obtenga el grupo.
 
 ### Riqueza y Tesoro
 La moneda más común es la moneda de oro (mo), la cual equivale a 10 monedas de plata (mp) y 100 monedas de cobre (mc).
