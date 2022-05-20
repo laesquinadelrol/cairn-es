@@ -150,9 +150,9 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 ## Creación del Personaje
 
 #### Nombre, trasfondo y rasgos
-Primero, elije (al azar o no) el **Nombre** y **Trasdondo** del personaje en la [tabla](#nombre-y-trasfondo-d20) respectiva. El trasfondo de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
+Primero, elije (al azar o no) el **Nombre** y **Trasfondo** del personaje en la [tabla](#nombre-y-trasfondo-d20) respectiva. El trasfondo de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
 
-Luego, realiza tiradas para el resto de **Rasgos** de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#rasgos-del-personaje-d10).
+Luego, realiza tiradas para el resto de **Rasgos** de tu personaje (apariencia, voz, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#rasgos-del-personaje-d10).
 
 Finalmente, realiza una tirada para determinar su **edad** (2d20+10).
 
@@ -192,13 +192,13 @@ Realiza varias tiradas en las tablas de **Equipo inicial** para determinar la ar
 
 Consulta el **Listado de equipo** para ver los valores relacionados con la armadura, daño y espacios. En ocasiones,  los objetos pequeños pueden agruparse para que ocupen un mismo espacio.
 
-Si se desea algo más parecido a las clases tradicionales, puede consultarse la lista de [**Inventarios predeterminados**](#inventarios-predeterminados).
+Si se desea algo más parecido a las clases tradicionales, puede consultarse la lista de [**Inventarios de clases predeterminadas**](#inventarios-de-clases-predeterminadas).
 
 <p></p>
 
 ## Nombre y trasfondo (d20)
 
-#### Nombres Femeninos
+#### Nombres femeninos
 
 |||||||||
 |------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -209,7 +209,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
 
 
-#### Nombres Masculinos
+#### Nombres masculinos
 
 |||||||||
 |------------|-----------|-----------|-----------|----------|---------|------|----------|
@@ -241,7 +241,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 <p></p>
 
-## Rasgos del Personaje (d10)
+## Rasgos del personaje (d10)
 
 #### Físico
 
@@ -345,7 +345,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 <p></p>
 
-## Equipo Inicial (d20)
+## Equipo inicial (d20)
 
 #### Armadura
 
@@ -354,7 +354,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |  1-3      |    4-14    |   15-19        |  20   |
 | Ninguna   | Brigantina | Cota de malla  | Armadura completa |
 
-#### Yelmos y Escudos
+#### Yelmos y escudos
 
 |  |        |        |                 |
 | :------------------: | :----: | :----: | :-------------: |
@@ -463,7 +463,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |Arco  (1d6  daño, voluminoso)                                               |20   |
 |Ballesta (1d8  daño, voluminosa)                                            |30   |
 
-#### Equipo y Herramientas
+#### Equipo y herramientas
 
 | |                |                   |          |
 |---------------------------------------------|-----------------|--------------------------------------|----------|
@@ -498,7 +498,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 <p></p>
 
-## Inventarios predeterminados  
+## Inventarios de clases predeterminadas
 
 #### Caballero
 
@@ -616,7 +616,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 ## Reglas
 ### Características
-Cada una de las tres **Características** son usadas en diferentes circunstancias (consulte Tiradas de Salvación, más adelante).
+Cada una de las tres **Características** son usadas en diferentes circunstancias (consulte **Tiradas de Salvación**, más adelante).
 
 **Fuerza (FUE)**: Se utiliza para tiradas de salvación que requieren fuerza física, como para levantar una puerta, doblar barras, resistir un veneno, etc.
 
@@ -661,7 +661,7 @@ Los enemigos tienen que realizar una tirada de salvación de VOL exitosa para ev
 ### Ayudantes
 Los PJ pueden contratar **ayudantes** para que los apoyen durante una expedición. Para crear un ayudante, tira 3d6 por cada puntuación de característica, luego asigna 1d6 PG y un arma (1d6), luego realiza las tiradas en las tablas indicadas en la sección [**Creación del Personaje**](##creación-del-personaje) para darle más forma al PNJ. Los ayudantes tienen un salario entre 1 y 3 mo por día, o se le puede pagar con una parte del tesoro que obtenga el grupo.
 
-### Riqueza y Tesoro
+### Riqueza y tesoro
 La moneda más común es la moneda de oro (mo), la cual equivale a 10 monedas de plata (mp) y 100 monedas de cobre (mc).
 
 El tesoro es muy valioso, generalmente voluminoso y rara vez útil más allá de su valor. Puede ser un señuelo, llevar a los PJs a lugares exóticos e incluso peligrosos y, a menudo, está bajo la protección de enemigos intimidantes.
@@ -669,7 +669,7 @@ El tesoro es muy valioso, generalmente voluminoso y rara vez útil más allá de
 Las aldeas, fortalezas y puertos intercambian y comercian en función de la rareza y el valor de un artículo o mercancía.
 
 ## Magia
-Los **Libro de Hechizos** contienen un solo hechizo y ocupan un espacio. No se pueden transcribir ni crear, se recuperan de lugares como tumbas, mazmorras y feudos.
+Los **Libro de hechizos** contienen un solo hechizo y ocupan un espacio. No se pueden transcribir ni crear, se recuperan de lugares como tumbas, mazmorras y feudos.
 
 Los libros de hechizos a veces muestran propiedades o limitaciones inusuales, como producir un olor desagradable o sobrenatural cuando se abren, poseer una inteligencia innata o ser legibles solo cuando se sostienen a la luz de la luna.
 
@@ -681,7 +681,7 @@ Los libros de hechizos atraerán la atención de aquellos que buscan el poder ar
 - No causan fatiga.
 - Desaparecen cuando se usan.
 
-### Lanzar Hechizos
+### Lanzar hechizos
 Cualquiera puede lanzar un hechizo sosteniendo un Libro de hechizos con ambas manos y leyendo su contenido en voz alta. Luego deben añadir Fatiga en el inventario, marcando un espacio donde corresponde. Con tiempo disponible y seguridad, los PJ pueden _mejorar_ el impacto de un hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el PJ está exhausto o en peligro, el Guardián puede pedir que un PJ realice una tirada de salvación de VOL para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de la falla tienen que ser similares al efecto previsto y pueden resultar en añadir Fatiga adicional, la destrucción del Libro de hechizos, lesiones e incluso la muerte.
 
 ### Reliquias
@@ -715,7 +715,7 @@ Expandir para ver el ejemplo
  _Bea ha tropezado accidentalmente con los terrenos de un enorme Troll del bosque. Para hacer un movimiento antes que el Troll, realiza una tirada de salvación de DES. Ella falla, entonces el Troll ataca primero..._
 </details>
 
-### Ataque y Daño
+### Ataque y daño
 El atacante tira el dado asociado a su arma y resta la armadura del objetivo, luego se reduce el total restante a los PG de su oponente. Los ataques sin armas siempre hacen 1d4 de daño.
 
 <details markdown="block">
@@ -725,33 +725,33 @@ Expandir para ver el ejemplo
  _El troll del bosque ruge, blandiendo su garrote hacia Bea, que tiene 5 PG. El garrote hace 1d10 de daño, el Guardián tira y obtiene un resultado de 4. Resta 1 debido a la función defensiva de la armadura de cuero de Bea, dejando a Bea con 2 PG restantes.
 </details>
 
-### Múltiples Atacantes
+### Múltiples atacantes
 Si varios atacantes apuntan al mismo enemigo, tira todos los dados de daño y quédate con el resultado más alto.
 
-### Modificadores de Ataque
+### Modificadores de ataque
 Si pelea desde una posición en desventaja (como a cubierto o con las manos atadas), el ataque queda en **desventaja** y el atacante debe tirar 1d4 de daño independientemente del dado de daño del ataque.
 
 Si pelea desde una posición de ventaja (como contra un enemigo indefenso o mediante una maniobra audaz), el ataque queda en **ventaja**, lo que permite que el atacante tire 1d12 de daño en lugar de su dado normal.
 
-### Ataque con Dos Armas
+### Ataque con dos armas
 Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el único resultado más alto.
 
 ### Estallido
 Los ataque con la cualidad **Estallido** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El Estallido se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
 
-### Daño Crítico
+### Daño crítico
 El daño que reduce la PG de un objetivo por debajo de cero disminuye la FUE de un objetivo en la cantidad restante. Luego, el objetivo tiene que hacer una tirada de salvación de FUE para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla en una tirada de salvación de daño crítico.
 
 Cualquier PC que sufra daños críticos no puede hacer nada más que arrastrarse débilmente, aferrándose a la vida. Si se les da ayuda y descanso, se estabilizarán. Si no se tratan, mueren en una hora.
 
-### Perder Puntos de la Puntuación de Características
+### Perder puntos de la puntuación de características
 Si la FUE de un PJ se reduce a 0, muere. Si su DES se reduce a 0, queda paralizado. Si su VOL se reduce a 0, está delirando.
 La pérdida completa de DES y VOL hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios extraordinarios.
 
 ### Cicatrices
 Cuando el daño a un PJ reduce su PG exactamente a 0, a veces este hecho lo hace cambiar para siempre. Consultar la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
 
-### Inconsciencia y Muerte
+### Inconsciencia y muerte
 Cuando un personaje muere, el jugador es libre de crear un nuevo personaje o tomar el control de un ayudante. Para reducir el tiempo muerto en el juego, el nuevo personaje o el ayudante que controla ahora el jugador se incorpora de inmediato al grupo.
 
 ### Destacamentos
@@ -818,7 +818,7 @@ Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de maner
 - Aprecia las reliquias y las baratijas brillantes por encima de todo, pero no está dispuesto a cambiarlas por monedas.
 - Los boggarts tienen nombres que describen su verdadera naturaleza. Saber su verdadero nombre permite controlar un Boggart.
 
-### Crear Monstruos
+### Crear monstruos
 Usa la siguiente plantilla para crear cualquier Monstruo o PNJ más sofisticado:
 
 **Nombre**
@@ -960,7 +960,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 [regresar al contenido](#contenido)
 <p></p>
 
-# Resumen de Reglas
+# Resumen de reglas
 
 **ACCIONES**  
 En su turno, un personaje puede moverse hasta 40 pies y realizar solo una acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades razonables. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Siempre que el orden de los turnos sea incierto, los PJs deberían hacer una tirada de DES para ver si van antes que sus enemigos.
