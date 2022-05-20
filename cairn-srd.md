@@ -20,7 +20,7 @@ Las jugadoras actúan como aventureras inquebrantables que exploran un bosque so
 ## Contenido
 - [Sumario](#sumario)
 - [Principios de los Guardianes](#principios-de-los-guardianes)
-- [Principios de las Jugadoras](#principios-de-los-jugadoras)
+- [Principios de las Jugadoras](#principios-de-las-jugadoras)
 - [Creación del Personaje](#creación-del-personaje)
 - [Equipo](#listado-de-equipo-precios-en-monedas-de-oro)
 - [Reglas](#reglas)
