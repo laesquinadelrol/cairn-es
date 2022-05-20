@@ -131,7 +131,7 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 -   Traten a los *PNJ* como si fueran personas reales y confíen en su curiosidad como jugadoras para obtener información y resolver problemas de forma segura.    
 -   Pronto descubrirás que la mayoría de las personas son interesantes y que querrán hablar o dialogar antes que recurrir a la violencia.
 
-### Sean precavidos
+### Sean precavidas
 -   Pelear es una elección, y rara vez es la más sabia. Consideren si la violencia es la mejor manera de lograr sus objetivos.    
 -   Procuren contar con toda la ventaja posible y retirénse cuando las cosas parezcan desfavorables.
 
@@ -398,7 +398,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | 4    | Canicas           | 9    | Esponja    | 14   | Lupa                   | 19   | Pluma y tinta   |
 | 5    | Cordel            | 10   | Incienso   | 15   | Mazo de cartas         | 20   | Silbato |
 
-#### Objetos odicionales (realiza una tirada en la tabla indicada)
+#### Objetos adicionales (realiza una tirada en la tabla indicada)
 
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
