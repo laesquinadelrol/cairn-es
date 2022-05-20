@@ -10,17 +10,17 @@ nav_order: 2
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-La traducción al español de Cairn SRD con permiso del autor se realizó por [Antigona](https://twitter.com/Antigona_404), [La esquina del rol](https://twitter.com/laesquinadelrol) y Alinel. Las correcciones estuvieron a cargo de calpurnio pisón.
+La traducción al español de Cairn SRD con permiso del autor se realizó por [La esquina del rol](https://twitter.com/laesquinadelrol), [Antigona](https://twitter.com/Antigona_404),  y Alinel. Las correcciones estuvieron a cargo de calpurnio pisón.
 
 Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluyendo Word, Affinity, Google Docs, etc.).
 
-**Cairn** es un juego de aventuras para un facilitador (el **Guardián**) y al menos un jugador.
-Los jugadores actúan como aventureros inquebrantables que exploran un bosque sombrío y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
+**Cairn** es un juego de aventuras para un moderador (el **Guardián**) y al menos una jugadora.
+Las jugadoras actúan como aventureras inquebrantables que exploran un bosque sombrío y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
 
 ## Contenido
 - [Sumario](#sumario)
 - [Principios de los Guardianes](#principios-de-los-guardianes)
-- [Principios de los Jugadores](#principios-de-los-jugadores)
+- [Principios de las Jugadoras](#principios-de-los-jugadoras)
 - [Creación del Personaje](#creación-del-personaje)
 - [Equipo](#listado-de-equipo-precios-en-monedas-de-oro)
 - [Reglas](#reglas)
@@ -31,171 +31,172 @@ Los jugadores actúan como aventureros inquebrantables que exploran un bosque so
 
 ## Sumario
 
-**Cairn** fue escrito con la siguiente filosofía de diseño en mente:
+**Cairn** fue escrito conforme la siguiente filosofía de diseño:
 
 ### Neutralidad
-El rol del Guardián es presentar las reglas, situaciones, Personajes no Jugadores (PNJ) y la historia de manera clara, mientras actúa como un árbitro neutral.
+El papel del **Guardián** consiste en describir las reglas, situaciones, **Personajes no Jugadores (PNJ)** y la historia de manera clara, mientras actúa como un árbitro imparcial.
 
-### Sin Clases  
-El rol o las habilidades de un personaje no están limitados por una sola clase. En cambio, el equipo que lleva y sus experiencias definen su especialidad.
+### Sin clases  
+Los personajes no ven limitados su rol o las habilidades por una clasificación en clases. Por el contrario, su especialidad viene determinada por su experiencia y equipo.
 
 ### Mortal
-Los personajes podrán ser poderosos, pero siguen siendo vulnerables al daño de muchas maneras. La muerte siempre está a la vuelta de la esquina, pero nunca ocurre aleatoriamente o sin previo aviso.
+Los personajes podrán ser poderosos, pero siguen siendo vulnerables al daño en sus muchas variantes. La muerte siempre está a la vuelta de la esquina, pero nunca ocurre aleatoriamente o sin previo aviso.
 
-### Primero la Ficción
-Los dados no siempre reflejan la dificultad de un obstáculo o su resultado. En cambio, el éxito y el fallo son arbitrados por el Guardián en diálogo con los jugadores, en función de lo que ocurre en el mundo.
+### Primero la ficción
+Los dados no siempre reflejan la dificultad de un obstáculo o su resultado. Por el contrario, el éxito y el fallo son arbitrados por el **Guardián** en diálogo con las jugadoras, en función de lo que ocurre en el mundo.
 
 ### Avance de los Personajes  
-Los personajes cambian mientras exploran el mundo, reciben nuevas habilidades y capacidades para sobrevivir a eventos peligrosos y superar obstáculos.
+Los personajes evolucionan mientras exploran el mundo, ganando nuevas habilidades y capacidades que les ayuden a sobrevivir a los eventos peligrosos y a superar obstáculos.
 
-### Elecciones de los Jugadores  
-Los jugadores siempre deben entender las razones que hay detrás de las decisiones que han tomado y la información sobre los riesgos potenciales debería ser compartida con ellos de manera directa y frecuente.
+### Elecciones de las Jugadoras  
+Las jugadoras siempre deben entender las razones que hay detrás de las decisiones que han tomado y la información sobre los riesgos potenciales debería ser compartida con ellas de manera directa y frecuente.
 
 ### Principios
-Tanto el Guardián como los jugadores tienen directrices de juego que ayudan a fomentar una experiencia de juego específica definida por el pensamiento crítico, la exploración y la narrativa emergente.
+El juego ofrece unas directrices, tanto para el **Guardián** como para las jugadoras, que fomentan una experiencia de juego específica definida por el pensamiento crítico, la exploración y la narrativa emergente.
 
-### Objetivos Compartidos
-Los jugadores confían en que los demás están comprometidos con la ambientación compartida, los objetivos de los personajes y los retos del grupo. Por lo tanto, el grupo suele trabajar conjuntamente hacia un objetivo común, siempre como un equipo.
+### Objetivos compartidos
+Las jugadoras cooperan entre sí para implicarse en la ambientación compartida, los objetivos de sus personajes y los retos del grupo. Por lo tanto, lo normal es que el grupo colabore, como un equipo, para alcanzar un objetivo común.
 
 [regresar al contenido](#contenido)
 <p></p>
 
 ## Principios de los Guardianes
 ### Información
--   Proporciona información útil acerca del mundo mientras los personajes lo exploran.
--   Los jugadores no requieren tiradas de dados para reconocer las circunstancias en las que se encuentran.   
--   Se práctico y directo con sus  respuestas a las preguntas de los jugadores.
--   Responde con sinceridad, describe con coherencia y siempre deja saber a los jugadores que pueden seguir haciendo preguntas.
+-   Proporciona información útil acerca del mundo conforme los personajes lo exploran.
+-   Las jugadoras no necesitan hacer tiradas para obtener información sobre las circunstancias en las que se encuentran.   
+-    Cuando las jugadoras te pregunten, responde de forma útil y directa.
+-   Responde con sinceridad a las jugadoras, describe constantemente y hazles saber que pueden seguir haciendo preguntas.
 
 ### Dificultad
 -   Se debe apostar por el contexto y el realismo, en vez de por los números y las mecánicas.
--   Si algo que los jugadores quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
--   ¿Es creíble lo que el jugador describe y cómo aprovecha la situación? Deja que ocurra.    
--   Las Tiradas de Salvación cubren una gran cantidad de situaciones inciertas y suele ser todo lo que se necesita para lidiar con las situaciones de riesgo.
+-   Si algo que las jugadoras quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
+-   ¿Es creíble lo que la jugadora describe y cómo aprovecha la situación? Deja que ocurra.    
+-   Las Tiradas de Salvación cubren una gran cantidad de situaciones indefinidas y suele ser todo lo que se necesita para lidiar con las situaciones de riesgo.
 
 ### Preparación
 -   El mundo del juego es orgánico, maleable y aleatorio. Se intuye y da giros bruscos.
 -   Usa tablas aleatorias y generadores para desarrollar situaciones, no historias ni tramas.
--   Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo ellos afectan el mundo.
--   Los PNJ no desean morir. Infunda a cada uno de ellos su propio interés y voluntad de vivir.
+-   Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo afectan al mundo.
+-   Los PNJ no desean morir. Incluye en cada personalidad su motivación y voluntad de vivir.
 
-### Concentrarse en la Narrativa  
--   La experiencia de juego emergente es lo que importa, no las matemáticas ni las características de los personajes. Ofrece a los jugadores instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
--   Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas.
--   Una daga en la garganta te matará, independientemente de tu costosa armadura e impresionante entrenamiento.
+### Concentrarse en la narrativa  
+-   La experiencia de juego emergente es lo que importa, no los números ni las características de los personajes.
+-   Ofrece a las jugadoras instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
+-   Presta atención a las necesidades y deseos de las jugadoras, luego pon en su camino oportunidades realistas.
+-   Una daga en la garganta te matará, independientemente lo cara que sea tu armadura o de tu impresionante entrenamiento.
 
 ### Peligro  
 -   El mundo del juego produce un riesgo real de sufrimiento y muerte a los personajes jugadores.   
--   Avisa a los jugadores cuanto un peligro serio está presente. Mientras más peligroso, más obvio.
--   Pon trampas visibles y deja que los jugadores se tomen su tiempo para encontrar una solución.
--   Ofrece a los jugadores oportunidades para resolver problemas e interactuar con el mundo
+-   Avisa a las jugadoras cuando se presente un peligro serio. Cuanto más peligroso, más obvio.
+-   Pon trampas a la vista y deja que las jugadoras se tomen su tiempo buscando una solución.
+-   Ofrece a las jugadoras oportunidades para resolver problemas e interactuar con el mundo
 
 ### Tesoro
--   Un tesoro es muy específico al entorno del que fue recuperado. Este cuenta una historia por sí mismo.    
--   El tesoro es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y prestigio.
+-   El tesoro es específico al lugar donde se encuentra. El tesoro cuenta su propia historia    
+-   El tesoro es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y fama.
 -   Las reliquias no son Tesoros, aunque son útiles e interesantes.
--   Utiliza el Tesoro como señuelo para que los personajes lleguen a lugares exóticos bajo el dominio de enemigos intimidantes.
+-   Utiliza el **Tesoro** como señuelo para que los personajes vayan a lugares exóticos bajo el dominio de enemigos terribles.
 
-### Opciones  
--   Cuando la situación se calme ofrece a los jugadores una opción interesante para forzar su elección.
--   Cuando las intenciones de los jugadores no sean claras utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
--   Colaboren todos juntos en este diálogo para mantener el juego en movimiento.
--   Asegúrate de que las acciones de los personajes de los jugadores dejen su huella en el mundo.
+### Dar opciones  
+-   Cuando la situación se estanque, ofrece a las jugadoras una opción interesante que les obligue a tomar una decisión.
+-   Cuando las intenciones de las jugadoras no estén claras utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
+-   Participen todos en este método de conversación para mantener el juego en movimiento.
+-   Asegúrate de que las acciones de los PJ dejan huella en el mundo.
 
 ### Dado del Destino  
 -   De vez en cuando querrás un elemento de aleatoriedad en tu partida (por ejemplo: clima, conocer a un personaje único, etc.).    
--   En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a los jugadores.
+-   En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a las jugadoras.
 -   Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
 
 [regresar al contenido](#contenido)
 <p></p>
 
-## Principios de los Jugadores
+## Principios de las jugadoras
 
-### Agencia de los Personajes
--   Las Características y las Tiradas de Salvación no definen a los personajes. Estos valores son solo herramientas.    
--   No solo te preguntes qué haría tu personaje en cada situación; también pregúntate qué es lo que tú harías.
--   Utiliza tu intuición, objetos y conexiones de manera creativa.
+### Sean propositivas
+-   Las **Características** y las **Tiradas de Salvación** no definen a los personajes. Estos valores son solo herramientas.    
+-   No solo se pregunten qué haría su personaje en cada situación; también pregúntense qué es lo que cada una haría.
+-   Utilicen su intuición, objetos y contactos de manera creativa.
 
-### Trabajo en Equipo
--   Siempre busca el consenso de los demás jugadores antes de avanzar.    
--   Mantengan un acuerdo claro entorno a los objetivos y  límites del grupo, respétense mutuamente para lograr en conjunto lo que no pueden lograr por separado.
+### Trabajen en equipo
+-   Siempre busquen el consenso antes de seguir adelante.    
+-   Mantengan un acuerdo claro sobre los objetivos y límites del grupo, respétandose mutuamente para lograr en conjunto lo que no pueden lograr por separado.
 
 ### Exploración
--   Hacer preguntas y escuchar los detalles es más útil que cualquier estadística, objeto o habilidad que tengas.    
--   Acepta la descripción del Guardián libre de sospechas, aunque no te prives de ir a por más información.
+-   Hacer preguntas y fijarse en los detalles es más útil que cualquier número, objeto o habilidad que tengas.    
+-   Confíen en las descripciones del **Guardián**, aunque no se priven de ir a por más información.
 -   No existe un único camino correcto a seguir.
 
 ### Interactuando con Personajes no Jugadores
--   Trata a los PNJ como si fueran personas reales y confía en tu curiosidad para obtener información y resolver problemas de forma segura.    
--   Pronto descubrirás que la mayoría de las personas son interesantes y que querrán hablar o dialogar antes de recurrir a la violencia.
+-   Traten a los *PNJ* como si fueran personas reales y confíen en su curiosidad como jugadoras para obtener información y resolver problemas de forma segura.    
+-   Pronto descubrirás que la mayoría de las personas son interesantes y que querrán hablar o dialogar antes que recurrir a la violencia.
 
-### Se Precavido
--   Pelear es una elección, y rara vez es la más sabia. Considera si la violencia es la mejor manera de lograr tus objetivos.    
--   Trata de aumentar las probabilidades a tu favor y retírate cuando las cosas parecen desfavorables.
+### Sean precavidos
+-   Pelear es una elección, y rara vez es la más sabia. Consideren si la violencia es la mejor manera de lograr sus objetivos.    
+-   Procuren contar con toda la ventaja posible y retirénse cuando las cosas parezcan desfavorables.
 
-### Prepárate
--   Piensa en formas de evitar obstáculos, mediante misiones de reconocimiento, la sutileza y la búsqueda de información.    
--   Investiga y has pregunta acerca de tus objetivos.
+### Prepárense
+-   Piensen en formas de evitar obstáculos, mediante misiones de reconocimiento, de subterfugio o de búsqueda de información.    
+-   Investiguen y hagan preguntas acerca de sus objetivos.
 
-### Se Ambicioso
--   Define metas y utiliza todos los medios a tu disposición para acercarte a ellas.   
--   No des nada por garantizado. Gánate tu reputación.
--   Manten las cosas en movimiento y juega para descubrir qué sucede.
+### Sean ambiciosas
+-   Definan metas y utilicen todos los medios a su disposición para ir progresando hacia ellas.   
+-   No den nada por sentado. Gánense su reputación.
+-   Mantengan las cosas en movimiento y jueguen para descubrir qué sucede.
 
 [regresar al contenido](#contenido)
 <p></p>
 
 ## Creación del Personaje
 
-#### Nombre, Bagaje y Rasgos
-Primero, elija o tire por el **nombre** y **bagaje** del personaje en la [tabla](#nombre-y-Bagaje-d20) respectiva. El bagaje de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
+#### Nombre, trasfondo y rasgos
+Primero, elije (al azar o no) el **Nombre** y **Trasdondo** del personaje en la [tabla](#nombre-y-trasfondo-d20) respectiva. El trasfondo de un personaje nos dice acerca de sus conocimientos y habilidades potenciales.
 
-Luego, realiza tiradas para el resto de rasgos de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#rasgos-del-personaje-d10).
+Luego, realiza tiradas para el resto de **Rasgos** de tu personaje (apariencia, forma de hablar, peculiaridades, creencias, reputación, etc.) en las tablas de [**Rasgos del personaje**](#rasgos-del-personaje-d10).
 
 Finalmente, realiza una tirada para determinar su **edad** (2d20+10).
 
-#### Puntuaciones de Característica
-Los Personajes Jugadores (PJ) tienen solo tres características:  
+#### Puntuaciones de las características
+Los **Personajes Jugadores (PJ)** tienen solo tres características:  
 **Fuerza (FUE)**, **Destreza (DES)**, y **Voluntad (VOL)**.
-Cuando crea un PJ, el jugador tira 3d6 por cada una de las puntuaciones de característica en orden. Luego, puede cambiar dos de los resultados.
+Cuando se crea un PJ, el jugador tira 3d6 por cada característica, en orden. Luego, pueden intercambiarse dos de los resultados.
 
 <details markdown="block">
   <summary>
 Expandir para ver el Ejemplo
  </summary>
-Inés tira por la FUE de su personaje, el resultado obtenido en la tirada es 2,  4, y 6, para un total de 12. En las siguientes dos tiradas obtiene un 9 para DES y un 13 para VOL. Ella decide intercambiar el  12 y el 9, para obtener un personaje con 9 de FUE, 12 de DES y 13 de VOL.
+Inés tira para determinar la FUE de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la DES y un 13 para la VOL. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de FUE, 12 de DES y 13 de VOL.
 
 </details>
 
-### Protección contra Golpes  
-Tira 1d6 para determinar el valor inicial de **Protección contra Golpes (PG)** del PJ, el cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje cae hasta cero, el jugador tiene que tirar en la tabla [**Cicatrices**](#cicatrices-1).
+### Protección contra golpes  
+Tira 1d6 para determinar el valor inicial de la **Protección contra golpes (PG)** del **PJ**, la cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje se reduce a cero, la jugadora debe tirar en la tabla [**Cicatrices**](#cicatrices-1).
 
 #### Inventario
-Los personajes tienen un total de 10 espacios de inventario: una mochila con seis espacios, un espacio en cada mano, y dos espacios en la parte superior del cuerpo (como el cinturón, el pecho o la cabeza). También, la mochila puede servir como saco de dormir en casos de emergencia, pero solo si se vacía todo su contenido.
+Los personajes tienen un total de 10 espacios de inventario: una mochila con seis espacios, un espacio en cada mano, y dos espacios en la parte superior del cuerpo (como el cinturón, el pecho o la cabeza). Además, la mochila puede servir como saco de dormir en casos de emergencia, pero solo si se vacía todo su contenido.
 
-La mayoría de los objetos ocupan un espacio y los objetos pequeños pueden contarse como ocupantes de un solo espacio. Los espacios son abstractos y pueden ser reorganizados por el Guardián libremente.
+La mayoría de los objetos ocupan un espacio y los objetos pequeños pueden agruparse para que ocupen un solo espacio. Los espacios son abstractos y pueden ser reorganizados libremente por el **Guardián**.
 
-Los objetos **Voluminosos** ocupan dos espacios, suelen llevarse con dos manos o son difíciles de transportar.  Cualquier que llene sus espacios de inventario (por ejemplo llenado los 10 espacios) reduce su PG hasta cero.
+Los objetos **Voluminosos** ocupan dos espacios, suelen llevarse con dos manos o son difíciles de transportar.   Si alguien rellena su inventario hasta dejarlo sin espacios, reduce su **PG** a cero.
 
-Un PJ no puede cargar más objetos que lo que le permita su inventario. Los carros (los cuales tienen que ser conducidos con ambas manos), caballos o mulas pueden incrementar la capacidad del inventario. También se puede contratar **Ayudantes** para que carguen el equipo.
+Un **PJ** no puede cargar más objetos de los que le permita su inventario. Las carretas en general (las cuales deben ser conducidas con ambas manos), caballos o mulas pueden incrementar la capacidad del inventario. También se puede contratar **Ayudantes** para que carguen el equipo.
 
-#### Equipo Inicial
-Todos los PJ comienzan con:
+#### Equipo inicial
+Todos los **PJ** comienzan con:
 
 -   Raciones para tres días (un espacio)
 -   Una antorcha (un espacio)
 -   3d6 monedas de oro
 
-Realiza varias tiradas en las tablas de **Equipo Inicial** para determinar la armadura, armas, herramientas y demás equipo de tu PJ. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#libro-de-hechizos-d100) (o realiza una tirada de 2d10, usando un dado como el valor de las unidades y el otro dado como el valor de la decenas).
+Realiza varias tiradas en las tablas de **Equipo inicial** para determinar la armadura, armas, herramientas y demás equipo de tu **PJ**. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#libro-de-hechizos-d100) (o tira 2d10, usando un dado para las unidades y otro para las decenas).
 
-Consulta el **Listado de Equipo** para ver los valores relacionados con la armadura, daño y espacios. Los objetos pequeños pueden ser contados como parte de un mismo espacio.
+Consulta el **Listado de equipo** para ver los valores relacionados con la armadura, daño y espacios. En ocasiones,  los objetos pequeños pueden agruparse para que ocupen un mismo espacio.
 
-Si desea algo más parecido a las clases tradicionales, consulte la lista de [**Paquete de Equipo Opcionales**](#paquetes-de-equipo-opcionales).
+Si se desea algo más parecido a las clases tradicionales, puede consultarse la lista de [**Inventarios predeterminados**](#inventarios-predeterminados).
 
 <p></p>
 
-## Nombre y Bagaje (d20)
+## Nombre y trasfondo (d20)
 
 #### Nombres Femeninos
 
@@ -211,32 +212,32 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Nombres Masculinos
 
 |||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Arwel     |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
-|2           |Bevan     |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
-|3           |Boroth    |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
-|4           |Borrid    |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
-|5           |Breagle   |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
+|------------|-----------|-----------|-----------|----------|---------|------|----------|
+|1           |Arwel      |6          |Breglor    |11        |Grinwit  |16    |Melnax    |
+|2           |Bevan      |7          |Canhoreal  |12        |Gruwid   |17    |Orthax    |
+|3           |Boroth     |8          |Emrys      |13        |Gruwth   |18    |Triunein  |
+|4           |Borrid     |9          |Ethex      |14        |Gwestin  |19    |Wenlan    |
+|5           |Breagle    |10         |Gringle    |15        |Mannog   |20    |Yirmeor   |
 
 #### Apellido
 
 |||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1           |Abernathy |6          |Crumwaller |11        |Harper   |16    |Swinney   |
-|2           |Addercap  |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
-|3           |Burl      |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
-|4           |Candlewick|9          |Glass      |14        |Smythe   |19    |Weaver    |
-|5           |Cormick   |10         |Harkness   |15        |Sunderman|20    |Wolder    |
+|------------|-----------|-----------|-----------|----------|---------|------|----------|
+|1           |Abernathy  |6          |Crumwaller |11        |Harper   |16    |Swinney   |
+|2           |Addercap   |7          |Dunswallow |12        |Loomer   |17    |Thatcher  |
+|3           |Burl       |8          |Getri      |13        |Malksmilk|18    |Tolmen    |
+|4           |Candlewick |9          |Glass      |14        |Smythe   |19    |Weaver    |
+|5           |Cormick    |10         |Harkness   |15        |Sunderman|20    |Wolder    |
 
-#### Bagaje
+#### Trasfondo
 
 |||||||||
 |------------|--------------|-----------|-------------|----------|-------------|------|----------|
-|1           |Alquimista    |6          |Carterista   |11        |Enterrador   |16    |Mago      |
-|2           |Apostador     |7          |Cazador      |12        |Explorador   |17    |Mercader  |
-|3           |Artista       |8          |Clérigo      |13        |Herbalista   |18    |Mercenario|
-|4           |Carnicero     |9          |Criado       |14        |Herrero      |19    |Minero    |
-|5           |Carpintero    |10         |Criminal     |15        |Ladrón       |20    |Traficante|
+|1           |Alquimista    |6          |Carterista   |11        |Enterradora  |16    |Mago      |
+|2           |Jugador       |7          |Cazadora     |12        |Explorador   |17    |Mercader  |
+|3           |Artista       |8          |Clérigo      |13        |Herbolaria   |18    |Mercenario|
+|4           |Carnicero     |9          |Criada       |14        |Herrero      |19    |Minera    |
+|5           |Carpintera    |10         |Criminal     |15        |Ladrona      |20    |Traficante|
 
 <p></p>
 
@@ -256,11 +257,11 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 
 |  |            |      |           |
 | ---- | ------------------- | ------ | ------------------ |
-| 1    | Bronceada           | 6      | Marcas por viruela |
-| 2    | Delicada            | 7      | Oscurecida         |
-| 3    | Estirada            | 8      | Pigmentada         |
-| 4    | Lesiones Ovaladas   | 9      | Rosácea            |
-| 5    | Marca de nacimiento | 10     | Tatuada            |
+| 1    | Bronceada           | 6      | Pigmentada         |
+| 2    | Fofa                | 7      | Ronchas            |
+| 3    | Marca de nacimiento | 8      | Rosácea            |
+| 4    | Marcas de viruela   | 9      | Tatuada            |
+| 5    | Oscura              | 10     | Tirante            |
 
 #### Cabello
 
@@ -270,77 +271,77 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 | 2    | Calvo        | 7    | Ondulado  |
 | 3    | Encrespado   | 8    | Rizado    |
 | 4    | Escaso       | 9    | Sucio     |
-| 5    | Grasoso      | 10   | Trenzado  |
+| 5    | Grasiento    | 10   | Trenzado  |
 
 #### Rostro
 
 |  |           |      |          |
-| ---- | ------------ | ---- | --------------------- |
-| 1    | Afilado      | 6    | De mejillas hundidas  |
-| 2    | Alargado     | 7    | Desfigurado           |
-| 3    | Cara de rata | 8    | Huesudo               |
-| 4    | Cincelado    | 9    | Pálido                |
-| 5    | Cuadrado     | 10   | Perfecto              |
+| ---- | --------------------- | ---- | --------------------- |
+| 1    | Afilado               | 6    | Desfigurado           |
+| 2    | Alargado              | 7    | Huesudo               |
+| 3    | Cincelado             | 8    | Pálido                |
+| 4    | Cuadrado              | 9    | Perfecto              |
+| 5    | De mejillas hundidas  | 10   | Ratonil               |
 
-#### Forma de Hablar
+#### Voz
 
 |  |         |      |            |
-| ------ | ---------- | ---- | ------------ |
-| 1      | Áspera     | 6    | Formal       |
-| 2      | Chillona   | 7    | Franca       |
-| 3      | Clara      | 8    | Monótona     |
-| 4      | Enigmática | 9    | Susurrante   |
-| 5      | Estridente | 10   | Tartamuda    |
+| ------ | ------------- | ---- | ------------ |
+| 1      | Cavernosa     | 6    | Formal       |
+| 2      | Clara         | 7    | Monótona     |
+| 3      | Directa       | 8    | Resonante    |
+| 4      | Enigmática    | 9    | Susurrante   |
+| 5      | Estridente    | 10   | Tartamuda    |
 
 #### Vestimenta
 
 |  |         |      |        |
 | -------- | -------------- | ---- | ------ |
-| 1        | Antigua        | 6    | Elegante |
-| 2        | De otro lugar  | 7    | Maloliente |
-| 3        | Desaliñada     | 8    | Manchada |
-| 4        | Deshilachada   | 9    | Sucia |
-| 5        | Ensangrentada  | 10   | Uniformado |
+| 1        | Antigua        | 6    | Ensangrentada |
+| 2        | Con barro      | 7    | Elegante |
+| 3        | De otro lugar  | 8    | Maloliente |
+| 4        | Desalineada    | 9    | Sucia |
+| 5        | Deshilachada   | 10   | Uniformado |
 
 #### Virtud
 
 |  |             |      |           |
 | ------ | ----------- | ---- | --------- |
-| 1      | Ambicioso     | 6    | Precavido |
-| 2      | Disciplinado  | 7    | Sereno    |
+| 1      | Ambiciosa     | 6    | Precavido |
+| 2      | Disciplinado  | 7    | Serena    |
 | 3      | Honorable     | 8    | Sociable  |
 | 4      | Humilde       | 9    | Tolerante    |
-| 5      | Misericordioso| 10   | Valiente  |
+| 5      | Misericordiosa| 10   | Valiente  |
 
 #### Vicio
 
 |  |            |      |          |
 | ---- | ---------- | ---- | -------- |
-| 1    | Agresivo     | 6    | Flojo    |
-| 2    | Amargado     | 7    | Mentiroso  |
-| 3    | Avaricioso   | 8    | Nervioso     |
-| 4    | Codicioso    | 9    | Rudo     |
+| 1    | Agresivo     | 6    | Mentiroso     |
+| 2    | Amargada     | 7    | Nerviosa  |
+| 3    | Avaricioso   | 8    | Perezoso     |
+| 4    | Codiciosa    | 9    | Ruda     |
 | 5    | Engreído     | 10   | Vengativo |
 
 #### Reputación
 
 |  |             |      |           |
 | ---------- | ----------- | ---- | --------- |
-| 1          | Ambicioso      | 6    | Honesto    |
+| 1          | Ambicioso      | 6    | Honrada    |
 | 2          | Bicho raro     | 7    | Patán   |
-| 3          | Desagradable   | 8    | Peligroso |
-| 4          | Divertido      | 9    | Respetado |
-| 5          | Holgazán       | 10   | Sabio      |
+| 3          | Desagradable   | 8    | Peligrosa |
+| 4          | Divertida      | 9    | Respetado |
+| 5          | Holgazán       | 10   | Sabia      |
 
 #### Desgracia
 
 |  |             |      |             |
 | ----------- | ----------- | ---- | ----------- |
-| 1           | Abandonado   | 6    | Degradado   |
-| 2           | Adicto       | 7    | Desheredado     |
-| 3           | Chantajeado  | 8    | Desacreditado |
-| 4           | Condenado    | 9    | Exiliado    |
-| 5           | Defraudado   | 10   | Maldito      |
+| 1           | Abandonada   | 6    | Degradado   |
+| 2           | Adicto       | 7    | Desheredada     |
+| 3           | Chantajeada  | 8    | Desacreditado |
+| 4           | Condenado    | 9    | Exiliada    |
+| 5           | Defraudada   | 10   | Maldito      |
 
 <p></p>
 
@@ -365,48 +366,48 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 |                |                  |                          |                                |
 | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
 |          1-5          |       6-14       |          15-19           |               20               |
-| Daga, Garrote, Báculo | Espad, Maza, Hacha | Arco largo, Ballesta, Honda | Alabarda, Martillo de guerra, Hacha de batalla |
+| Daga, Garrote, Báculo | Espada, Maza, Hacha | Arco largo, Ballesta, Honda | Alabarda, Martillo de guerra, Hacha de batalla |
 
 #### Equipo para expediciones
 
 |      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Aceite para fuego         | 6    | Catalejo       | 11   | planta de acónito    | 16   | Trampa grande |
-| 2    | Amuleto contra espíritus  | 7    | Esposas        | 12   | Polea                | 17   | Vara (10 pies) |
-| 3    | Antitoxina                | 8    | Gancho de agarre| 13   | Repelente           | 18   | Vara de radiestesia    |
-| 4    | Cadena (10 pies)          | 9    | Ganzúas         | 14   | Saco grande         | 19   | Vejiga Natatoria   |
-| 5    | Carreta (+4 espacios, voluminosa) | 10   | Pico    | 15   | Soga (25 pies)      | 20   | Yesquero   |
+| ---- | --------------------------------- | ---- | ------------------- | ---- | ---------------------- | ---- | ----------- |
+| 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 mts)  |
+| 2    | Amuleto contra espíritus          | 7    | Gancho de agarre    | 12   | planta de acónito      | 17   |Trampa grande  |
+| 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 mts)    |
+| 4    | Cadena (10 pies)                  | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí  |
+| 5    | Carreta (+4 espacios, voluminosa) | 10   | Odre para bucear    | 15   | Saco grande            | 20   | Yesquero   |
 
 #### Herramientas
 
 |      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Abrojos       | 6    | Fuelle       | 11   | Pala        | 16   | Reloj de arena     |
-| 2    | Caña de pescar| 7    | Grasa        | 12   | Palanca     | 17   | Sellador     |
-| 3    | Cincel        | 8    | Lima de metal | 13   | Pegamento  | 18   | Serrucho |
-| 4    | Clavos        | 9    | Martillo      | 14   | Pinzas de metal | 19   | Taladro manual  |
-| 5    | Cubo          | 10   | Olla para cocinar| 15   | Red      | 20   | Tiza   |
+| ---- | ------------- | ---- | ------------------ | ---- | -------------- | ---- | ------- |
+| 1    | Abrojos       | 6    | Fuelle             | 11   | Pala           | 16   | Reloj de arena     |
+| 2    | Caña de pescar| 7    | Grasa              | 12   | Palanca        | 17   | Sellador     |
+| 3    | Cincel        | 8    | Lima de metal      | 13   | Pegamento      | 18   | Serrucho |
+| 4    | Clavos        | 9    | Martillo           | 14   | Pinzas de metal| 19   | Taladro manual  |
+| 5    | Cubo          | 10   | Olla para cocinar  | 15   | Red            | 20   | Tiza   |
 
 #### Baratijas
 
 |      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Botella           | 6    | Cuerno    | 11   | Instrumento     | 16   | Paquete de sal   |
-| 2    | Bote de alquitrán | 7    | Dados  	  | 12   | Jabón           | 17   | Perfume  |
-| 3    | Campana pequeña   | 8    | Espejo 	  | 13   | Joyas Falsas    | 18   | Pintura facial |
-| 4    | Canicas          | 9    | Esponja    | 14   | Lupa            | 19   | Pluma y tinta   |
-| 5    | Cordel           | 10   | Incienso   | 15   | Mazo de cartas  | 20   | Silbato |
+| ---- | ----------------- | ---- | ---------- | ---- | ---------------------- | ---- | ------- |
+| 1    | Botella           | 6    | Cuerno     | 11   | Instrumento musical    | 16   | Paquete de sal   |
+| 2    | Bote de alquitrán | 7    | Dados      | 12   | Jabón                  | 17   | Perfume  |
+| 3    | Campana pequeña   | 8    | Espejo 	   | 13   | Joyas Falsas           | 18   | Pintura facial |
+| 4    | Canicas           | 9    | Esponja    | 14   | Lupa                   | 19   | Pluma y tinta   |
+| 5    | Cordel            | 10   | Incienso   | 15   | Mazo de cartas         | 20   | Silbato |
 
-#### Objetos Adicionales (Realiza una tirada en la tabla indicada)
+#### Objetos odicionales (realiza una tirada en la tabla indicada)
 
 |                  |                    |                 |           |
 | :--------------: | :----------------: | :-------------: | :-------: |
 |       1-5        |        6-13        |      14-17      |   18-20   |
-| Herramienta o baratija | Equipo para expediciones | Armadura o arma | libro de hechizos |
+| Herramienta o baratija | Equipo para expediciones | Armadura o arma | Libro de hechizos |
 
 <p></p>
 
-#### Libro de Hechizos (d100)
+#### Libro de hechizos (d100)
 
 |||||||||
 |---|-----------------------|---|--------------------|---|-------------------|---|------------------|
@@ -438,105 +439,105 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 
 <p></p>
 
-## Listado de Equipo (Precios en monedas de oro)  
+## Listado de equipo (precios en monedas de oro)  
 
 #### Armaduras
 
 ||     |
 |--------------------------------------------------------------|-----|
-|Escudo (+1 Armadura)            |10   |
-|Yelmo (+1 Armadura)            |10   |
-|Gambesón (+1 Armadura)          |15   |
-|Brigantina (1 Armadura, voluminosa)  |20   |
-|Cota de malla (2 Armadura, voluminosa)   |40   |
-|Armadura completa (3 Armadura, voluminosa)       |60   |
+|Escudo (+1 Armadura)                                          |10   |
+|Yelmo (+1 Armadura)                                           |10   |
+|Gambesón (+1 Armadura)                                        |15   |
+|Brigantina (1 Armadura, voluminosa)                           |20   |
+|Cota de malla (2 Armadura, voluminosa)                        |40   |
+|Armadura completa (3 Armadura, voluminosa)                    |60   |
 
 #### Armas
 
 | |     |
-|--------------------------------------------------------------|-----|
-|Daga, Garrote, Hoz,  báculo, etc. (1d6  daño)             |5    |
-|Lanza, Espada, Maza, Hacha, Mayal, etc. (1d8 daño)             |10   |
+|----------------------------------------------------------------------------|-----|
+|Daga, Garrote, Hoz,  báculo, etc. (1d6  daño)                               |5    |
+|Lanza, Espada, Maza, Hacha, Mayal, etc. (1d8 daño)                          |10   |
 |Alabarda, Martillo de Guerra, Espada Larga, etc. (1d10 daño, voluminosa)    |20   |
-|Honga (1d4  daño)                                            |5    |
-|Arco  (1d6  daño, voluminoso)                                      |20   |
-|Ballesta (1d8  daño, voluminosa)                                  |30   |
+|Honga (1d4  daño)                                                           |5    |
+|Arco  (1d6  daño, voluminoso)                                               |20   |
+|Ballesta (1d8  daño, voluminosa)                                            |30   |
 
 #### Equipo y Herramientas
 
 | |                |                   |          |
-|---------------------------------------------|----------------|-------------------|----------|
-|Abrojos                                      |10               |Lupa                    |10        |
-|Aceite para fuego                            |10               |Libro                   |50         |
-|Agua bendita                                 |25               |Lima de metal           |5        |
-|Alquitrán                                    |10               |Linterna y aceite       |10        |
-|Antorcha                                     |1                |Martillo                |5        |
-|Bolsa de piel encerada                       |5                |Mula (+6 espacios, lenta)|30         |
-|Botas con pinchos                            |5                |Olla para cocinar        |10         |
-|Caballo (+4 espacios)                        |75               |Pala                     |5      |
-|Cadena (3 mts)                               |10               |Palanca                  |10        |
-|Canica de cristal                            |5                |Pegamento                |5         |
-|Caña de pescar                               |10               |Pico                     |10        |
-|Carreta (+4 espacios, voluminosa)            |30               |Pintura facial           |10        |
-|Carretón (+8 espacios, lento)                |200              |Plantas de acónito       |10         |
-|Catalejo                                     |40               |Pluma y tinta            |10        |
-|Cincel                                       |5                |Polea                    |10        |
-|Clavo                                        |1                |Raciones (tres días)     |10         |
-|Cuerno                                       |10               |Red                      |10         |
-|Cubo                                         |5                |Reloj de arena           |50         |
-|Escalera (voluminosa, 3 mts)                 |10               |Saco                     |5         |
-|Espejo                                       |5                |Saco de dormir           |5         |
-|Esponja grande                               |5                |Serrucho                 |5         |
-|Esposas                                      |10               |Soga (8 mts)             |5         |
-|Fuelle                                       |10               |Taladro manual           |10        |
-|Gancho de agarre                             |25               |Tienda (para 2 personas, voluminosa)                |20        |
-|Ganzúas                                      |25               |Tiza                     |1        |
-|Grasa                                        |10               |Trampa grande            |20         |
-|Incienso                                     |10               |Vara (3 mts)             |5    |
-|Jabón                                        |1                |Vejiga Natatoria         |5        |
+|---------------------------------------------|-----------------|--------------------------------------|----------|
+|Abrojos                                      |10               |Lupa                                  |10        |
+|Aceite para fuego                            |10               |Libro                                 |50         |
+|Agua bendita                                 |25               |Lima de metal                         |5        |
+|Alquitrán                                    |10               |Linterna y aceite                     |10        |
+|Antorcha                                     |1                |Martillo                              |5        |
+|Bolsa de piel encerada                       |5                |Mula (+6 espacios, lenta)             |30         |
+|Botas de escalada                            |5                |Odre para bucear                      |5         |
+|Caballo (+4 espacios)                        |75               |Olla para cocinar                     |10         |
+|Cadena (3 mts)                               |10               |Pala                                  |5      |
+|Canica de cristal                            |5                |Palanca                               |10        |
+|Caña de pescar                               |10               |Pegamento                             |5         |
+|Carreta (+4 espacios, voluminosa)            |30               |Pico                                  |10        |
+|Carromato (+8 espacios, lento)               |200              |Pintura facial                        |10        |
+|Catalejo                                     |40               |Plantas de acónito                    |10         |
+|Cincel                                       |5                |Pluma y tinta                         |10        |
+|Clavo                                        |1                |Polea                                 |10        |
+|Cuerno                                       |10               |Raciones (tres días)                  |10         |
+|Cubo                                         |5                |Red                                   |10         |
+|Escalera (voluminosa, 3 mts)                 |10               |Reloj de arena                        |50         |
+|Espejo                                       |5                |Saco                                  |5         |
+|Esponja grande                               |5                |Saco de dormir                        |5         |
+|Fuelle                                       |10               |Serrucho                              |5         |
+|Gancho de agarre                             |25               |Soga (8 mts)                          |5         |
+|Ganzúas                                      |25               |Taladro manual                        |10        |
+|Grasa                                        |10               |Tienda (para 2 personas, voluminosa)  |20        |
+|Grilletes                                    |10               |Tiza                                  |1         |
+|Incienso                                     |10               |Trampa grande                         |20         |
+|Jabón                                        |1                |Vara (3 mts)                          |5    |
 
 <p></p>
 
-## Paquetes de Equipo Opcionales  
+## Inventarios predeterminados  
 
 #### Caballero
 
 |                            |
-| -------------------------- |
-| Espada larga (1d10, voluminosa)      |
+| -------------------------------------- |
+| Espada larga (1d10, voluminosa)        |
 | Cota de malla (2 Armadura, voluminosa) |
-| Yelmo (+1  Armadura)         |
-| Capa heráldica              |
-| Esposas                   |
-| Soga fina                  |
+| Yelmo (+1  Armadura)                   |
+| Capa heráldica                         |
+| Grilletes                              |
+| Soga fina                              |
 
 #### Clérigo
 
 |                                 |
-| ------------------------------- |
+| --------------------------------------------- |
 | Martillo de guerra (1d10, voluminoso)         |
-| Cota de malla (2 Armadura, voluminosa)      |
-| Guanteletes (+1 Armadura)            |
-| Cuchilla curva (1d6)               |
-| Símbolo sagrado (Protege una vez al día) |
-| Capa de la orden          |
+| Cota de malla (2 Armadura, voluminosa)        |
+| Guanteletes (+1 Armadura)                     |
+| Espada purificadora (1d6)                     |
+| Símbolo sagrado (Protege una vez al día)      |
+| Capa de la Orden                              |
 
 #### Elfo
 
 ||
-|-----------------------------------------|
-|Espada elegante (1d8)                       |
-|Arco recurvo (1d8)                         |
-|Ropa recubierta en oro (1 Armadura)                  |
-|Libro de hechizos (_Encantar_ o _Detectar magia_)               |
-|Flauta dorada                             |
-|Vejiga Natatoria                              |
+|-------------------------------------------------|
+|Espada elegante (1d8)                            |
+|Arco recurvo (1d8)                               |
+|Ropa recubierta en oro (1 Armadura)              |
+|Libro de hechizos (_Encantar_ o _Detectar magia_)|
+|Flauta dorada                                    |
+|Odre para bucear                                 |
 
 #### Enano
 
 ||
 |------------------------------------------------------------------|
-|Raíz espinosa (1d6)                                               |
+|Maza con pinchos (1d6)                                            |
 |Armadura de entramado de piñas de pino (1 Armadura)               |
 |Paleta/cuchara (de construcción)                                  |
 |Tarro de hormigas del bosque                                      |
@@ -546,69 +547,69 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 #### Explorador
 
 ||
-|-----------------------------------------|
-|Arco largo (1d8, voluminoso)             |
-|Hacha de mano (1d6)                    |
-|Armadura de cuero (1  Armadura)      |
-|Trampa grande                      |
-|Perro de San Huberto &#124; 2 PG, 12  DES, Mordida (1d6) |
-|Cuerno retumbante                 |
+|------------------------------------------------------------------|
+|Arco largo (1d8, voluminoso)                                      |
+|Hacha de mano (1d6)                                               |
+|Armadura de cuero (1  Armadura)                                   |
+|Trampa grande                                                     |
+|Perro de San Huberto &#124; 2 PG, 12  DES, Mordida (1d6)          |
+|Cuerno retumbante                                                 |
 
 #### Fraile
 
 ||
-|--------------------------------|
-|Cetro (1d6)                    |
-|Túnica falsa (+1 Armadura)      |
-|Incensario y agua bendita            |
-|Jarra de vino de miel               |
-|Cancionero folclórico                   |
-|Carreta (+4  espacios, voluminosa)         |
+|-----------------------------------------------------------------|
+|Cetro (1d6)                                                      |
+|Túnica falsa (+1 Armadura)                                       |
+|Incensario y agua bendita                                        |
+|Jarra de vino de miel                                            |
+|Cancionero folclórico                                            |
+|Carreta (+4  espacios, voluminosa)                               |
 
 #### Guerrero
 
 ||
 |---------------------------------------|
-|Archa (1d10, voluminosa)                    |
-|Cimitarra (1d8)                          |
-|Espada corta (1d6)                        |
-|Espada corta (1d6)                        |
-|Bolsa de tabaco y pipa                   |
-|Dados                               |
+|Archa (1d10, voluminosa)               |
+|Cimitarra (1d8)                        |
+|Espada corta (1d6)                     |
+|Espada corta (1d6)                     |
+|Bolsa de tabaco y pipa                 |
+|Dados                                  |
 
 #### Ladrón
 
 ||
-|-----------------------------------------|
-|Dos dagas (1d6+1d6)                      |
-|Gabardina de cuero con capucha (1 Armadura)                  |
-|Ganzúas                                |
-|Abrojos                                 |
-|Gancho de agarre                           |
-|Lima de metal                               |
+|---------------------------------------------|
+|Dos dagas (1d6+1d6)                          |
+|Gabardina de cuero con capucha (1 Armadura)  |
+|Ganzúas                                      |
+|Abrojos                                      |
+|Gancho de agarre                             |
+|Lima de metal                                |
 
 #### Mago
 
 ||
-|-----------------------------------------|
-|Báculo chisporroteador (1d8, voluminoso)                |
-|Daga (1d6)                              |
-|Libro de hechizos (hechizo aleatorio)                 |
-|Libro de hechizos (hechizo aleatorio)                 |
-|Ropa vieja y rota (bolsillos ocultos)         |
-|Hongo de motas verdes (x2, Consulta Reliquias)                  |
+|-----------------------------------------------|
+|Báculo chisporroteador (1d8, voluminoso)       |
+|Daga (1d6)                                     |
+|Libro de hechizos (hechizo aleatorio)          |
+|Libro de hechizos (hechizo aleatorio)          |
+|Ropa vieja y rota (bolsillos ocultos)          |
+|Hongo de motas verdes (x2, Consulta Reliquias) |
 
 
 #### Zahorí (Radietista)
 
 |                                         |
-|-----------------------------------------|
-|Hoz (1d6)                              |
-|Jubón hecho de retazos (+1  Armadura)            |
-|Vara de radiestesia                              |
-|Piedra de ojo (percibido si se pone en agua dulce)|
-|Mapa desgastado                                 |
-|Catalejo                                 |
+|----------------------------------------------------|
+|Hoz (1d6)                                           |
+|Jubón hecho de retazos (+1  Armadura)               |
+|Varita de zahorí                                    |
+|Piedra de ojo (percibido si se pone en agua dulce)  |
+|Mapa desgastado                                     |
+|Catalejo                                            |
 
 [regresar al contenido](#Contenido)
 <p></p>
@@ -617,14 +618,14 @@ Si desea algo más parecido a las clases tradicionales, consulte la lista de [**
 ### Características
 Cada una de las tres **Características** son usadas en diferentes circunstancias (consulte Tiradas de Salvación, más adelante).
 
-**Fuerza (FUE)**: Se utiliza para tiradas de salvación que requieren fuerza física, como para levantar puerta, doblar barras, resistir un veneno, etc.
+**Fuerza (FUE)**: Se utiliza para tiradas de salvación que requieren fuerza física, como para levantar una puerta, doblar barras, resistir un veneno, etc.
 
 **Destreza (DES)**: Se utiliza para tiradas de salvación que requieren aplomo, velocidad y reflejos como esquivar, trepar, escabullirse, balancearse, etc.
 
 **Voluntad (VOL)**: Se utiliza para tiradas de salvación para persuadir, engañar, interrogar, intimidar, encantar, provocar, manipular hechizos, etc.**
 
 ### Tiradas de Salvación
-Una tirada de salvación sirve para evitar los malos resultados de las elecciones tomadas y las circunstancias arriesgadas en las que ocurren. Los PJ tiran 1d20 para obtener un resultado por comparar con la puntuación de característica apropiada. Si el resultado de la tirada es igual o inferior a la característica en cuestión, lo logran. En caso contrario, fallan. Un resultado de 1, como resultado de la tirada, siempre es un éxito, mientras que un resultado de 20 siempre será un fracaso.
+Una **Tirada de salvación** sirve para evitar los malos resultados de las decisiones tomadas y las circunstancias arriesgadas en las que ocurren. Los **PJ** tiran 1d20 para obtener un resultado por comparar con la puntuación de característica apropiada. Si el resultado de la tirada es igual o inferior a la característica en cuestión, lo logran. En caso contrario, fallan. Un resultado de 1,siempre es un éxito, mientras que un 20 siempre será un fallo.
 
 <details markdown="block">
   <summary>
@@ -635,10 +636,10 @@ Expandir para ver el ejemplo
 </details>
 
 ### Curación
-Descansar unos instantes y beber agua restablece los PI perdidos, pero deja al grupo expuesto. Los puntos perdidos de la puntuación de características (consulte **Daño crítico**) generalmente se recuperan con una semana de descanso y cuidados de un sanador o alguien con experiencia en esos menesteres. Algunos de estos servicios son gratis, mientras que medios de recuperación por magia o más oportunos pueden conllevar un costo.
+Descansar unos instantes y beber agua restablece la **PG** perdida, pero deja al grupo expuesto. Los puntos perdidos de la puntuación de características (consulte **Daño crítico**) generalmente se recuperan con una semana de descanso y cuidados de un sanador o alguien con experiencia en esos menesteres. Algunos de estos servicios son gratis, mientras la curación por magia y por otros medios pueden conllevar un costo.
 
 ### Estar Exhausto y Fatiga
-Un PJ con la condición **Exhausto** debido a estar privado de necesidades cruciales (como comer o descansar) no puede recuperar su PG ni sus puntos de sus puntuaciones de característica. Cualquier personaje que esté con la condición de exhausto por más de un día añade **Fatiga** a su inventario, un espacio marcado por cada día en esta condición. Cada fatiga ocupa un espacio y permanecerá marcado hasta que tenga la posibilidad el personaje de recuperarse (ya sea, por ejemplo, descansando toda una noche en un lugar seguro)
+Un **PJ** con la condición **Exhausto** debido a estar privado de necesidades cruciales (como comer o descansar) no puede recuperar su PG ni sus puntos de sus puntuaciones de característica. Cualquier personaje que esté con la condición de exhausto por más de un día añade **Fatiga** a su inventario, un espacio marcado por cada día en esta condición. Cada fatiga ocupa un espacio y permanecerá marcado hasta que tenga la posibilidad el personaje de recuperarse (ya sea, por ejemplo, descansando toda una noche en un lugar seguro)
 También, los PJ obtienen fatiga por **lanzar hechizos** o por eventos viviendo dentro de la ficción.
 
 ### Armadura
