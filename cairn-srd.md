@@ -597,7 +597,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |Libro de hechizos (hechizo aleatorio)          |
 |Libro de hechizos (hechizo aleatorio)          |
 |Ropa vieja y rota (bolsillos ocultos)          |
-|Gorrolís (x2, Consulta Reliquias)              |
+|Embozo de ley (x2, Consulta Reliquias)         |
 
 
 #### Zahorí
@@ -696,7 +696,7 @@ Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa 
 
 **Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 50 pies. Recarga: exponerla a la luz de la luna llena.
 
-**Gorrolís** , 1 uso. Cualquiera que ingiera este hongo de motas verdes pierde una Fatiga, pero luego debe hacer una tirada de salvación de **VOL** para evitar sus propiedades adictivas. Un fallo en la tirada deja al **PJ** **Exhausto** e incapaz de concentrarse hasta que pueda comerse otro gorrolís, lo que alivia temporalmente la adicción sin otros efectos.
+**Embozo de ley** , 1 uso. Cualquiera que ingiera este hongo de motas verdes pierde una Fatiga, pero luego debe hacer una tirada de salvación de **VOL** para evitar sus propiedades adictivas. Un fallo en la tirada deja al **PJ** **Exhausto** e incapaz de concentrarse hasta que pueda comerse otro Embozo de ley, lo que alivia temporalmente la adicción sin otros efectos.
 
 ## Combate
 
@@ -772,15 +772,15 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 
 |        |                                                                                                                                            |
 |------- |--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Cicatriz persistente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado.|
-| 2      | Golpe Certero: Estás desorientado y afectado. Describe cómo recuperas la concentración. Tira 1d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado.|
-| 3      | Derribado: Te mandaron a volar y caíste de bruces sin aliento. Estás exhausto hasta que descanses al menos unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
-| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado. |
-| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando lo superes, tira 2d6. Si el total es mayor que tu PG máximo, también toma el nuevo resultado. |
-| 6      |Afectación por herida en la cabeza: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el total es más alto que tu puntuación de característica actual, toma el nuevo resultado. |
-| 7      | Inmovilizado: Apenas puedes moverte hasta que recibas ayuda seria y descanses. Tras recuperarse, tira 3d6. Si el total es mayor que tu DES máxima, toma el nuevo resultado. |
-| 8      | Sordo: No puedes oír nada hasta que encuentres una ayuda importante. Independientemente de lo anterior, realiza una tirada de VOL. Si la pasa, incrementa 1d4 su VOL máxima 1d4. |
-| 9      | Reencauzado: Alguna parte oculta de tu psique se desprende. Tira 3d6. Si el total es mayor que tu VOL máxima, toma el nuevo resultado. |
+| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
+| 2      | Golpe Aturdidor: Estás desorientado y conmocionado. Describe cómo recuperas la concentración. Tira 1d6. Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
+| 3      | Derribado: Te lanzaron por los aires y caíste de bruces  sin aliento. Estás exhausto hasta que descanses unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
+| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
+| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando la superes, tira 2d6.  Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
+| 6      |Herida en la cabeza que cambiará tu vida: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el resultado es más alto que tu puntuación de característica actual, entonces ese nuevo valor lo sustuiría en adelante. |
+| 7      | Inmovilizado: Apenas puedes moverte hasta que recibas cuidados serios y descanses. Tras recuperarte, tira 3d6. Si el el resultado es mayor que tu DES máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
+| 8      | Sordo: No puedes oír nada hasta que encuentres un remedio significativo. En todo caso, realiza una tirada de salvación de VOL. Si tienes éxito, aumenta tu VOL máxima actual en 1d4. |
+| 9      | Cerebro reestructurado: El daño ha arrancado una parte oculta de tu psique se desprende. Tira 3d6. Si el total es mayor que tu VOL máxima, toma el nuevo resultado. |
 | 10     | Desgarrado: Un apéndice es arrancado, lisiado o queda inservible. El Guardián te dirá cuál. Entonces, haz una tirada de salvación de VOL. Si la superas, aumenta tu VOL máxima en 1d6. |
 | 11     | Herida mortal: Estás exhausto y fuera de acción. Mueres en una hora a menos que te cures. Tras la recuperación, tira 2d6. Tome el nuevo resultado como su PG máximo. |
 | 12     | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si tu próxima tirada de salvación contra un daño crítico es un fallo, muere horriblemente. Si la pasa, tira 3d6. Si el total es superior a su PG máximo, toma el nuevo resultado. |
