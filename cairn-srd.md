@@ -740,34 +740,35 @@ Si se pelea desde una posición de ventaja (como contra un enemigo indefenso o g
 Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el más alto.
 
 ### Estallido
-Los ataque con la cualidad **Estallido** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El **Estallido** se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
+Los ataques con la cualidad **Estallido** afectan a todos los objetivos en el área indicada, tirando el daño por separado para cada personaje alcanzado. La cualidad **Estallido** engloba desde una explosión hasta el impacto de un meteorito, pasando por violentas y cortantes cargas. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
 
 ### Daño crítico
-El daño que reduce la **PG** de un objetivo por debajo de cero disminuye la **FUE** de un objetivo en la cantidad restante. Luego, el objetivo tiene que hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla en una tirada de salvación de **daño crítico**.
+El daño que sobra tras reducir los **PG** de un objetivo a cero se resta a la **FUE** de ese objetivo. Luego, el objetivo tiene que hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla la tirada de salvación ante **daño crítico**.
 
-Cualquier PC que sufra daños críticos no puede hacer nada más que arrastrarse débilmente, aferrándose a la vida. Si se les da ayuda y descanso, se estabilizarán. Si no se tratan, mueren en una hora.
+Un **PJ** que sufra **daño crítico** no podrá hacer nada más que arrastrarse débilmente, aferrándose a la vida. Si se le proporciona ayuda y descanso, se estabilizará. Si no recibe tratamientos, morirá en una hora.
 
-### Perder puntos de la puntuación de características
+### Perder puntos de características
 Si la **FUE** de un **PJ** se reduce a 0, muere. Si su **DES** se reduce a 0, queda paralizado. Si su **VOL** se reduce a 0, está delirando.
 La pérdida completa de **DES** y **VOL** hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios extraordinarios.
 
 ### Cicatrices
-Cuando el daño a un **PJ** reduce su **PG** exactamente a 0, a veces este hecho lo hace cambiar para siempre. Consultar la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
+Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente
+a veces este hecho lo hace cambiar para siempre. Ver la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
 
 ### Inconsciencia y muerte
-Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un ayudante. Para reducir el tiempo muerto en el juego, el nuevo personaje o el seguidor que controla ahora la jugadora se incorpora de inmediato al grupo.
+Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un seguidor. Para reducir el tiempo muerto, el nuevo personaje se incorpora de inmediato al grupo.
 
 ### Destacamentos
-Los grandes grupos de combatientes similares que luchan juntos se tratan como un solo **Destacamento**. Cuando un **Destacamento** recibe **daño crítico**, es derrotado o significativamente debilitado. Cuando llega a 0 su **FUE**, se destruye.
+Los grupos grandes de combatientes similares que luchan juntos se tratan como un único **Destacamento**. Cuando un **Destacamento** recibe **daño crítico**, queda derrotado o significativamente debilitado. Cuando llega a 0 su **FUE**, es destruido.
 
-Los ataques contra **Destacamentos** por parte de individuos están en **desventaja** (excluyendo el daño por onda expansiva).
-Los ataques contra individuos por parte de los destacamentos están en **ventaja** y causan daño por onda expansiva.
+Los individuos que ataquen **Destacamentos** lo harán con **desventaja** (excluyendo el daño por **Estallido**).
+Los **Destacamentos** que ataquen individuos lo harán con **ventaja** y causarán daño por **Estallido**.
 
 ### Retirada
-Huir de una situación terrible siempre requiere una tirada de salvación de **DES** exitosa, así como un destino seguro al que correr.
+Para huir de una situación nefasta será necesario tener éxito en una tirada de salvación de **DES**. También hará falta un lugar seguro al que huir.
 
 ### Cicatrices
-Cuando un ataque reduce la **PG** de una **PJ** a exactamente 0, se ve afectado de manera única. Busque el resultado en la siguiente tabla en función del daño total recibido:
+Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afectado. Busque el resultado en la siguiente tabla en función del daño total recibido:
 
 |      |                                                              |
 |------ |---|
