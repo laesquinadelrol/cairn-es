@@ -780,21 +780,21 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 | 6      |Herida en la cabeza que cambiará tu vida: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el resultado es más alto que tu puntuación de característica actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 7      | Inmovilizado: Apenas puedes moverte hasta que recibas cuidados serios y descanses. Tras recuperarte, tira 3d6. Si el el resultado es mayor que tu DES máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 8      | Sordo: No puedes oír nada hasta que encuentres un remedio significativo. En todo caso, realiza una tirada de salvación de VOL. Si tienes éxito, aumenta tu VOL máxima actual en 1d4. |
-| 9      | Cerebro reestructurado: El daño ha arrancado una parte oculta de tu psique se desprende. Tira 3d6. Si el total es mayor que tu VOL máxima, toma el nuevo resultado. |
-| 10     | Desgarrado: Un apéndice es arrancado, lisiado o queda inservible. El Guardián te dirá cuál. Entonces, haz una tirada de salvación de VOL. Si la superas, aumenta tu VOL máxima en 1d6. |
-| 11     | Herida mortal: Estás exhausto y fuera de acción. Mueres en una hora a menos que te cures. Tras la recuperación, tira 2d6. Tome el nuevo resultado como su PG máximo. |
-| 12     | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si tu próxima tirada de salvación contra un daño crítico es un fallo, muere horriblemente. Si la pasa, tira 3d6. Si el total es superior a su PG máximo, toma el nuevo resultado. |
+| 9      | Cerebro reestructurado: El daño ha arrancado una parte oculta de tu psique. Tira 3d6. Si el resultado es mayor que tu VOL máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
+| 10     | Desgarrado: El daño arranca o deja inútil una extremidad. El Guardián te dirá cuál. Después, haz una tirada de salvación de VOL. Si la superas, aumenta tu VOL máxima en 1d6. |
+| 11     | Herida mortal: Estás exhausto y fuera de acción. Morirás en una hora a menos que te cures. Tras la recuperación, tira 2d6. El resultado será la nueva puntuación de tu PG máximos. |
+| 12     | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si fallas la próxima tirada de salvación contra un daño crítico, morirás horriblemente. Si tienes éxito, tira 3d6. Si el resultado es mayor que su PG máximo actual, entonces ese nuevo valor lo sustuiría en adelante. |
 
 [regresar al contenido](#contenido)
 <p></p>
 
 ## Bestiario
 
-**Goblin de la raíz**  
+**Goblin de raíz**  
 4 PG, 8 FUE, 14 DES, 8 VOL, Lanza (1d6)
-- Evita el combate a menos que tengan ventaja (como superar en número).
-- Protegen sus bienes robados hasta la muerte.
-- Aprecia los Libro de hechizos; dispuestos a negociar.
+- Evita el combate a menos que lleve las de ganar (como superar en número).
+- Protege a muerte sus bienes robados.
+- Aprecia los libros de hechizos; siempre está dispuesto a comerciar.
 
 **Hombre encapuchado**  
 12 PG, 9 FUE, 12 DES, 14 VOL, Báculo de poder (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
