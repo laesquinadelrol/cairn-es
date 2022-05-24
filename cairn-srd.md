@@ -295,53 +295,53 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Vestimenta
 
-|  |         |      |        |
-| -------- | -------------- | ---- | ------ |
+|          |                |      |               |
+| -------- | -------------- | ---- | ------------- |
 | 1        | Antigua        | 6    | Ensangrentada |
-| 2        | Con barro      | 7    | Elegante |
-| 3        | De otro lugar  | 8    | Maloliente |
-| 4        | Desalineada    | 9    | Sucia |
-| 5        | Deshilachada   | 10   | Uniformado |
+| 2        | Con barro      | 7    | Elegante      |
+| 3        | De otro lugar  | 8    | Maloliente    |
+| 4        | Desalineada    | 9    | Sucia         |
+| 5        | Deshilachada   | 10   | Uniformado    |
 
 #### Virtud
 
-|  |             |      |           |
-| ------ | ----------- | ---- | --------- |
-| 1      | Ambiciosa     | 6    | Precavido |
-| 2      | Disciplinado  | 7    | Serena    |
-| 3      | Honorable     | 8    | Sociable  |
-| 4      | Humilde       | 9    | Tolerante    |
-| 5      | Misericordiosa| 10   | Valiente  |
+|        |               |      |               |
+| ------ | ------------- | ---- | ------------- |
+| 1      | Ambiciosa     | 6    | Precavido     |
+| 2      | Disciplinado  | 7    | Serena        |
+| 3      | Honorable     | 8    | Sociable      |
+| 4      | Humilde       | 9    | Tolerante     |
+| 5      | Misericordiosa| 10   | Valiente      |
 
 #### Vicio
 
-|  |            |      |          |
-| ---- | ---------- | ---- | -------- |
-| 1    | Agresivo     | 6    | Mentiroso     |
-| 2    | Amargada     | 7    | Nerviosa  |
-| 3    | Avaricioso   | 8    | Perezoso     |
-| 4    | Codiciosa    | 9    | Ruda     |
-| 5    | Engreído     | 10   | Vengativo |
+|      |              |      |             |
+| ---- | ------------ | ---- | ----------- |
+| 1    | Agresivo     | 6    | Mentiroso   |
+| 2    | Amargada     | 7    | Nerviosa    |
+| 3    | Avaricioso   | 8    | Perezoso    |
+| 4    | Codiciosa    | 9    | Ruda        |
+| 5    | Engreído     | 10   | Vengativo   |
 
 #### Reputación
 
-|  |             |      |           |
-| ---------- | ----------- | ---- | --------- |
+|            |                |      |            |
+| ---------- | -------------- | ---- | ---------- |
 | 1          | Ambicioso      | 6    | Honrada    |
-| 2          | Bicho raro     | 7    | Patán   |
-| 3          | Desagradable   | 8    | Peligrosa |
-| 4          | Divertida      | 9    | Respetado |
+| 2          | Bicho raro     | 7    | Patán      |
+| 3          | Desagradable   | 8    | Peligrosa  |
+| 4          | Divertida      | 9    | Respetado  |
 | 5          | Holgazán       | 10   | Sabia      |
 
 #### Desgracia
 
-|  |             |      |             |
-| ----------- | ----------- | ---- | ----------- |
-| 1           | Abandonada   | 6    | Degradado   |
-| 2           | Adicto       | 7    | Desheredada     |
-| 3           | Chantajeada  | 8    | Desacreditado |
-| 4           | Condenado    | 9    | Exiliada    |
-| 5           | Defraudada   | 10   | Maldito      |
+|             |              |      |                |
+| ----------- | ------------ | ---- | -------------- |
+| 1           | Abandonada   | 6    | Degradado      |
+| 2           | Adicto       | 7    | Desheredada    |
+| 3           | Chantajeada  | 8    | Desacreditado  |
+| 4           | Condenado    | 9    | Exiliada       |
+| 5           | Defraudada   | 10   | Maldito        |
 
 <p></p>
 
@@ -349,67 +349,67 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Armadura
 
-|  |            |           |       |
-| :-------: | :--------: | :------------: | :---: |
-|  1-3      |    4-14    |   15-19        |  20   |
+|           |            |                |                   |
+| :-------: | :--------: | :------------: | :---------------: |
+|  1-3      |    4-14    |   15-19        |  20               |
 | Ninguna   | Brigantina | Cota de malla  | Armadura completa |
 
 #### Yelmos y escudos
 
-|  |        |        |                 |
+|                      |        |        |                 |
 | :------------------: | :----: | :----: | :-------------: |
 |       1-13           | 14-16  | 17-19  |       20        |
-|       Ninguno        | Yelmo  | Escudo | Yelmo y Escudo |
+|       Ninguno        | Yelmo  | Escudo | Yelmo y Escudo  |
 
 #### Armas
 
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
+|                       |                     |                             |                                                |
+| :-------------------: | :-----------------: | :-------------------------: | :--------------------------------------------: |
+|          1-5          |       6-14          |          15-19              |               20                               |
 | Daga, Garrote, Báculo | Espada, Maza, Hacha | Arco largo, Ballesta, Honda | Alabarda, Martillo de guerra, Hacha de batalla |
 
 #### Equipo para expediciones
 
-|      |                        |      |                |      |             |      |             |
-| ---- | --------------------------------- | ---- | ------------------- | ---- | ---------------------- | ---- | ----------- |
-| 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 mts)  |
-| 2    | Amuleto contra espíritus          | 7    | Gancho de agarre    | 12   | planta de acónito      | 17   |Trampa grande  |
-| 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 mts)    |
-| 4    | Cadena (10 pies)                  | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí  |
-| 5    | Carreta (+4 espacios, voluminosa) | 10   | Odre para bucear    | 15   | Saco grande            | 20   | Yesquero   |
+|      |                                   |      |                     |      |                        |      |                  |
+| ---- | --------------------------------- | ---- | ------------------- | ---- | ---------------------- | ---- | ---------------- |
+| 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 mts)     |
+| 2    | Amuleto contra espíritus          | 7    | Gancho de agarre    | 12   | planta de acónito      | 17   |Trampa grande     |
+| 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 mts)     |
+| 4    | Cadena (10 pies)                  | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
+| 5    | Carreta (+4 espacios, voluminosa) | 10   | Odre para bucear    | 15   | Saco grande            | 20   | Yesquero         |
 
 #### Herramientas
 
-|      |          |      |                |      |            |      |         |
-| ---- | ------------- | ---- | ------------------ | ---- | -------------- | ---- | ------- |
+|      |               |      |                    |      |                |      |                    |
+| ---- | ------------- | ---- | ------------------ | ---- | -------------- | ---- | ------------------ |
 | 1    | Abrojos       | 6    | Fuelle             | 11   | Pala           | 16   | Reloj de arena     |
-| 2    | Caña de pescar| 7    | Grasa              | 12   | Palanca        | 17   | Sellador     |
-| 3    | Cincel        | 8    | Lima de metal      | 13   | Pegamento      | 18   | Serrucho |
-| 4    | Clavos        | 9    | Martillo           | 14   | Pinzas de metal| 19   | Taladro manual  |
-| 5    | Cubo          | 10   | Olla para cocinar  | 15   | Red            | 20   | Tiza   |
+| 2    | Caña de pescar| 7    | Grasa              | 12   | Palanca        | 17   | Sellador           |
+| 3    | Cincel        | 8    | Lima de metal      | 13   | Pegamento      | 18   | Serrucho           |
+| 4    | Clavos        | 9    | Martillo           | 14   | Pinzas de metal| 19   | Taladro manual     |
+| 5    | Cubo          | 10   | Olla para cocinar  | 15   | Red            | 20   | Tiza               |
 
 #### Baratijas
 
-|      |             |      |            |      |             |      |         |
-| ---- | ----------------- | ---- | ---------- | ---- | ---------------------- | ---- | ------- |
+|      |                   |      |            |      |                        |      |                  |
+| ---- | ----------------- | ---- | ---------- | ---- | ---------------------- | ---- | ---------------- |
 | 1    | Botella           | 6    | Cuerno     | 11   | Instrumento musical    | 16   | Paquete de sal   |
-| 2    | Bote de alquitrán | 7    | Dados      | 12   | Jabón                  | 17   | Perfume  |
-| 3    | Campana pequeña   | 8    | Espejo 	   | 13   | Joyas Falsas           | 18   | Pintura facial |
-| 4    | Canicas           | 9    | Esponja    | 14   | Lupa                   | 19   | Pluma y tinta   |
-| 5    | Cordel            | 10   | Incienso   | 15   | Mazo de cartas         | 20   | Silbato |
+| 2    | Bote de alquitrán | 7    | Dados      | 12   | Jabón                  | 17   | Perfume          |
+| 3    | Campana pequeña   | 8    | Espejo 	   | 13   | Joyas Falsas           | 18   | Pintura facial   |
+| 4    | Canicas           | 9    | Esponja    | 14   | Lupa                   | 19   | Pluma y tinta    |
+| 5    | Cordel            | 10   | Incienso   | 15   | Mazo de cartas         | 20   | Silbato          |
 
 #### Objetos adicionales (realiza una tirada en la tabla indicada)
 
-|                  |                    |                 |           |
-| :--------------: | :----------------: | :-------------: | :-------: |
-|       1-5        |        6-13        |      14-17      |   18-20   |
+|                        |                          |                 |                   |
+| :--------------------: | :----------------------: | :-------------: | :---------------: |
+|       1-5              |        6-13              |      14-17      |   18-20           |
 | Herramienta o baratija | Equipo para expediciones | Armadura o arma | Libro de hechizos |
 
 <p></p>
 
 #### Libro de hechizos (d100)
 
-|||||||||
+|   |                       |   |                    |   |                   |   |                  |
 |---|-----------------------|---|--------------------|---|-------------------|---|------------------|
 |1  |Acelerar               |26 |Curar heridas       |51 |Herramienta        |76 |Oír susurros      |
 |2  |Adherir                |27 |Desmontar           |52 |Hipnotizar         |77 |Ojo arcano        |
@@ -443,7 +443,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Armaduras
 
-||     |
+|                                                              |     |
 |--------------------------------------------------------------|-----|
 |Escudo (+1 Armadura)                                          |10   |
 |Yelmo (+1 Armadura)                                           |10   |
@@ -454,7 +454,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Armas
 
-| |     |
+|                                                                            |     |
 |----------------------------------------------------------------------------|-----|
 |Daga, Garrote, Hoz,  báculo, etc. (1d6  daño)                               |5    |
 |Lanza, Espada, Maza, Hacha, Mayal, etc. (1d8 daño)                          |10   |
@@ -465,27 +465,27 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Equipo y herramientas
 
-| |                |                   |          |
+|                                             |                 |                                      |          |
 |---------------------------------------------|-----------------|--------------------------------------|----------|
 |Abrojos                                      |10               |Lupa                                  |10        |
-|Aceite (Como combustible)                    |10               |Libro                                 |50         |
-|Agua bendita                                 |25               |Lima de metal                         |5        |
+|Aceite (Como combustible)                    |10               |Libro                                 |50        |
+|Agua bendita                                 |25               |Lima de metal                         |5         |
 |Alquitrán                                    |10               |Linterna y aceite                     |10        |
-|Antorcha                                     |1                |Martillo                              |5        |
-|Bolsa de piel encerada                       |5                |Mula (+6 espacios, lenta)             |30         |
+|Antorcha                                     |1                |Martillo                              |5         |
+|Bolsa de piel encerada                       |5                |Mula (+6 espacios, lenta)             |30        |
 |Botas de escalada                            |5                |Odre para bucear                      |5         |
-|Caballo (+4 espacios)                        |75               |Olla para cocinar                     |10         |
-|Cadena (3 mts)                               |10               |Pala                                  |5      |
+|Caballo (+4 espacios)                        |75               |Olla para cocinar                     |10        |
+|Cadena (3 mts)                               |10               |Pala                                  |5         |
 |Canica de cristal                            |5                |Palanca                               |10        |
 |Caña de pescar                               |10               |Pegamento                             |5         |
 |Carreta (+4 espacios, voluminosa)            |30               |Pico                                  |10        |
 |Carromato (+8 espacios, lento)               |200              |Pintura facial                        |10        |
-|Catalejo                                     |40               |Plantas de acónito                    |10         |
+|Catalejo                                     |40               |Plantas de acónito                    |10        |
 |Cincel                                       |5                |Pluma y tinta                         |10        |
 |Clavo                                        |1                |Polea                                 |10        |
-|Cuerno                                       |10               |Raciones (tres días)                  |10         |
-|Cubo                                         |5                |Red                                   |10         |
-|Escalera (voluminosa, 3 mts)                 |10               |Reloj de arena                        |50         |
+|Cuerno                                       |10               |Raciones (tres días)                  |10        |
+|Cubo                                         |5                |Red                                   |10        |
+|Escalera (voluminosa, 3 mts)                 |10               |Reloj de arena                        |50        |
 |Espejo                                       |5                |Saco                                  |5         |
 |Esponja grande                               |5                |Saco de dormir                        |5         |
 |Fuelle                                       |10               |Serrucho                              |5         |
@@ -493,8 +493,8 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |Ganzúas                                      |25               |Taladro manual                        |10        |
 |Grasa                                        |10               |Tienda (para 2 personas, voluminosa)  |20        |
 |Grilletes                                    |10               |Tiza                                  |1         |
-|Incienso                                     |10               |Trampa grande                         |20         |
-|Jabón                                        |1                |Vara (3 mts)                          |5    |
+|Incienso                                     |10               |Trampa grande                         |20        |
+|Jabón                                        |1                |Vara (3 mts)                          |5         |
 
 <p></p>
 
@@ -502,7 +502,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Caballero
 
-|                            |
+|                                        |
 | -------------------------------------- |
 | Espada larga (1d10, voluminosa)        |
 | Cota de malla (2 Armadura, voluminosa) |
@@ -513,7 +513,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Clérigo
 
-|                                 |
+|                                               |
 | --------------------------------------------- |
 | Martillo de guerra (1d10, voluminoso)         |
 | Cota de malla (2 Armadura, voluminosa)        |
@@ -524,7 +524,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Elfo
 
-||
+|                                                 |
 |-------------------------------------------------|
 |Espada elegante (1d8)                            |
 |Arco recurvo (1d8)                               |
@@ -535,7 +535,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Enano
 
-||
+|                                                                  |
 |------------------------------------------------------------------|
 |Maza con pinchos (1d6)                                            |
 |Armadura de entramado de piñas de pino (1 Armadura)               |
@@ -546,7 +546,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Explorador
 
-||
+|                                                                  |
 |------------------------------------------------------------------|
 |Arco largo (1d8, voluminoso)                                      |
 |Hacha de mano (1d6)                                               |
@@ -557,7 +557,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Fraile
 
-||
+|                                                                 |
 |-----------------------------------------------------------------|
 |Cetro (1d6)                                                      |
 |Ropas engañosas (+1 Armadura)                                    |
@@ -568,7 +568,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Guerrero
 
-||
+|                                       |
 |---------------------------------------|
 |Guja (1d10, voluminosa)                |
 |Cimitarra (1d8)                        |
@@ -579,10 +579,10 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Ladrón
 
-||
+|                                             |
 |---------------------------------------------|
 |Dos dagas (1d6+1d6)                          |
-|Jubón con capucha (1 Armadura)  |
+|Jubón con capucha (1 Armadura)               |
 |Ganzúas                                      |
 |Abrojos                                      |
 |Gancho de agarre                             |
@@ -590,7 +590,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Mago
 
-||
+|                                               |
 |-----------------------------------------------|
 |Báculo crepitante (1d8, voluminoso)            |
 |Daga (1d6)                                     |
@@ -602,7 +602,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 #### Zahorí
 
-|                                         |
+|                                                            |
 |------------------------------------------------------------|
 |Hoz (1d6)                                                   |
 |Jubón hecho de retales (+1  Armadura)                       |
@@ -653,10 +653,10 @@ Los escudos, guanteletes y yelmos pueden proveer beneficios adicionales de acuer
 #### Reacciones
 Cuando los **PJ** encuentre un **PNJ** cuya _reacción_ al grupo no es obvia, el **Guardián** puede tirar 2d6 y consultar el resultado obtenido en la siguiente tabla:
 
-| | | | | |
-| :-----: | :--: | :-----: | :--: | :--: |
-|    2    | 3-5  |   6-8   | 9-11 | 12      |
-| Hostil | Cauteloso | Curioso | Amable | Servicial |
+|         |           |         |        |           |
+| :-----: | :-------: | :-----: | :----: | :-------: |
+|    2    | 3-5       |   6-8   | 9-11   | 12        |
+| Hostil  | Cauteloso | Curioso | Amable | Servicial |
 
 #### Moral
 Los enemigos tienen que superar una tirada de salvación de **VOL** para no huir cuando sufren su primera baja y tendrán que superar otra cuando su número se reduzca a la mitad. Algunos grupos pueden utilizan la **VOL** de su líder en lugar de la suya. Los enemigos solitarios deben superar una tirada de salvación de **VOL** cuando la **PG** queda reducida a 0. Los **PJ** no se ven afectados por reglas de moral.
@@ -770,20 +770,20 @@ Para huir de una situación nefasta será necesario tener éxito en una tirada d
 ### Cicatrices
 Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afectado. Busque el resultado en la siguiente tabla en función del daño total recibido:
 
-|      |                                                              |
-|------ |---|
-| 1    | Cicatriz persistente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado.|
-| 2    | Golpe Certero: Estás desorientado y afectado. Describe cómo recuperas la concentración. Tira 1d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado.|
-| 3    | Derribado: Te mandaron a volar y caíste de bruces sin aliento. Estás exhausto hasta que descanses al menos unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
-| 4    | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado. |
-| 5    | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando lo superes, tira 2d6. Si el total es mayor que tu PG máximo, también toma el nuevo resultado. |
-| 6    |Afectación por herida en la cabeza: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el total es más alto que tu puntuación de característica actual, toma el nuevo resultado. |
-| 7    | Inmovilizado: Apenas puedes moverte hasta que recibas ayuda seria y descanses. Tras recuperarse, tira 3d6. Si el total es mayor que tu DES máxima, toma el nuevo resultado. |
-| 8    | Sordo: No puedes oír nada hasta que encuentres una ayuda importante. Independientemente de lo anterior, realiza una tirada de VOL. Si la pasa, incrementa 1d4 su VOL máxima 1d4. |
-| 9    | Reencauzado: Alguna parte oculta de tu psique se desprende. Tira 3d6. Si el total es mayor que tu VOL máxima, toma el nuevo resultado. |
-| 10   | Desgarrado: Un apéndice es arrancado, lisiado o queda inservible. El Guardián te dirá cuál. Entonces, haz una tirada de salvación de VOL. Si la superas, aumenta tu VOL máxima en 1d6. |
-| 11   | Herida mortal: Estás exhausto y fuera de acción. Mueres en una hora a menos que te cures. Tras la recuperación, tira 2d6. Tome el nuevo resultado como su PG máximo. |
-| 12   | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si tu próxima tirada de salvación contra un daño crítico es un fallo, muere horriblemente. Si la pasa, tira 3d6. Si el total es superior a su PG máximo, toma el nuevo resultado. |
+|        |                                                                                                                                            |
+|------- |--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Cicatriz persistente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado.|
+| 2      | Golpe Certero: Estás desorientado y afectado. Describe cómo recuperas la concentración. Tira 1d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado.|
+| 3      | Derribado: Te mandaron a volar y caíste de bruces sin aliento. Estás exhausto hasta que descanses al menos unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
+| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6. Si el total es mayor que tu PG máximo, toma el nuevo resultado. |
+| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando lo superes, tira 2d6. Si el total es mayor que tu PG máximo, también toma el nuevo resultado. |
+| 6      |Afectación por herida en la cabeza: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el total es más alto que tu puntuación de característica actual, toma el nuevo resultado. |
+| 7      | Inmovilizado: Apenas puedes moverte hasta que recibas ayuda seria y descanses. Tras recuperarse, tira 3d6. Si el total es mayor que tu DES máxima, toma el nuevo resultado. |
+| 8      | Sordo: No puedes oír nada hasta que encuentres una ayuda importante. Independientemente de lo anterior, realiza una tirada de VOL. Si la pasa, incrementa 1d4 su VOL máxima 1d4. |
+| 9      | Reencauzado: Alguna parte oculta de tu psique se desprende. Tira 3d6. Si el total es mayor que tu VOL máxima, toma el nuevo resultado. |
+| 10     | Desgarrado: Un apéndice es arrancado, lisiado o queda inservible. El Guardián te dirá cuál. Entonces, haz una tirada de salvación de VOL. Si la superas, aumenta tu VOL máxima en 1d6. |
+| 11     | Herida mortal: Estás exhausto y fuera de acción. Mueres en una hora a menos que te cures. Tras la recuperación, tira 2d6. Tome el nuevo resultado como su PG máximo. |
+| 12     | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si tu próxima tirada de salvación contra un daño crítico es un fallo, muere horriblemente. Si la pasa, tira 3d6. Si el total es superior a su PG máximo, toma el nuevo resultado. |
 
 [regresar al contenido](#contenido)
 <p></p>
