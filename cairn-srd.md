@@ -76,8 +76,8 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 ### Preparación
 -   El mundo del juego es orgánico, maleable y aleatorio. Se intuye y da giros bruscos.
 -   Usa tablas aleatorias y generadores para desarrollar situaciones, no historias ni tramas.
--   Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo afectan al mundo.
--   Los PNJ no desean morir. Incluye en cada personalidad su motivación y voluntad de vivir.
+-   Los **PNJ** siempre recuerdan lo que los **PJ** dicen o hacen y cómo afectan al mundo.
+-   Los **PNJ** no desean morir. Incluye en cada personalidad su motivación y voluntad de vivir.
 
 ### Concentrarse en la narrativa  
 -   La experiencia de juego emergente es lo que importa, no los números ni las características de los personajes.
@@ -92,9 +92,9 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 -   Ofrece a las jugadoras oportunidades para resolver problemas e interactuar con el mundo
 
 ### Tesoro
--   El tesoro es específico al lugar donde se encuentra. El tesoro cuenta su propia historia    
--   El tesoro es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y fama.
--   Las reliquias no son Tesoros, aunque son útiles e interesantes.
+-   El **Tesoro** es específico al lugar donde se encuentra. El **Tesoro** cuenta su propia historia    
+-   El **Tesoro** es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y fama.
+-   Las reliquias no son **Tesoros**, aunque son útiles e interesantes.
 -   Utiliza el **Tesoro** como señuelo para que los personajes vayan a lugares exóticos bajo el dominio de enemigos terribles.
 
 ### Dar opciones  
@@ -106,7 +106,7 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 ### Dado del Destino  
 -   De vez en cuando querrás un elemento de aleatoriedad en tu partida (por ejemplo: clima, conocer a un personaje único, etc.).    
 -   En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a las jugadoras.
--   Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
+-   Un resultado de 3 o menos suele significar mala suerte para los **PJ** y sus aliados.
 
 [regresar al contenido](#contenido)
 <p></p>
@@ -128,7 +128,7 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 -   No existe un único camino correcto a seguir.
 
 ### Interactuando con Personajes no Jugadores
--   Traten a los *PNJ* como si fueran personas reales y confíen en su curiosidad como jugadoras para obtener información y resolver problemas de forma segura.    
+-   Traten a los **PNJ** como si fueran personas reales y confíen en su curiosidad como jugadoras para obtener información y resolver problemas de forma segura.    
 -   Pronto descubrirás que la mayoría de las personas son interesantes y que querrán hablar o dialogar antes que recurrir a la violencia.
 
 ### Sean precavidas
@@ -159,18 +159,18 @@ Finalmente, realiza una tirada para determinar su **edad** (2d20+10).
 #### Puntuaciones de las características
 Los **Personajes Jugadores (PJ)** tienen solo tres características:  
 **Fuerza (FUE)**, **Destreza (DES)**, y **Voluntad (VOL)**.
-Cuando se crea un PJ, el jugador tira 3d6 por cada característica, en orden. Luego, pueden intercambiarse dos de los resultados.
+Cuando se crea un **PJ**, la jugadora tira 3d6 por cada característica, en orden. Luego, pueden intercambiarse dos de los resultados.
 
 <details markdown="block">
   <summary>
 Expandir para ver el Ejemplo
  </summary>
-Inés tira para determinar la FUE de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la DES y un 13 para la VOL. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de FUE, 12 de DES y 13 de VOL.
+Inés tira para determinar la FUE de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la DES y un 13 para la **VOL**. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de **FUE**, 12 de **DES** y 13 de **VOL**.
 
 </details>
 
 ### Protección contra golpes  
-Tira 1d6 para determinar el valor inicial de la **Protección contra golpes (PG)** del **PJ**, la cual refleja su capacidad para evitar el daño en combate. El valor de la PG no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la PG de un personaje se reduce a cero, la jugadora debe tirar en la tabla [**Cicatrices**](#cicatrices-1).
+Tira 1d6 para determinar el valor inicial de la **Protección contra golpes (PG)** del **PJ**, la cual refleja su capacidad para evitar el daño en combate. El valor de la **PG** no indica la salud o fortaleza del personaje; ni es algo que pierda por mucho tiempo (consulte **Curación**). Si en un ataque la **PG** de un personaje se reduce a cero, la jugadora debe tirar en la tabla [**Cicatrices**](#cicatrices-1).
 
 #### Inventario
 Los personajes tienen un total de 10 espacios de inventario: una mochila con seis espacios, un espacio en cada mano, y dos espacios en la parte superior del cuerpo (como el cinturón, el pecho o la cabeza). Además, la mochila puede servir como saco de dormir en casos de emergencia, pero solo si se vacía todo su contenido.
@@ -188,9 +188,9 @@ Todos los **PJ** comienzan con:
 -   Una antorcha (un espacio)
 -   3d6 monedas de oro
 
-Realiza varias tiradas en las tablas de **Equipo inicial** para determinar la armadura, armas, herramientas y demás equipo de tu **PJ**. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#libro-de-hechizos-d100) (o tira 2d10, usando un dado para las unidades y otro para las decenas).
+Realiza varias tiradas en las tablas de **Equipo inicial** para determinar la **Armadura**, armas, herramientas y demás equipo de tu **PJ**. Si se indica, tira 1d100 en el [**Libro de Hechizos**](#libro-de-hechizos-d100) (o tira 2d10, usando un dado para las unidades y otro para las decenas).
 
-Consulta el **Listado de equipo** para ver los valores relacionados con la armadura, daño y espacios. En ocasiones,  los objetos pequeños pueden agruparse para que ocupen un mismo espacio.
+Consulta el **Listado de equipo** para ver los valores relacionados con la **Armadura**, daño y espacios. En ocasiones,  los objetos pequeños pueden agruparse para que ocupen un mismo espacio.
 
 Si se desea algo más parecido a las clases tradicionales, puede consultarse la lista de [**Inventarios de clases predeterminadas**](#inventarios-de-clases-predeterminadas).
 
@@ -468,7 +468,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | |                |                   |          |
 |---------------------------------------------|-----------------|--------------------------------------|----------|
 |Abrojos                                      |10               |Lupa                                  |10        |
-|Aceite para fuego                            |10               |Libro                                 |50         |
+|Aceite (Como combustible)                    |10               |Libro                                 |50         |
 |Agua bendita                                 |25               |Lima de metal                         |5        |
 |Alquitrán                                    |10               |Linterna y aceite                     |10        |
 |Antorcha                                     |1                |Martillo                              |5        |
@@ -507,7 +507,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | Espada larga (1d10, voluminosa)        |
 | Cota de malla (2 Armadura, voluminosa) |
 | Yelmo (+1  Armadura)                   |
-| Capa heráldica                         |
+| Capa con emblema heráldico             |
 | Grilletes                              |
 | Soga fina                              |
 
@@ -528,7 +528,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |-------------------------------------------------|
 |Espada elegante (1d8)                            |
 |Arco recurvo (1d8)                               |
-|Ropa recubierta en oro (1 Armadura)              |
+|Ropa bañada de oro (1 Armadura)                  |
 |Libro de hechizos (_Encantar_ o _Detectar magia_)|
 |Flauta dorada                                    |
 |Odre para bucear                                 |
@@ -552,25 +552,25 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |Hacha de mano (1d6)                                               |
 |Armadura de cuero (1  Armadura)                                   |
 |Trampa grande                                                     |
-|Perro de San Huberto &#124; 2 PG, 12  DES, Mordida (1d6)          |
-|Cuerno retumbante                                                 |
+|Sabueso &#124; 2 PG, 12  DES, Mordida (1d6)                       |
+|Cuerno atronador                                                  |
 
 #### Fraile
 
 ||
 |-----------------------------------------------------------------|
 |Cetro (1d6)                                                      |
-|Túnica falsa (+1 Armadura)                                       |
+|Ropas engañosas (+1 Armadura)                                    |
 |Incensario y agua bendita                                        |
 |Jarra de vino de miel                                            |
-|Cancionero folclórico                                            |
+|Libro de canciones populares                                     |
 |Carreta (+4  espacios, voluminosa)                               |
 
 #### Guerrero
 
 ||
 |---------------------------------------|
-|Archa (1d10, voluminosa)               |
+|Guja (1d10, voluminosa)                |
 |Cimitarra (1d8)                        |
 |Espada corta (1d6)                     |
 |Espada corta (1d6)                     |
@@ -582,7 +582,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 ||
 |---------------------------------------------|
 |Dos dagas (1d6+1d6)                          |
-|Gabardina de cuero con capucha (1 Armadura)  |
+|Jubón con capucha (1 Armadura)  |
 |Ganzúas                                      |
 |Abrojos                                      |
 |Gancho de agarre                             |
@@ -592,179 +592,182 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 ||
 |-----------------------------------------------|
-|Báculo chisporroteador (1d8, voluminoso)       |
+|Báculo crepitante (1d8, voluminoso)            |
 |Daga (1d6)                                     |
 |Libro de hechizos (hechizo aleatorio)          |
 |Libro de hechizos (hechizo aleatorio)          |
 |Ropa vieja y rota (bolsillos ocultos)          |
-|Hongo de motas verdes (x2, Consulta Reliquias) |
+|Gorrolís (x2, Consulta Reliquias)              |
 
 
-#### Zahorí (Radietista)
+#### Zahorí
 
 |                                         |
-|----------------------------------------------------|
-|Hoz (1d6)                                           |
-|Jubón hecho de retazos (+1  Armadura)               |
-|Varita de zahorí                                    |
-|Piedra de ojo (percibido si se pone en agua dulce)  |
-|Mapa desgastado                                     |
-|Catalejo                                            |
+|------------------------------------------------------------|
+|Hoz (1d6)                                                   |
+|Jubón hecho de retales (+1  Armadura)                       |
+|Varita de zahorí                                            |
+|Piedra de ojo (Hechizo Sentir, si se pone en agua dulce)    |
+|Mapa desgastado                                             |
+|Catalejo                                                    |
 
 [regresar al contenido](#Contenido)
 <p></p>
 
 ## Reglas
 ### Características
-Cada una de las tres **Características** son usadas en diferentes circunstancias (consulte **Tiradas de Salvación**, más adelante).
+Según la situación, se usará una de las tres **Características** (ver **Tiradas de Salvación**, más adelante).
 
-**Fuerza (FUE)**: Se utiliza para tiradas de salvación que requieren fuerza física, como para levantar una puerta, doblar barras, resistir un veneno, etc.
+**Fuerza (FUE)**: Se utiliza para tiradas de salvación que requieren fuerza física, como levantar un rastrillo, doblar barrotes, resistir un veneno, etc.
 
-**Destreza (DES)**: Se utiliza para tiradas de salvación que requieren aplomo, velocidad y reflejos como esquivar, trepar, escabullirse, balancearse, etc.
+**Destreza (DES)**: Se utiliza para tiradas de salvación que requieren aplomo, velocidad y reflejos como esquivar, trepar, moverse con sigilo, mantener el equilibrio, etc.
 
-**Voluntad (VOL)**: Se utiliza para tiradas de salvación para persuadir, engañar, interrogar, intimidar, encantar, provocar, manipular hechizos, etc.**
+**Voluntad (VOL)**: Se utiliza para tiradas de salvación para persuadir, engañar, interrogar, intimidar, encantar, provocar, manipular hechizos, etc.
 
 ### Tiradas de Salvación
-Una **Tirada de salvación** sirve para evitar los malos resultados de las decisiones tomadas y las circunstancias arriesgadas en las que ocurren. Los **PJ** tiran 1d20 para obtener un resultado por comparar con la puntuación de característica apropiada. Si el resultado de la tirada es igual o inferior a la característica en cuestión, lo logran. En caso contrario, fallan. Un resultado de 1,siempre es un éxito, mientras que un 20 siempre será un fallo.
+Una **Tirada de salvación** sirve para evitar los malos resultados de las decisiones tomadas y las circunstancias arriesgadas en las que ocurren. Los **PJ** tiran 1d20 y comparan el resultado con la característica apropiada. Si el resultado es igual o inferior a la característica, tienen éxito. En caso contrario, fallan. Un resultado de 1,siempre es un éxito, mientras que un 20 siempre será un fallo.
 
 <details markdown="block">
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea se encuentra con un grupo de Goblins fuertemente armados que hacen guardia ante la entrada de un túnel. La jugadora que lleva a Bea traza cuidadosamente un plan a seguir, reconociendo que su 13 de DES hace que pasar a hurtadillas entre los guardias sea la mejor opción. Tira un d20 y el resultado es un 10: ¡un éxito!_
+ _Bea se encuentra con un grupo de goblins fuertemente armados que hacen guardia ante la entrada de un túnel. La jugadora que lleva a Bea traza cuidadosamente un plan, ya que su DES es 13, pasar a hurtadillas entre los guardias será la mejor opción. Tira un d20 y el resultado es un 10: ¡Un éxito!_
 
 </details>
 
 ### Curación
-Descansar unos instantes y beber agua restablece la **PG** perdida, pero deja al grupo expuesto. Los puntos perdidos de la puntuación de características (consulte **Daño crítico**) generalmente se recuperan con una semana de descanso y cuidados de un sanador o alguien con experiencia en esos menesteres. Algunos de estos servicios son gratis, mientras la curación por magia y por otros medios pueden conllevar un costo.
+Descansar unos instantes y beber agua restablece la **PG** perdida, pero deja al grupo expuesto. Las características pueden recuperar sus puntos perdidos (ver **Daño crítico**) tras una semana de descanso al cuidado de un sanador, o mediante el servicio de otra persona competente en estos menesteres. Algunos de estos servicios son gratis, mientras la curación por magia y por otros medios pueden conllevar un costo.
 
 ### Estar Exhausto y Fatiga
-Un **PJ** con la condición **Exhausto** debido a estar privado de necesidades cruciales (como comer o descansar) no puede recuperar su PG ni sus puntos de sus puntuaciones de característica. Cualquier personaje que esté con la condición de exhausto por más de un día añade **Fatiga** a su inventario, un espacio marcado por cada día en esta condición. Cada fatiga ocupa un espacio y permanecerá marcado hasta que tenga la posibilidad el personaje de recuperarse (ya sea, por ejemplo, descansando toda una noche en un lugar seguro)
-También, los PJ obtienen fatiga por **lanzar hechizos** o por eventos viviendo dentro de la ficción.
+Un **PJ** con la condición **Exhausto**, obtenida por no satisfacer sus necesidades básicas (como comer o descansar), no puede recuperar sus *PG* ni sus puntos de características. Por cada día (después del primero) que el personaje mantenga su condición de **exhausto**, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que el **PJ** pueda descansar en un lugar seguro toda una noche, después de lo cual recuperará _todos_ los espacios ocupados.
+
+Los **PJ** también pueden obtener Fatiga por **lanzar hechizos**, o por cosas que pasen en la ficción..
 
 ### Armadura
-Antes de calcular el daño que se descontarán de los PG del personaje, resta el valor de la **Armadura** del objetivo al resultado de la tirada de daño. Los escudos y los objetos similares a las armaduras proveen un modificador a la defensa (por ejemplo: +1 de armadura), pero solo si el objeto se sostiene o se está usando.
-Está prohibido usar más de 3 armaduras.  
+Resta el valor de la **Armadura** del objetivo a las tiradas de daño, antes de calcular el daño. Los escudos y otras protecciones proporcionan un bonus a la defensa (por ejemplo, +1 Armadura), pero solo si el objeto se está empuñando (o se lleva puesto en caso de protecciones). El valor máximo de **Armadura** es 3.  
+
 Los escudos, guanteletes y yelmos pueden proveer beneficios adicionales de acuerdo a cómo son usados.
 
-### Reacciones
-Cuando los PJ encuentre un PNJ cuya reacción al grupo no es obvia, el Guardián puede tirar 2d6 y consultar el resultado obtenido en la siguiente tabla:
+### Los personajes no jugadores
+
+#### Reacciones
+Cuando los **PJ** encuentre un **PNJ** cuya _reacción_ al grupo no es obvia, el **Guardián** puede tirar 2d6 y consultar el resultado obtenido en la siguiente tabla:
 
 | | | | | |
 | :-----: | :--: | :-----: | :--: | :--: |
 |    2    | 3-5  |   6-8   | 9-11 | 12      |
 | Hostil | Cauteloso | Curioso | Amable | Servicial |
 
-### Moral
-Los enemigos tienen que realizar una tirada de salvación de VOL exitosa para evitar huir cuando sufren su primera baja y tienen que hacerlo de nuevo cuando se reduce a la mitad el número de combatientes aún en pie. Algunos utilizan la VOL del líder en lugar de la de sus secuaces. Enemigos solitarios tienen que realizar una tirada de salvación de VOL exitosa cuando su PG cae hasta 0. La moral no afecta a los PJ.
+#### Moral
+Los enemigos tienen que superar una tirada de salvación de **VOL** para no huir cuando sufren su primera baja y tendrán que superar otra cuando su número se reduzca a la mitad. Algunos grupos pueden utilizan la **VOL** de su líder en lugar de la suya. Los enemigos solitarios deben superar una tirada de salvación de **VOL** cuando la **PG** queda reducida a 0. Los **PJ** no se ven afectados por reglas de moral.
 
-### Ayudantes
-Los PJ pueden contratar **ayudantes** para que los apoyen durante una expedición. Para crear un ayudante, tira 3d6 por cada puntuación de característica, luego asigna 1d6 PG y un arma (1d6), luego realiza las tiradas en las tablas indicadas en la sección [**Creación del Personaje**](##creación-del-personaje) para darle más forma al PNJ. Los ayudantes tienen un salario entre 1 y 3 mo por día, o se le puede pagar con una parte del tesoro que obtenga el grupo.
+#### Seguidores
+Los **PJ** pueden contratar **Seguidores** para que los apoyen durante una expedición. Para crear un ayudante, tira 3d6 para calcular cada característica, luego asígnale 1d6 de **PG** y un arma (1d6), luego utiliza las tablas de la sección [**Creación del Personaje**](##creación-del-personaje) para darle más forma al **PNJ**. Los **Seguidores** tienen un salario entre 1 y 3 mo por día, o se les puede pagar con una parte del tesoro que obtenga el grupo.
 
 ### Riqueza y tesoro
 La moneda más común es la moneda de oro (mo), la cual equivale a 10 monedas de plata (mp) y 100 monedas de cobre (mc).
 
-El tesoro es muy valioso, generalmente voluminoso y rara vez útil más allá de su valor. Puede ser un señuelo, llevar a los PJs a lugares exóticos e incluso peligrosos y, a menudo, está bajo la protección de enemigos intimidantes.
+El tesoro es muy valioso, generalmente voluminoso y rara vez útil más allá de su valor. Puede ser un señuelo para que los personajes vayan a lugares exóticos, normalmente bajo el dominio de terribles enemigos
 
-Las aldeas, fortalezas y puertos intercambian y comercian en función de la rareza y el valor de un artículo o mercancía.
+Las aldeas, fortalezas y puertos comercian e intercambian en función de su valor y exclusividad
 
 ## Magia
-Los **Libro de hechizos** contienen un solo hechizo y ocupan un espacio. No se pueden transcribir ni crear, se recuperan de lugares como tumbas, mazmorras y feudos.
+Los **Libros de hechizos** contienen un solo hechizo y ocupan un espacio. No se pueden copiar ni crear, sino que se obtienden de lugares como tumbas, mazmorras y mansiones.
 
 Los libros de hechizos a veces muestran propiedades o limitaciones inusuales, como producir un olor desagradable o sobrenatural cuando se abren, poseer una inteligencia innata o ser legibles solo cuando se sostienen a la luz de la luna.
 
-Los libros de hechizos atraerán la atención de aquellos que buscan el poder arcano en su interior, y se considera peligroso exhibirlos abiertamente.
+Los libros de hechizos atraerán la atención de aquellos que buscan el poder arcano que contienen, y es peligroso exhibirlos abiertamente.
 
-**Pergaminos** son similares a los libros de hechizos, sin embargo:
+Los **Pergaminos** son similares a los Libros de hechizos, sin embargo:
 
 - No ocupan un espacio en el inventario
-- No causan fatiga.
-- Desaparecen cuando se usan.
+- No causan Fatiga.
+- Desaparecen tras su uso.
 
 ### Lanzar hechizos
-Cualquiera puede lanzar un hechizo sosteniendo un Libro de hechizos con ambas manos y leyendo su contenido en voz alta. Luego deben añadir Fatiga en el inventario, marcando un espacio donde corresponde. Con tiempo disponible y seguridad, los PJ pueden _mejorar_ el impacto de un hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el PJ está exhausto o en peligro, el Guardián puede pedir que un PJ realice una tirada de salvación de VOL para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de la falla tienen que ser similares al efecto previsto y pueden resultar en añadir Fatiga adicional, la destrucción del Libro de hechizos, lesiones e incluso la muerte.
+Para lanzar un hechizo debe sostenerse el Libro de hechizos con ambas manos y leer su contenido en voz alta. Luego debe añadirse la Fatiga en un espacio del inventario. Si se dispone de tiempo y tranquilidad, el **PJ** puede _mejorar_ el efecto del hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el **PJ** está exhausto o en peligro, el **Guardián** puede pedir que el **PJ** realice una tirada de salvación de **VOL** para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de fallar deben ser similares al efecto previsto y pueden añadir Fatiga adicional, destruir el Libro de hechizos o causar lesiones e incluso la muerte.
 
 ### Reliquias
 Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa fatiga. Las reliquias tienen un uso limitado y un tiempo de recarga predeterminado. Algunos ejemplos son:
 
 **Agarre de miel** , 3 cargas. Un anillo oxidado que encoge al portador a 6 pulgadas de alto. Recarga: colócalo en una taza de jalea real del tamaño de un dedal.
 
-**Amigo del halconero** , 1 carga. Una varita en forma de perno que lleva el hechizo _Prisa_. Recarga: dispara con una ballesta y se restablece.
+**Amigo del halconero** , 1 carga. Una varita en forma de perno que contiene el hechizo _Prisa_. Recarga: dispáralo una ballesta y recupéralo.
 
-**Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 50 pies. Recarga: remojarla a la luz de la luna llena.
+**Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 50 pies. Recarga: exponerla a la luz de la luna llena.
 
-**Hongo de motas verdes** , 1 uso. Cualquiera que ingiera este hongo con motas verdes pierde Fatiga, pero luego debe hacer una tirada de salvación de VOL para evitar sus propiedades adictivas. Un fallo en la tirada deja al PJ exhausto e incapaz de concentrarse hasta que pueda comerse otro hongo de motas verdes, proporcionando sólo un breve respiro al personaje ante la adicción.
+**Gorrolís** , 1 uso. Cualquiera que ingiera este hongo de motas verdes pierde una Fatiga, pero luego debe hacer una tirada de salvación de **VOL** para evitar sus propiedades adictivas. Un fallo en la tirada deja al **PJ** **Exhausto** e incapaz de concentrarse hasta que pueda comerse otro gorrolís, lo que alivia temporalmente la adicción sin otros efectos.
 
 ## Combate
 
 ### Rondas
-El juego generalmente se juega sin un seguimiento del tiempo de manera estricta. En una pelea o circunstancia donde el tiempo es útil, utilice las rondas para realizar un seguimiento de cuándo ocurre algo. Una **ronda** son aproximadamente diez segundos de tiempo en el juego y se componen de turnos.
+Normalmente se juega sin llevar un control estricto del tiempo. En un combate o situación en la que llevar este control pueda ser útil, utiliza rondas para saber cuándo pasa cada cosa. Una **ronda** equivale aproximadamente a 10 segundos y se divide en turnos.
 
 ### Acciones  
-En su turno, un personaje puede moverse hasta 40 pies y realizar solo una acción. Esto puede ser lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción razonable.
+En su turno, un personaje puede moverse hasta 40 pies y realizar una única acción, que puede consistir en: lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción que tenga sentido.
 
-En cada ronda, los PJ declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el Guardián pide una tirada de salvación a los jugadores o PNJ apropiada a lo que quieren hacer.
+En cada ronda, los **PJ** declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el **Guardián** pedirá una tirada de salvación pertinente a las jugadoras o a los **PNJ**.
 
 ### Turnos
-El Guardián indicará las acciones más probables por realizar de los PNJ o monstruos. Al comienzo del combate, cada PJ debe realizar una tirada de salvación de DES para actuar antes que sus oponentes.
+El **Guardián** cuáles serán las acciones más probables de los **PNJ** o monstruos. Al comienzo del combate, cada **PJ** debe realizar una tirada de salvación de DES para actuar antes que sus oponentes.
 
 <details markdown="block">
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea ha tropezado accidentalmente con los terrenos de un enorme Troll del bosque. Para hacer un movimiento antes que el Troll, realiza una tirada de salvación de DES. Ella falla, entonces el Troll ataca primero..._
+ _Bea ha metido accidentalmente en los terrenos de un enorme Troll del bosque. Para actuar antes que el Troll, realiza una tirada de salvación de DES. Falla, así que el Troll ataca primero..._
 </details>
 
 ### Ataque y daño
-El atacante tira el dado asociado a su arma y resta la armadura del objetivo, luego se reduce el total restante a los PG de su oponente. Los ataques sin armas siempre hacen 1d4 de daño.
+El atacante tira el dado asociado a su arma y resta la armadura del objetivo, el resultado obtenido se resta a la **PG** de su oponente. Los ataques sin armas siempre hacen 1d4 de daño.
 
 <details markdown="block">
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _El troll del bosque ruge, blandiendo su garrote hacia Bea, que tiene 5 PG. El garrote hace 1d10 de daño, el Guardián tira y obtiene un resultado de 4. Resta 1 debido a la función defensiva de la armadura de cuero de Bea, dejando a Bea con 2 PG restantes.
+ _El troll del bosque ruge, blandiendo su garrote hacia Bea, que tiene 5 de **PG**. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Bea, dejando a Bea con 2 de **PG** restantes.
 </details>
 
 ### Múltiples atacantes
-Si varios atacantes apuntan al mismo enemigo, tira todos los dados de daño y quédate con el resultado más alto.
+Si el objetivo de varios atacantes es el mismo, tira todos los dados de daño y quédate con el resultado más alto.
 
 ### Modificadores de ataque
-Si pelea desde una posición en desventaja (como a cubierto o con las manos atadas), el ataque queda en **desventaja** y el atacante debe tirar 1d4 de daño independientemente del dado de daño del ataque.
+Si se combate desde una posición en desventaja (como a través de una cobertura o con las manos atadas), el ataque queda en **desventaja** y el atacante debe tirar 1d4 de daño independientemente de qué dado de daño utilice.
 
-Si pelea desde una posición de ventaja (como contra un enemigo indefenso o mediante una maniobra audaz), el ataque queda en **ventaja**, lo que permite que el atacante tire 1d12 de daño en lugar de su dado normal.
+Si se pelea desde una posición de ventaja (como contra un enemigo indefenso o gracias a una audaz maniobra), el ataque queda en **ventaja**, lo que permite al atacante tire 1d12 de daño en lugar de su dado normal.
 
 ### Ataque con dos armas
-Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el único resultado más alto.
+Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el más alto.
 
 ### Estallido
-Los ataque con la cualidad **Estallido** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El Estallido se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
+Los ataque con la cualidad **Estallido** afectan a todos los objetivos disponibles en el área indicada, tirando los dados de daño por cada personaje alcanzado. El **Estallido** se refiere a cualquier cosa desde una explosión, incluso grandes embestidas cortantes o hasta el impacto de un meteorito. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
 
 ### Daño crítico
-El daño que reduce la PG de un objetivo por debajo de cero disminuye la FUE de un objetivo en la cantidad restante. Luego, el objetivo tiene que hacer una tirada de salvación de FUE para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla en una tirada de salvación de daño crítico.
+El daño que reduce la **PG** de un objetivo por debajo de cero disminuye la **FUE** de un objetivo en la cantidad restante. Luego, el objetivo tiene que hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla en una tirada de salvación de **daño crítico**.
 
 Cualquier PC que sufra daños críticos no puede hacer nada más que arrastrarse débilmente, aferrándose a la vida. Si se les da ayuda y descanso, se estabilizarán. Si no se tratan, mueren en una hora.
 
 ### Perder puntos de la puntuación de características
-Si la FUE de un PJ se reduce a 0, muere. Si su DES se reduce a 0, queda paralizado. Si su VOL se reduce a 0, está delirando.
-La pérdida completa de DES y VOL hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios extraordinarios.
+Si la **FUE** de un **PJ** se reduce a 0, muere. Si su **DES** se reduce a 0, queda paralizado. Si su **VOL** se reduce a 0, está delirando.
+La pérdida completa de **DES** y **VOL** hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios extraordinarios.
 
 ### Cicatrices
-Cuando el daño a un PJ reduce su PG exactamente a 0, a veces este hecho lo hace cambiar para siempre. Consultar la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
+Cuando el daño a un **PJ** reduce su **PG** exactamente a 0, a veces este hecho lo hace cambiar para siempre. Consultar la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
 
 ### Inconsciencia y muerte
-Cuando un personaje muere, el jugador es libre de crear un nuevo personaje o tomar el control de un ayudante. Para reducir el tiempo muerto en el juego, el nuevo personaje o el ayudante que controla ahora el jugador se incorpora de inmediato al grupo.
+Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un ayudante. Para reducir el tiempo muerto en el juego, el nuevo personaje o el seguidor que controla ahora la jugadora se incorpora de inmediato al grupo.
 
 ### Destacamentos
-Los grandes grupos de combatientes similares que luchan juntos se tratan como un solo **destacamento**. Cuando un destacamento recibe daño crítico, es derrotado o significativamente debilitado. Cuando llega a 0 su FUE, se destruye.
+Los grandes grupos de combatientes similares que luchan juntos se tratan como un solo **Destacamento**. Cuando un **Destacamento** recibe **daño crítico**, es derrotado o significativamente debilitado. Cuando llega a 0 su **FUE**, se destruye.
 
-Los ataques contra destacamentos por parte de individuos están en **desventaja** (excluyendo el daño por onda expansiva).
+Los ataques contra **Destacamentos** por parte de individuos están en **desventaja** (excluyendo el daño por onda expansiva).
 Los ataques contra individuos por parte de los destacamentos están en **ventaja** y causan daño por onda expansiva.
 
 ### Retirada
-Huir de una situación terrible siempre requiere una tirada de salvación de DES exitosa, así como un destino seguro al que correr.
+Huir de una situación terrible siempre requiere una tirada de salvación de **DES** exitosa, así como un destino seguro al que correr.
 
 ### Cicatrices
-Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de manera única. Busque el resultado en la siguiente tabla en función del daño total recibido:
+Cuando un ataque reduce la **PG** de una **PJ** a exactamente 0, se ve afectado de manera única. Busque el resultado en la siguiente tabla en función del daño total recibido:
 
 |      |                                                              |
 |------ |---|
@@ -819,7 +822,7 @@ Cuando un ataque reduce la PG de una PJ a exactamente 0, se ve afectado de maner
 - Los boggarts tienen nombres que describen su verdadera naturaleza. Saber su verdadero nombre permite controlar un Boggart.
 
 ### Crear monstruos
-Usa la siguiente plantilla para crear cualquier Monstruo o PNJ más sofisticado:
+Usa la siguiente plantilla para crear cualquier _monstruo_ o **PNJ** más sofisticado:
 
 **Nombre**
 X PG, X Armadura, X FUE, X DES, X VOL, Arma (dX, objetos especialidad, cualidades)
@@ -829,18 +832,18 @@ X PG, X Armadura, X FUE, X DES, X VOL, Arma (dX, objetos especialidad, cualidade
 
 **Principios generales**  
 Puntuaciones de característica: 3 es deficiente, 6 es débil, 10 es promedio,14 es digno de mención y 18 es legendario. Ajuste según sea necesario.  
-- Da a las criaturas promedio 3 PG, dale a las resistentes 6 PG y las amenazas serias obtienen 10+ PG.
-- Añada color y estilo al monstruo o PNJ para que destaquen. Los jugadores recordarán a un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
-- Use el daño crítico para dar sentido a la amenaza o la extrañeza de cualquier PNJ agresivo.
-- Recuerda que PG es **Protección contra Golpes**, no Puntos de Golpe. Es una medida de resiliencia, suerte y sentido común, no de salud.
+- Da a las criaturas promedio 3 de **PG**, dale a las resistentes 6 de **PG** y las amenazas serias obtienen 10+ de **PG**.
+- Añada color y estilo al monstruo o **PNJ** para que destaquen. Los jugadores recordarán a un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
+- Use el **daño crítico** para dar sentido a la amenaza o la extrañeza de cualquier **PNJ** agresivo.
+- Recuerda que la **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
 
 **Conversión de juegos OSR**
-- Dar 1 PG por Dado de Golpe para la mayoría de las criaturas.
-- La mayoría de los humanoides tienen al menos 4 PG.
+- Dar 1 **PG** por _Dado de Golpe_ para la mayoría de las criaturas.
+- La mayoría de los humanoides tienen al menos 4 de **PG**.
 - **Moral** también se puede utilizar como referencia.
 
 Algunos consejos:
-- ¿Es bueno para evitar un golpe? Dale PG.
+- ¿Es bueno para evitar un golpe? Dale **PG**.
 - ¿Absorbe el daño? Dale Armadura.
 - ¿Es fuerte? Dale un valor de **FUE** alta.
 - ¿Es ágil? Dale un valor de **DES** alto.
@@ -963,9 +966,9 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 # Resumen de reglas
 
 **ACCIONES**  
-En su turno, un personaje puede moverse hasta 40 pies y realizar solo una acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades razonables. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Siempre que el orden de los turnos sea incierto, los PJs deberían hacer una tirada de DES para ver si van antes que sus enemigos.
+En su turno, un personaje puede moverse hasta 40 pies y realizar solo una acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades razonables. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Siempre que el orden de los turnos sea incierto, los **PJ** deberían hacer una tirada de **DES** para ver si van antes que sus enemigos.
 
-**Retirada** de una situación peligrosa siempre requiere una tirada de salvación de DES exitosa, así como un destino seguro para correr.
+**Retirada** de una situación peligrosa siempre requiere una tirada de salvación de **DES** exitosa, así como un destino seguro para correr.
 
 **Características**  
 **FUE:** Fuerza muscular, potencia y resistencia  
@@ -977,38 +980,38 @@ En su turno, un personaje puede moverse hasta 40 pies y realizar solo una acció
 - Un resultado de 1 es siempre un éxito, un resultado de 20 es siempre un fallo.
 
 **Protección contra Golpes**  
-**PG** indica la capacidad de un PJ para evitar ser lastimado. Se pierde esa capacidad durante el combate y se recupera después de unos momentos de descanso.
+**PG** indica la capacidad de un **PJ** para evitar ser lastimado. Se pierde esa capacidad durante el combate y se recupera después de unos momentos de descanso.
 
 **INVENTARIO**  
-Los PJ tienen 10 espacios de inventario: cuatro en su cuerpo y seis en su mochila (que puede servir como un saco de dormir si se vacía). La mayoría de los objetos ocupan un solo espacio, pero los objetos más pequeños se pueden agrupar y contar como uno solo. Los objetos **voluminosos** ocupan dos espacios y son incómodos o difíciles de transportar.
+Los **PJ** tienen 10 espacios de inventario: cuatro en su cuerpo y seis en su mochila (que puede servir como un saco de dormir si se vacía). La mayoría de los objetos ocupan un solo espacio, pero los objetos más pequeños se pueden agrupar y contar como uno solo. Los objetos **voluminosos** ocupan dos espacios y son incómodos o difíciles de transportar.
 
-Llenar los diez espacios de inventario reduce a 0 la PG de un PJ. Los PJ no pueden llevar más de lo que permite su inventario, aunque las carretas y los caballos pueden proporcionar un aumento en los espacios.
+Llenar los diez espacios de inventario reduce a 0 la **PG** de un **PJ**. Los **PJ** no pueden llevar más de lo que permite su inventario, aunque las carretas y los caballos pueden proporcionar un aumento en los espacios.
 
 **Estar Exhausto**  
-En una condición de **exhausto** los PJ no pueden recuperar su PG. Si siguen privados de sus necesidad más de un día, añaden un punto de **Fatiga** en su inventario. La fatiga ocupa un espacio y permanece así hasta que pueden descargar en un lugar a salvo. Este efecto es acumulativo.
+En una condición de **exhausto** los **PJ** no pueden recuperar su **PG**. Si siguen privados de sus necesidad más de un día, añaden un punto de **Fatiga** en su inventario. La fatiga ocupa un espacio y permanece así hasta que pueden descargar en un lugar a salvo. Este efecto es acumulativo.
 
 **Curación**  
-Un momento de descanso y un trago de agua restaurarán los puntos perdidos de la PG, pero pueden dejar vulnerable al grupo. Perder puntos de la puntuación de **Características** requiere una semana de descanso y la ayuda de un sanador experto.
+Un momento de descanso y un trago de agua restaurarán los puntos perdidos de la **PG**, pero pueden dejar vulnerable al grupo. Perder puntos de la puntuación de **Características** requiere una semana de descanso y la ayuda de un sanador experto.
 
 **Libro de Hechizos**
-Los libros de hechizos contienen un solo hechizo y ocupan un espacio de objeto en el inventario. Cualquiera puede lanzar un hechizo sosteniendo un Libro de hechizos con ambas manos y leyendo su contenido en voz alta. Lanzar un hechizo agrega **Fatiga** al inventario del PJ.
+Los libros de hechizos contienen un solo hechizo y ocupan un espacio de objeto en el inventario. Cualquiera puede lanzar un hechizo sosteniendo un Libro de hechizos con ambas manos y leyendo su contenido en voz alta. Lanzar un hechizo agrega **Fatiga** al inventario del **PJ**.
 
-Con suficiente tiempo y seguridad, los PJ pueden mejorar un hechizo sin ningún coste adicional. Si están exhaustos o en peligro, puede ser necesaria una tirada de salvación de VOL para evitar terribles consecuencias.
+Con suficiente tiempo y seguridad, los **PJ** pueden mejorar un hechizo sin ningún coste adicional. Si están exhaustos o en peligro, puede ser necesaria una tirada de salvación de **VOL** para evitar terribles consecuencias.
 
 **COMBATE**  
-El atacante tira su dado de arma y resta la Armadura del objetivo, luego resta el total que queda a los PG de su oponente.
+El atacante tira su dado de arma y resta la **Armadura** del objetivo, luego resta el total que queda a la **PG** de su oponente.
 
-Antes de calcular el daño a la PG, resta el valor de la **Armadura** del objetivo del resultado de las tiradas de daño. Los escudos y armaduras similares brindan una defensa adicional (por ejemplo, +1 Armadura), pero solo mientras se sostiene o se usa el objeto.
+Antes de calcular el daño a la **PG**, resta el valor de la **Armadura** del objetivo del resultado de las tiradas de daño. Los escudos y armaduras similares brindan una defensa adicional (por ejemplo, +1 Armadura), pero solo mientras se sostiene o se usa el objeto.
 
-Nadie puede tener más de 3 de Armadura.
+Nadie puede tener más de 3 de **Armadura**.
 
 Los ataques **sin armas** siempre hacen 1d4 de daño. Si **múltiples atacantes** apuntan al mismo enemigo, tira todos los dados de daño y quédate con el único resultado más alto. Si atacas con **dos armas** al mismo tiempo, tira ambos dados de daño y mantén el más alto.
 
 Si un ataque está en **desventaja**, el dado de daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante tira 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando por separado para cada uno de ellos.
 
 **DAÑO**  
-Si un ataque lleva la PG de una PJ exactamente a 0, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
+Si un ataque lleva la **PG** de una **PJ** exactamente a 0, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
 
-El daño que reduce el HP de un objetivo **por debajo** de 0 disminuye su FUE de acuerdo con la cantidad restante. Luego debe hacer una tirada de salvación de FUE para evitar el **daño crítico**. El fallo deja al PJ fuera de combate y mueren si no se trata.
+El daño que reduce el HP de un objetivo **por debajo** de 0 disminuye su **FUE** de acuerdo con la cantidad restante. Luego debe hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. El fallo deja al **PJ** fuera de combate y mueren si no se trata.
 
-Tener FUE 0 significa **muerte;** tener DES 0 es parálisis; tener VOL 0 es delirio.
+Tener **FUE** 0 significa **muerte;** tener **DES** 0 es parálisis; tener **VOL** 0 es delirio.
