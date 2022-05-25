@@ -372,10 +372,10 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 |      |                                   |      |                     |      |                        |      |                  |
 | ---- | --------------------------------- | ---- | ------------------- | ---- | ---------------------- | ---- | ---------------- |
-| 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 mts)     |
+| 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 metros)  |
 | 2    | Amuleto contra espíritus          | 7    | Gancho de agarre    | 12   | planta de acónito      | 17   |Trampa grande     |
-| 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 mts)     |
-| 4    | Cadena (3 mts)                    | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
+| 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 metros)  |
+| 4    | Cadena (3 metros)                 | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
 | 5    | Carreta (+4 espacios, voluminosa) | 10   | Odre para bucear    | 15   | Saco grande            | 20   | Yesquero         |
 
 #### Herramientas
@@ -475,7 +475,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |Bolsa de piel encerada                       |5                |Mula (+6 espacios, lenta)             |30        |
 |Botas de escalada                            |5                |Odre para bucear                      |5         |
 |Caballo (+4 espacios)                        |75               |Olla para cocinar                     |10        |
-|Cadena (3 mts)                               |10               |Pala                                  |5         |
+|Cadena (3 metros)                            |10               |Pala                                  |5         |
 |Canica de cristal                            |5                |Palanca                               |10        |
 |Caña de pescar                               |10               |Pegamento                             |5         |
 |Carreta (+4 espacios, voluminosa)            |30               |Pico                                  |10        |
@@ -485,16 +485,16 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 |Clavo                                        |1                |Polea                                 |10        |
 |Cuerno                                       |10               |Raciones (tres días)                  |10        |
 |Cubo                                         |5                |Red                                   |10        |
-|Escalera (voluminosa, 3 mts)                 |10               |Reloj de arena                        |50        |
+|Escalera (voluminosa, 3 metros)              |10               |Reloj de arena                        |50        |
 |Espejo                                       |5                |Saco                                  |5         |
 |Esponja grande                               |5                |Saco de dormir                        |5         |
 |Fuelle                                       |10               |Serrucho                              |5         |
-|Gancho de agarre                             |25               |Soga (8 mts)                          |5         |
+|Gancho de agarre                             |25               |Soga (8 metros)                       |5         |
 |Ganzúas                                      |25               |Taladro manual                        |10        |
 |Grasa                                        |10               |Tienda (para 2 personas, voluminosa)  |20        |
 |Grilletes                                    |10               |Tiza                                  |1         |
 |Incienso                                     |10               |Trampa grande                         |20        |
-|Jabón                                        |1                |Vara (3 mts)                          |5         |
+|Jabón                                        |1                |Vara (3 metros)                       |5         |
 
 <p></p>
 
@@ -694,7 +694,7 @@ Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa 
 
 **Amigo del halconero** , 1 carga. Una varita en forma de perno que contiene el hechizo _Prisa_. Recarga: dispáralo una ballesta y recupéralo.
 
-**Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 15 mts. Recarga: exponerla a la luz de la luna llena.
+**Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 15 metros. Recarga: exponerla a la luz de la luna llena.
 
 **Embozo de ley** , 1 uso. Cualquiera que ingiera este hongo de motas verdes pierde una **Fatiga**, pero luego debe hacer una tirada de salvación de **VOL** para evitar sus propiedades adictivas. Un fallo en la tirada deja al **PJ** **Exhausto** e incapaz de concentrarse hasta que pueda comerse otro _Embozo de ley_, lo que alivia temporalmente la adicción sin otros efectos.
 
@@ -704,7 +704,7 @@ Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa 
 Normalmente se juega sin llevar un control estricto del tiempo. En un combate o situación en la que llevar este control pueda ser útil, utiliza rondas para saber cuándo pasa cada cosa. Una **ronda** equivale aproximadamente a 10 segundos y se divide en turnos.
 
 ### Acciones  
-En su turno, un personaje puede moverse hasta 12 mts y realizar una única acción, que puede consistir en: lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción que tenga sentido.
+En su turno, un personaje puede moverse hasta 12 metros y realizar una única acción, que puede consistir en: lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción que tenga sentido.
 
 En cada ronda, los **PJ** declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el **Guardián** pedirá una tirada de salvación pertinente a las jugadoras o a los **PNJ**.
 
@@ -861,14 +861,14 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------  |
 | 1    | [Acelerar](#acelerar)                      | Triplicas tu velocidad de movimiento.                                                                 |
 | 2    | [Adherir](#adherir)                        | Cubre un objeto de una baba extremadamente pegajosa.                                                  |
-| 3    | [Agujero](#agujero)                        | Un agujero de 3 mts de ancho y profundidad se abre en el suelo.                                       |
+| 3    | [Agujero](#agujero)                        | Un agujero de 3 metros de ancho y profundidad se abre en el suelo.                                    |
 | 4    | [Aire líquido](#aire-líquido)              | El aire a tu alrededor se vuelve apto para nadar.                                                     |
 | 5    | [Alterar gravedad](#alterar-gravedad)      | Cambias la dirección de la gravedad. Solo tú te ves afectado.                                         |
 | 6    | [Amortiguador mágico](#astral-prison)      | Todos los efectos mágicos cercanos reducen su efectividad a la mitad.                                 |
 | 7    | [Ancla](#ancla)                            | Un resistente cable brota de tus brazos, fijándote en dos puntos a 15 metros a cada lado.             |
 | 8    | [Antropomorfizar](#antropomorfizar)        | Un animal adquiere inteligencia o apariencia humana durante un día.                                   |
 | 9    | [Arrebatar](#arrebatar)                    | Un objeto que puedas ver se transporta a tu mano.                                                     |
-| 10   | [Atadura invisible](#atadura-invisible)    | Dos objetos a menos de 3 mts uno del otro no pueden separarse a más de 3 mts de distancia.            |
+| 10   | [Atadura invisible](#atadura-invisible)    | Dos objetos a menos de 3 metros uno del otro no pueden separarse a más de 3 metros de distancia.      |
 | 11   | [Atraer](#beast-form)                      | Dos objetos se atraen fuertemente de manera magnética entre sí, si se acercan a 3 metros.             |
 | 12   | [Balbuceo](#balbuceo)                      | Una criatura debe repetir en voz alta y clara todo lo que piensas. De lo contrario, se queda mudo.    |
 | 13   | [Bengala](#bengala)                        | Disparas una esfera de energía brillante hacia el cielo, revelando tu ubicación a cualquier aliado o enemigo.|
@@ -882,7 +882,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 21   | [Confundir](#confundir)                    | Una criatura de tu elección no puede formar recuerdos a corto plazo mientras dure el hechizo.                         |
 | 22   | [Cono de espuma](#cono-de-espuma)          | Una densa espuma emerge de tus manos, cubriendo al objetivo.                                          |
 | 23   | [Controlar el clima](#controlar-el-clima)  | Puedes alterar el tipo de clima a voluntad, pero no controlarlo.                                      |
-| 24   | [Controlar el tiempo](#controlar-el-tiempo)| El tiempo dentro de una burbuja de 15 mts se alenta o acelera en un 10% por 30 segundos.              |
+| 24   | [Controlar el tiempo](#controlar-el-tiempo)| El tiempo dentro de una burbuja de 15 metros se alenta o acelera en un 10% por 30 segundos.           |
 | 25   | [Controlar plantas](#controlar-plantas)    | Los árboles y plantas cercanas te obedecen y obtienen la habilidad de moverse lentamente.             |
 | 26   | [Curar heridas](#curar-heridas)            | Recupera 1d4 de FUE una vez al día a una criatura que puedas tocar.                                   |
 | 27   | [Desmontar](#desmontar)                    | Puedes desmontar y montar cualquier parte de tu cuerpo a voluntad, sin causar daño ni dolor. Mantienes control sobre las partes desmontadas.                            |
@@ -891,16 +891,16 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 30   | [Disfraz](#disfraz)                        | Puedes alterar la apariencia de un personaje a voluntad, siempre y cuando sea humanoide. Imitar la apariencia de otros personajes tendrá un resultado extraño. |
 | 31   | [Dormir](#dormir)                          | Una criatura que puedas ver cae en un sueño ligero.                                                   |
 | 32   | [Elasticidad](#elasticidad)                | Tu cuerpo puede estirarse hasta 3 metros.                                                             |
-| 33   | [Empujar/tirar](#empujar/tirar)            | Un objeto de cualquier tamaño es lanzado en tu dirección, o empujado directamente desde ti con la fuerza de un hombre.                            |
+| 33   | [Empujar/tirar](#empujar/tirar)            | Un objeto de cualquier tamaño es lanzado en tu dirección, o empujado directamente desde ti con la fuerza de un hombre.|
 | 34   | [Encantar](#encantar)                      | Una criatura que puedes ver te trata como a un amigo.                                                 |
 | 35   | [Enjambre](#enjambre)                      | Te conviertes en un enjambre de cuervos, ratas o pirañas. Solo puedes ser afectado por ataques de “estallido”. |
 | 36   | [Ensordecer](#ensordecer)                  | Todas las criaturas cercanas pierden la audición.                                                     |
 | 37   | [Escala de araña](#escalada-de-araña)      | Puedes escalar superficies como una araña.                                                            |
 | 38   | [Escudo](#escudo)                          | Una criatura que toques es protegida de los ataques mundanos por un minuto.                           |
 | 39   | [Escupir materia](#esculpir-materia)       | Los materiales inanimados se comportan como arcilla entre tus manos.                                  |
-| 40   | [Esfera nocturna](#esfera-nocturna)        | Una esfera de oscuridad de 15 mts de ancho que contiene el cielo nocturno aparece frente a ti.        |
+| 40   | [Esfera nocturna](#esfera-nocturna)        | Una esfera de oscuridad de 15 metros de ancho que contiene el cielo nocturno aparece frente a ti.     |
 | 41   | [Espectáculo](#espectáculo)                | Una ilusión claramente falsa e impresionante aparece bajo tu control. Puede ser tan grande como un palacio y tiene movimiento y sonido. |
-| 42   | [Espesura](#espesura)                      | Un matorral de árboles y arbustos densos de hasta 15 mts. de ancho brota repentinamente.              |
+| 42   | [Espesura](#espesura)                      | Un matorral de árboles y arbustos densos de hasta 15 metros. de ancho brota repentinamente.           |
 | 43   | [Espiar](#espiar)                          | Puedes ver a través de los ojos de una criatura que hayas tocado durante el día.                      |
 | 44   | [Extingir](#extingir)                      | Las fuentes de luz mundanas que puedas ver se apagan instantáneamente.                                |
 | 45   | [Flor carnada](#flor-carnada)              | Una planta brota del suelo y emana el olor a carne en descomposición.                                 |
@@ -929,7 +929,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 68   | [Marca de mago](#marca-de-mago)            | Lanzas un chorro de pintura de un color imposible. Solo tú puedes ver esta pintura, a cualquier distancia e incluso a través de objetos sólidos.  |
 | 69   | [Mascarada](#mascarada)                    | La voz y apariencia de un personaje se vuelven idénticas a las de un personaje que toques.            |
 | 70   | [Miniaturizar](#miniaturizar)              | Una criatura que toques es reducida al tamaño de un ratón.                                            |
-| 71   | [Muro elemental](#muro-elemental)          | Un muro recto de 15mt de largo y 3mt de ancho, hecha de fuego o hielo, emerge desde el suelo.         |
+| 71   | [Muro elemental](#muro-elemental)          | Un muro recto de 15 metros de largo y 3 metros de ancho, hecha de fuego o hielo, emerge desde el suelo.  |
 | 72   | [Nube de niebla](#nube-de-niebla)          | Produces una espesa nube de niebla desde tu ubicación.                                                |
 | 73   | [Objetivar](#objetivar)                    | Te conviertes en un objeto inanimado. Puede ser tan grande como un piano o pequeño como una manzana.            |
 | 74   | [Objeto animado](#objeto-animado)          | Un objeto obedece tus órdenes lo mejor que puede.                                                     |
@@ -940,22 +940,22 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 | 79   | [Oler](#oler)                              | Puedes oler incluso los más mínimos rastros de aromas.                                                |
 | 80   | [Pacificar](#pacificar)                    | Una criatura cercana desarrolla aversión a la violencia.                                              |
 | 81   | [Prisión astral](#prision-astral)          | Congela un objeto en el tiempo y el espacio dentro de una coraza de cristal invulnerable.             |
-| 82   | [Proteger](#proteger)                      | Un círculo plateado de 15 mts aparece sobre el suelo. Escoge una especie que no puede atravesarlo.                        |
+| 82   | [Proteger](#proteger)                      | Un círculo plateado de 15 metros aparece sobre el suelo. Escoge una especie que no puede atravesarlo.                        |
 | 83   | [Puerta](#puerta)                          | Abres un portal a un plano aleatorio. |
 | 84   | [Puerta Espejo](#puerta-espejo)            | Conviertes un espejo en un portal hacia otro espejo que hayas visto durante el día.                   |
-| 85   | [Repeler](#repeler)                        | Dos objetos se repelen magnéticamente en un radio de 3 mts.                                           |
-| 86   | [Resbalar](#resbalar)                      | Toda superficie en un radio de 9 mts se vuelve extremadamente resbaladiza.                            |
+| 85   | [Repeler](#repeler)                        | Dos objetos se repelen magnéticamente en un radio de 3 metros.                                        |
+| 86   | [Resbalar](#resbalar)                      | Toda superficie en un radio de 9 metros se vuelve extremadamente resbaladiza.                         |
 | 87   | [Salto](#salto)                            | Saltas hasta 3 metros una única vez.                                                                  |
 | 88   | [Sentir](#sentir)                          | Elige un tipo de objeto (llave, oro, flecha, jarra, etc). Puedes sentir el que se encuentre más cerca.  |
 | 89   | [Señalar objetivo](#señalar-objetivo)      | Un objeto que toques se convierte en el objetivo de cualquier hechizo cercano.                        |
 | 90   | [Tela](#tela)                              | Lanzas una tela gruesa desde tus muñecas.                                                             |
 | 91   | [Telequinesis](#telequinesis)              | Puedes mover un objeto de menos de 30 kg con la mente.                                                |
 | 92   | [Telepatía](#telepatia)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren.                       |
-| 93   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver de un lugar a otro en un radio de 15 mts.                                |
+| 93   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver de un lugar a otro en un radio de 15 metros      |
 | 94   | [Terremoto](#terremoto)                    | La tierra se sacude violentamente. Las estructuras colapsarán o sufrirán daño.                        |
 | 95   | [Toque](#toque)                            | Una cerradura mundana o mágica cercana se abre ruidosamente.                                          |
-| 96   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3mt.        |
-| 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva                                       |
+| 96   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3 metros        |
+| 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva                                        |
 | 98   | [Visión](#visión)                          | Controlas completamente lo que ve una criatura.                                                       |
 | 99   | [Visión de rayos X](#visión-de-rayos-X)    | Puedes ver a través de las paredes, tierra, tela, etc.                                                |
 | 100  | [Visión verdadera](#visión-verdadera)      | Ves a través de todas las ilusiones cercanas.                                                         |
