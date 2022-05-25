@@ -839,18 +839,18 @@ Puntuaciones de característica: 3 es deficiente, 6 es débil, 10 es promedio,14
 - Recuerda que la **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
 
 **Conversión de juegos OSR**
-- Dar **PG** 1 por _Dado de Golpe_ para la mayoría de las criaturas.
-- La mayoría de los humanoides tienen al menos 4 de **PG**.
+- Añade 1 a la **PG** por _Dado de Golpe_ para la mayoría de las criaturas.
+- La mayoría de los humanoides tienen al menos **PG** 4.
 - **Moral** también se puede utilizar como referencia.
 
 Algunos consejos:
 - ¿Es bueno para evitar un golpe? Dale **PG**.
 - ¿Absorbe el daño? Dale Armadura.
-- ¿Es fuerte? Dale un valor de **FUE** alta.
+- ¿Es fuerte? Dale un valor de **FUE** alto.
 - ¿Es ágil? Dale un valor de **DES** alto.
 - ¿Es carismático? Dale un valor de **VOL** alto.
 
-Los dados de daño son más o menos los mismos, aunque los ataques armados hacen al menos 1d6 de daño.
+Los dados de daño son más o menos los mismos, aunque los ataques con armas deben hacer al menos 1d6 de daño.
 
 [regresa al contenido](#contenido)
 <p></p>
