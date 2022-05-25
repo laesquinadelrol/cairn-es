@@ -375,7 +375,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 mts)     |
 | 2    | Amuleto contra espíritus          | 7    | Gancho de agarre    | 12   | planta de acónito      | 17   |Trampa grande     |
 | 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 mts)     |
-| 4    | Cadena (10 pies)                  | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
+| 4    | Cadena (3 mts)                  | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
 | 5    | Carreta (+4 espacios, voluminosa) | 10   | Odre para bucear    | 15   | Saco grande            | 20   | Yesquero         |
 
 #### Herramientas
@@ -641,7 +641,7 @@ Descansar unos instantes y beber agua restablece la **PG** perdida, pero deja al
 ### Estar Exhausto y Fatiga
 Un **PJ** con la condición **Exhausto**, obtenida por no satisfacer sus necesidades básicas (como comer o descansar), no puede recuperar sus *PG* ni sus puntos de características. Por cada día (después del primero) que el personaje mantenga su condición de **exhausto**, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que el **PJ** pueda descansar en un lugar seguro toda una noche, después de lo cual recuperará _todos_ los espacios ocupados.
 
-Los **PJ** también pueden obtener Fatiga por **lanzar hechizos**, o por cosas que pasen en la ficción..
+Los **PJ** también pueden obtener **Fatiga** por **lanzar hechizos**, o por cosas que pasen en la ficción..
 
 ### Armadura
 Resta el valor de la **Armadura** del objetivo a las tiradas de daño, antes de calcular el daño. Los escudos y otras protecciones proporcionan un bonus a la defensa (por ejemplo, +1 Armadura), pero solo si el objeto se está empuñando (o se lleva puesto en caso de protecciones). El valor máximo de **Armadura** es 3.  
@@ -681,22 +681,22 @@ Los libros de hechizos atraerán la atención de aquellos que buscan el poder ar
 Los **Pergaminos** son similares a los Libros de hechizos, sin embargo:
 
 - No ocupan un espacio en el inventario
-- No causan Fatiga.
+- No causan **Fatiga**.
 - Desaparecen tras su uso.
 
 ### Lanzar hechizos
-Para lanzar un hechizo debe sostenerse el Libro de hechizos con ambas manos y leer su contenido en voz alta. Luego debe añadirse la Fatiga en un espacio del inventario. Si se dispone de tiempo y tranquilidad, el **PJ** puede _mejorar_ el efecto del hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el **PJ** está exhausto o en peligro, el **Guardián** puede pedir que el **PJ** realice una tirada de salvación de **VOL** para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de fallar deben ser similares al efecto previsto y pueden añadir Fatiga adicional, destruir el Libro de hechizos o causar lesiones e incluso la muerte.
+Para lanzar un hechizo debe sostenerse el Libro de hechizos con ambas manos y leer su contenido en voz alta. Luego debe añadirse la **Fatiga** en un espacio del inventario. Si se dispone de tiempo y tranquilidad, el **PJ** puede _mejorar_ el efecto del hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el **PJ** está exhausto o en peligro, el **Guardián** puede pedir que el **PJ** realice una tirada de salvación de **VOL** para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de fallar deben ser similares al efecto previsto y pueden añadir **Fatiga** adicional, destruir el Libro de hechizos o causar lesiones e incluso la muerte.
 
 ### Reliquias
-Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa fatiga. Las reliquias tienen un uso limitado y un tiempo de recarga predeterminado. Algunos ejemplos son:
+Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa **Fatiga**. Las reliquias tienen un uso limitado y un tiempo de recarga predeterminado. Algunos ejemplos son:
 
-**Agarre de miel** , 3 cargas. Un anillo oxidado que encoge al portador a 6 pulgadas de alto. Recarga: colócalo en una taza de jalea real del tamaño de un dedal.
+**Agarre de miel** , 3 cargas. Un anillo oxidado que encoge al portador a 15 cm de alto. Recarga: colócalo en una taza de jalea real del tamaño de un dedal.
 
 **Amigo del halconero** , 1 carga. Una varita en forma de perno que contiene el hechizo _Prisa_. Recarga: dispáralo una ballesta y recupéralo.
 
-**Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 50 pies. Recarga: exponerla a la luz de la luna llena.
+**Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 15 mts. Recarga: exponerla a la luz de la luna llena.
 
-**Embozo de ley** , 1 uso. Cualquiera que ingiera este hongo de motas verdes pierde una Fatiga, pero luego debe hacer una tirada de salvación de **VOL** para evitar sus propiedades adictivas. Un fallo en la tirada deja al **PJ** **Exhausto** e incapaz de concentrarse hasta que pueda comerse otro Embozo de ley, lo que alivia temporalmente la adicción sin otros efectos.
+**Embozo de ley** , 1 uso. Cualquiera que ingiera este hongo de motas verdes pierde una **Fatiga**, pero luego debe hacer una tirada de salvación de **VOL** para evitar sus propiedades adictivas. Un fallo en la tirada deja al **PJ** **Exhausto** e incapaz de concentrarse hasta que pueda comerse otro _Embozo de ley_, lo que alivia temporalmente la adicción sin otros efectos.
 
 ## Combate
 
@@ -704,7 +704,7 @@ Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa 
 Normalmente se juega sin llevar un control estricto del tiempo. En un combate o situación en la que llevar este control pueda ser útil, utiliza rondas para saber cuándo pasa cada cosa. Una **ronda** equivale aproximadamente a 10 segundos y se divide en turnos.
 
 ### Acciones  
-En su turno, un personaje puede moverse hasta 40 pies y realizar una única acción, que puede consistir en: lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción que tenga sentido.
+En su turno, un personaje puede moverse hasta 12 mts y realizar una única acción, que puede consistir en: lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción que tenga sentido.
 
 En cada ronda, los **PJ** declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el **Guardián** pedirá una tirada de salvación pertinente a las jugadoras o a los **PNJ**.
 
@@ -967,7 +967,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques armados hacen
 # Resumen de reglas
 
 **ACCIONES**  
-En su turno, un personaje puede moverse hasta 40 pies y realizar solo una acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades razonables. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Siempre que el orden de los turnos sea incierto, los **PJ** deberían hacer una tirada de **DES** para ver si van antes que sus enemigos.
+En su turno, un personaje puede moverse hasta 12 metros y realizar solo una acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades razonables. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Siempre que el orden de los turnos sea incierto, los **PJ** deberían hacer una tirada de **DES** para ver si van antes que sus enemigos.
 
 **Retirada** de una situación peligrosa siempre requiere una tirada de salvación de **DES** exitosa, así como un destino seguro para correr.
 
@@ -989,7 +989,7 @@ Los **PJ** tienen 10 espacios de inventario: cuatro en su cuerpo y seis en su mo
 Llenar los diez espacios de inventario reduce a 0 la **PG** de un **PJ**. Los **PJ** no pueden llevar más de lo que permite su inventario, aunque las carretas y los caballos pueden proporcionar un aumento en los espacios.
 
 **Estar Exhausto**  
-En una condición de **exhausto** los **PJ** no pueden recuperar su **PG**. Si siguen privados de sus necesidad más de un día, añaden un punto de **Fatiga** en su inventario. La fatiga ocupa un espacio y permanece así hasta que pueden descargar en un lugar a salvo. Este efecto es acumulativo.
+En una condición de **exhausto** los **PJ** no pueden recuperar su **PG**. Si siguen privados de sus necesidad más de un día, añaden un punto de **Fatiga** en su inventario. La **Fatiga** ocupa un espacio y permanece así hasta que pueden descargar en un lugar a salvo. Este efecto es acumulativo.
 
 **Curación**  
 Un momento de descanso y un trago de agua restaurarán los puntos perdidos de la **PG**, pero pueden dejar vulnerable al grupo. Perder puntos de la puntuación de **Características** requiere una semana de descanso y la ayuda de un sanador experto.
