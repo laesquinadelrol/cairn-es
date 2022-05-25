@@ -797,19 +797,19 @@ PG 4, FUE 8, DES 14, VOL 8, Lanza (1d6)
 - Aprecia los libros de hechizos; siempre está dispuesto a comerciar.
 
 **Hombre encapuchado**  
-PG 12, FUE 9, DES 12, VOL 14, Báculo de poder (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
+PG 12, FUE 9, DES 12, VOL 14, Báculo ley (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
 - Los Vigilantes del Bosque; un culto que obtiene su poder de líneas ley, las piedras rúnicas y cosas similares.
 - Daño Crítico: absorbe una parte del alma de la víctima (1d4 de daño a la VOL).
 
 **Sabueso de piedra**  
-12 PG, 2 Armadura, 14 FUE, 1 DES, 8 WOL, Mordida (1d10)
-- Construcciones inmóviles típicamente utilizadas como guardianes de grandes tumbas o artefactos.
-- No se ve afectado por las técnicas de persuasión mundanas, pero ama un buen hueso.
+PG 12, Armadura 2, FUE 14, DES 1, VOL 8, Mordisco (1d10)
+- Constructos inmóviles utilizados normalmente como guardianes de grandes tumbas o artefactos.
+- No se ve afectado por los métodos de persuasión mundanos, pero ama un buen hueso.
 
 **Troll del bosque**   
-12 PG, 15 FUE, 12 DES, 7 WOL, garras y mordida (d8+d8 estallido)
-- Como acción, puede recuperar PG perdidos.
-- Daño crítico: comienzan a crecer musgo y ramas de las heridas del objetivo.
+PG 12, FUE 15, DES 12, VOL 7, Garras y Mordisco (d8+d8 Estallido)
+- Puede recuperar PG perdidos gastando una acción.
+- Daño crítico: comienzan a crecer musgo y ramitas de las heridas del objetivo.
 
 **Elfo de las nieves**  
 14 PG, 1 Armadura, 8 FUE, 13 DES, 14 VOL, icicle dagger (d6), un Libro de hechizos (elige uno: _Dormir, Teletransportarse, Detectar Magia)_
@@ -817,7 +817,7 @@ PG 12, FUE 9, DES 12, VOL 14, Báculo de poder (1d8), un Libro de hechizos (Elig
 - Resistente a la mayoría de las formas de magia.
 
 **Boggart**  
-3 PG, 4 FUE, 17 DES, 13 VOL
+PG 3, FUE 4, DES 17, VOL 13
 - Un bromista salvaje y peludo que se complace en ser una molestia menor.
 - Aprecia las reliquias y las baratijas brillantes por encima de todo, pero no está dispuesto a cambiarlas por monedas.
 - Los boggarts tienen nombres que describen su verdadera naturaleza. Saber su verdadero nombre permite controlar un Boggart.
@@ -826,9 +826,9 @@ PG 12, FUE 9, DES 12, VOL 14, Báculo de poder (1d8), un Libro de hechizos (Elig
 Usa la siguiente plantilla para crear cualquier _monstruo_ o **PNJ** más sofisticado:
 
 **Nombre**
-X PG, X Armadura, X FUE, X DES, X VOL, Arma (dX, objetos especialidad, cualidades)
-- Descriptor atractivo de apariencia o comportamiento.
-- Caprichos, táctica o peculiaridad que hace que este PNJ sea único
+PG X, Armadura X, FUE X, DES X, VOL X, Arma (dx, objetos especialidad, cualidades)
+- Descriptor sugerente de su apariencia o comportamiento.
+- Extravagancias, táctica o peculiaridad que hace que este PNJ sea único
 - Efecto especial o consecuencia de daño crítico
 
 **Principios generales**  
