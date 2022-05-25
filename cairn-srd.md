@@ -537,7 +537,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 |                                                                  |
 |------------------------------------------------------------------|
-|Maza con pinchos (1d6)                                            |
+|Raíz espinosa (1d6)                                               |
 |Armadura de entramado de piñas de pino (1 Armadura)               |
 |Paleta/cuchara (de construcción)                                  |
 |Tarro de hormigas del bosque                                      |
