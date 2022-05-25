@@ -6,7 +6,7 @@ nav_order: 2
 
 # Cairn Documento de Referencia del Sistema (v.1.0)
 
-<p></p>
+<p></p> 
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
