@@ -10,9 +10,9 @@ nav_order: 2
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-La traducción al español de Cairn SRD con permiso del autor se realizó por [La esquina del rol](https://twitter.com/laesquinadelrol), [Antigona](https://twitter.com/Antigona_404),  y Alinel. Las correcciones al texto estuvieron a cargo de calpurnio pisón.
+La traducción al español de Cairn SRD con permiso del autor se realizó por [**La esquina del rol**](https://twitter.com/laesquinadelrol), [**Antigona**](https://twitter.com/Antigona_404),  y **Alinel**. Las correcciones del texto estuvieron a cargo de **calpurnio pison**.
 
-Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (incluyendo Word, Affinity, Google Docs, etc.).
+Consulte el [repositorio](https://github.com/yochaigal/cairn)  o descargue el juego en otros [formatos en español](https://drive.google.com/drive/folders/1vrPaYSJs7STv5RJs22GmVeIMvP8N7Wqr?usp=sharing) (incluyendo Word, Affinity, Google Docs, etc.).
 
 **Cairn** es un juego de aventuras para un moderador (el **Guardián**) y al menos una jugadora.
 Las jugadoras actúan como aventureras inquebrantables que exploran un bosque sombrío y misterioso lleno de gente extraña, tesoros ocultos y monstruosidades indescriptibles.
@@ -791,14 +791,14 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 ## Bestiario
 
 **Goblin de raíz**  
-4 PG, 8 FUE, 14 DES, 8 VOL, Lanza (1d6)
-- Evita el combate a menos que lleve las de ganar (como superar en número).
+PG 4, FUE 8, DES 14, VOL 8, Lanza (1d6)
+- Evita el combate a menos que lleve las de ganar (como ir en grupos numeroso).
 - Protege a muerte sus bienes robados.
 - Aprecia los libros de hechizos; siempre está dispuesto a comerciar.
 
 **Hombre encapuchado**  
-12 PG, 9 FUE, 12 DES, 14 VOL, Báculo de poder (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
-- Los Vigilantes del bosque; un culto que deriva su poder de líneas místicas, piedras rúnicas y similares.
+PG 12, FUE 9, DES 12, VOL 14, Báculo de poder (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
+- Los Vigilantes del Bosque; un culto que obtiene su poder de líneas ley, las piedras rúnicas y cosas similares.
 - Daño Crítico: absorbe una parte del alma de la víctima (1d4 de daño a la VOL).
 
 **Sabueso de piedra**  
