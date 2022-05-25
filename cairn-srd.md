@@ -639,7 +639,7 @@ Expandir para ver el ejemplo
 Descansar unos instantes y beber agua restablece la **PG** perdida, pero deja al grupo expuesto. Las características pueden recuperar sus puntos perdidos (ver **Daño crítico**) tras una semana de descanso al cuidado de un sanador, o mediante el servicio de otra persona competente en estos menesteres. Algunos de estos servicios son gratis, mientras la curación por magia y por otros medios pueden conllevar un costo.
 
 ### Estar Exhausto y Fatiga
-Un **PJ** con la condición **Exhausto**, obtenida por no satisfacer sus necesidades básicas (como comer o descansar), no puede recuperar sus *PG* ni sus puntos de características. Por cada día (después del primero) que el personaje mantenga su condición de **exhausto**, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que el **PJ** pueda descansar en un lugar seguro toda una noche, después de lo cual recuperará _todos_ los espacios ocupados.
+Un **PJ** con la condición **Exhausto**, obtenida por no satisfacer sus necesidades básicas (como comer o descansar), no puede recuperar su *PG* ni sus puntos de características. Por cada día (después del primero) que el personaje mantenga su condición de **exhausto**, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que el **PJ** pueda descansar en un lugar seguro toda una noche, después de lo cual recuperará _todos_ los espacios ocupados.
 
 Los **PJ** también pueden obtener **Fatiga** por **lanzar hechizos**, o por cosas que pasen en la ficción..
 
@@ -743,7 +743,7 @@ Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate co
 Los ataques con la cualidad **Estallido** afectan a todos los objetivos en el área indicada, tirando el daño por separado para cada personaje alcanzado. La cualidad **Estallido** engloba desde una explosión hasta el impacto de un meteorito, pasando por violentas y cortantes cargas. Si no está seguro hasta cuántos objetivos son alcanzados con la onda expansiva, tire el dado de daño relacionado para encontrar la respuesta.
 
 ### Daño crítico
-El daño que sobra tras reducir los **PG** de un objetivo a cero se resta a la **FUE** de ese objetivo. Luego, el objetivo tiene que hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla la tirada de salvación ante **daño crítico**.
+El daño que sobra tras reducir la **PG** de un objetivo a cero se resta a la **FUE** de ese objetivo. Luego, el objetivo tiene que hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. Además, algunos enemigos tendrán habilidades o efectos especiales que se activan cuando su objetivo falla la tirada de salvación ante **daño crítico**.
 
 Un **PJ** que sufra **daño crítico** no podrá hacer nada más que arrastrarse débilmente, aferrándose a la vida. Si se le proporciona ayuda y descanso, se estabilizará. Si no recibe tratamientos, morirá en una hora.
 
@@ -772,18 +772,18 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 
 |        |                                                                                                                                            |
 |------- |--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
-| 2      | Golpe Aturdidor: Estás desorientado y conmocionado. Describe cómo recuperas la concentración. Tira 1d6. Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
+| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
+| 2      | Golpe Aturdidor: Estás desorientado y conmocionado. Describe cómo recuperas la concentración. Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
 | 3      | Derribado: Te lanzaron por los aires y caíste de bruces  sin aliento. Estás exhausto hasta que descanses unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
-| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
-| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando la superes, tira 2d6.  Si el resultado es mayor que tu PG máximo actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
+| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
+| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando la superes, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
 | 6      |Herida en la cabeza que cambiará tu vida: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el resultado es más alto que tu puntuación de característica actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 7      | Inmovilizado: Apenas puedes moverte hasta que recibas cuidados serios y descanses. Tras recuperarte, tira 3d6. Si el el resultado es mayor que tu DES máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 8      | Sordo: No puedes oír nada hasta que encuentres un remedio significativo. En todo caso, realiza una tirada de salvación de VOL. Si tienes éxito, aumenta tu VOL máxima actual en 1d4. |
 | 9      | Cerebro reestructurado: El daño ha arrancado una parte oculta de tu psique. Tira 3d6. Si el resultado es mayor que tu VOL máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 10     | Desgarrado: El daño arranca o deja inútil una extremidad. El Guardián te dirá cuál. Después, haz una tirada de salvación de VOL. Si la superas, aumenta tu VOL máxima en 1d6. |
-| 11     | Herida mortal: Estás exhausto y fuera de acción. Morirás en una hora a menos que te cures. Tras la recuperación, tira 2d6. El resultado será la nueva puntuación de tu PG máximos. |
-| 12     | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si fallas la próxima tirada de salvación contra un daño crítico, morirás horriblemente. Si tienes éxito, tira 3d6. Si el resultado es mayor que su PG máximo actual, entonces ese nuevo valor lo sustuiría en adelante. |
+| 11     | Herida mortal: Estás exhausto y fuera de acción. Morirás en una hora a menos que te cures. Tras la recuperación, tira 2d6. El resultado será la nueva puntuación de tu PG máxima. |
+| 12     | Condenado: La muerte parecía estar muy cerca, pero de alguna manera has sobrevivido. Si fallas la próxima tirada de salvación contra un daño crítico, morirás horriblemente. Si tienes éxito, tira 3d6. Si el resultado es mayor que su PG máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
 
 [regresar al contenido](#contenido)
 <p></p>
@@ -812,7 +812,7 @@ PG 12, FUE 15, DES 12, VOL 7, Garras y Mordisco (d8+d8 Estallido)
 - Daño crítico: comienzan a crecer musgo y ramitas de las heridas del objetivo.
 
 **Elfo de las nieves**  
-14 PG, 1 Armadura, 8 FUE, 13 DES, 14 VOL, icicle dagger (d6), un Libro de hechizos (elige uno: _Dormir, Teletransportarse, Detectar Magia)_
+PG 14, Armadura 1, FUE 8, DES 13, VOL 14, daga de témpano (d6), un Libro de hechizos (elige uno: _Dormir, Teletransportarse, Detectar Magia)_
 - Bello, amoral y longevo.
 - Resistente a la mayoría de las formas de magia.
 
@@ -820,7 +820,7 @@ PG 12, FUE 15, DES 12, VOL 7, Garras y Mordisco (d8+d8 Estallido)
 PG 3, FUE 4, DES 17, VOL 13
 - Un bromista salvaje y peludo que se complace en ser una molestia menor.
 - Aprecia las reliquias y las baratijas brillantes por encima de todo, pero no está dispuesto a cambiarlas por monedas.
-- Los boggarts tienen nombres que describen su verdadera naturaleza. Saber su verdadero nombre permite controlar un Boggart.
+- Los boggarts tienen nombres que describen su verdadera naturaleza. Saber su verdadero nombre permite controlar al Boggart.
 
 ### Crear monstruos
 Usa la siguiente plantilla para crear cualquier _monstruo_ o **PNJ** más sofisticado:
@@ -833,13 +833,13 @@ PG X, Armadura X, FUE X, DES X, VOL X, Arma (dx, objetos especialidad, cualidade
 
 **Principios generales**  
 Puntuaciones de característica: 3 es deficiente, 6 es débil, 10 es promedio,14 es digno de mención y 18 es legendario. Ajuste según sea necesario.  
-- Da a las criaturas promedio 3 de **PG**, dale a las resistentes 6 de **PG** y las amenazas serias obtienen 10+ de **PG**.
-- Añada color y estilo al monstruo o **PNJ** para que destaquen. Los jugadores recordarán a un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
+- Asigna *PG** 3 a las criaturas normales, **PG** 6 a las resistentes, y **PG** 10 o más a las amenazas verdaderamente importantes
+- Para que los monstruos y **PNJ** destaquen, dales sabor y estilos propios. Los jugadores recordarán a un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
 - Use el **daño crítico** para dar sentido a la amenaza o la extrañeza de cualquier **PNJ** agresivo.
 - Recuerda que la **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
 
 **Conversión de juegos OSR**
-- Dar 1 **PG** por _Dado de Golpe_ para la mayoría de las criaturas.
+- Dar **PG** 1 por _Dado de Golpe_ para la mayoría de las criaturas.
 - La mayoría de los humanoides tienen al menos 4 de **PG**.
 - **Moral** también se puede utilizar como referencia.
 
