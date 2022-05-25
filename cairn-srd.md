@@ -375,7 +375,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | 1    | Aceite (como combustible)         | 6    | Catalejo            | 11   | Pico                   | 16   | Soga (8 mts)     |
 | 2    | Amuleto contra espíritus          | 7    | Gancho de agarre    | 12   | planta de acónito      | 17   |Trampa grande     |
 | 3    | Antitoxina                        | 8    | Ganzúas             | 13   | Polea                  | 18   | Vara (3 mts)     |
-| 4    | Cadena (3 mts)                  | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
+| 4    | Cadena (3 mts)                    | 9    | Grilletes           | 14   | Repelente              | 19   | Varita de zahorí |
 | 5    | Carreta (+4 espacios, voluminosa) | 10   | Odre para bucear    | 15   | Saco grande            | 20   | Yesquero         |
 
 #### Herramientas
