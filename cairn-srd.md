@@ -71,7 +71,7 @@ Las jugadoras cooperan entre sí para implicarse en la ambientación compartida,
 -   Se debe apostar por el contexto y el realismo, en vez de por los números y las mecánicas.
 -   Si algo que las jugadoras quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
 -   ¿Es creíble lo que la jugadora describe y cómo aprovecha la situación? Deja que ocurra.    
--   Las Tiradas de Salvación cubren una gran cantidad de situaciones indefinidas y suele ser todo lo que se necesita para lidiar con las situaciones de riesgo.
+-   Las **Tiradas de Salvación** cubren una gran cantidad de situaciones indefinidas y suele ser todo lo que se necesita para lidiar con las situaciones de riesgo.
 
 ### Preparación
 -   El mundo del juego es orgánico, maleable y aleatorio. Se intuye y da giros bruscos.
@@ -165,7 +165,7 @@ Cuando se crea un **PJ**, la jugadora tira 3d6 por cada característica, en orde
   <summary>
 Expandir para ver el Ejemplo
  </summary>
-Inés tira para determinar la FUE de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la DES y un 13 para la **VOL**. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de **FUE**, 12 de **DES** y 13 de **VOL**.
+Inés tira para determinar la **FUE** de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la **DES** y un 13 para la **VOL**. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de **FUE**, 12 de **DES** y 13 de **VOL**.
 
 </details>
 
@@ -618,11 +618,11 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 ### Características
 Según la situación, se usará una de las tres **Características** (ver **Tiradas de Salvación**, más adelante).
 
-**Fuerza (FUE)**: Se utiliza para tiradas de salvación que requieren fuerza física, como levantar un rastrillo, doblar barrotes, resistir un veneno, etc.
+**Fuerza (FUE)**: Se utiliza para **tiradas de salvación** que requieren fuerza física, como levantar un rastrillo, doblar barrotes, resistir un veneno, etc.
 
-**Destreza (DES)**: Se utiliza para tiradas de salvación que requieren aplomo, velocidad y reflejos como esquivar, trepar, moverse con sigilo, mantener el equilibrio, etc.
+**Destreza (DES)**: Se utiliza para **tiradas de salvación** que requieren aplomo, velocidad y reflejos como esquivar, trepar, moverse con sigilo, mantener el equilibrio, etc.
 
-**Voluntad (VOL)**: Se utiliza para tiradas de salvación para persuadir, engañar, interrogar, intimidar, encantar, provocar, manipular hechizos, etc.
+**Voluntad (VOL)**: Se utiliza para **tiradas de salvación** para persuadir, engañar, interrogar, intimidar, encantar, provocar, manipular hechizos, etc.
 
 ### Tiradas de Salvación
 Una **Tirada de salvación** sirve para evitar los malos resultados de las decisiones tomadas y las circunstancias arriesgadas en las que ocurren. Los **PJ** tiran 1d20 y comparan el resultado con la característica apropiada. Si el resultado es igual o inferior a la característica, tienen éxito. En caso contrario, fallan. Un resultado de 1,siempre es un éxito, mientras que un 20 siempre será un fallo.
@@ -631,7 +631,7 @@ Una **Tirada de salvación** sirve para evitar los malos resultados de las decis
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea se encuentra con un grupo de goblins fuertemente armados que hacen guardia ante la entrada de un túnel. La jugadora que lleva a Bea traza cuidadosamente un plan, ya que su DES es 13, pasar a hurtadillas entre los guardias será la mejor opción. Tira un d20 y el resultado es un 10: ¡Un éxito!_
+ _Bea se encuentra con un grupo de goblins fuertemente armados que hacen guardia ante la entrada de un túnel. La jugadora que lleva a Bea traza cuidadosamente un plan, ya que su **DES** es 13, pasar a hurtadillas entre los guardias será la mejor opción. Tira un d20 y el resultado es un 10: ¡Un éxito!_
 
 </details>
 
@@ -709,13 +709,13 @@ En su turno, un personaje puede moverse hasta 40 pies y realizar una única acci
 En cada ronda, los **PJ** declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el **Guardián** pedirá una tirada de salvación pertinente a las jugadoras o a los **PNJ**.
 
 ### Turnos
-El **Guardián** cuáles serán las acciones más probables de los **PNJ** o monstruos. Al comienzo del combate, cada **PJ** debe realizar una tirada de salvación de DES para actuar antes que sus oponentes.
+El **Guardián** cuáles serán las acciones más probables de los **PNJ** o monstruos. Al comienzo del combate, cada **PJ** debe realizar una **tirada de salvación** de **DES** para actuar antes que sus oponentes.
 
 <details markdown="block">
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea ha metido accidentalmente en los terrenos de un enorme Troll del bosque. Para actuar antes que el Troll, realiza una tirada de salvación de DES. Falla, así que el Troll ataca primero..._
+ _Bea ha metido accidentalmente en los terrenos de un enorme Troll del bosque. Para actuar antes que el Troll, realiza una **tirada de salvación** de **DES**. Falla, así que el Troll ataca primero..._
 </details>
 
 ### Ataque y daño
