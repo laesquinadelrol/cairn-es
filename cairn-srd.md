@@ -6,7 +6,7 @@ nav_order: 2
 
 # Cairn Documento de Referencia del Sistema (v.1.0)
 
-<p></p> 
+<p></p>
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
@@ -411,31 +411,31 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 |   |                       |   |                    |   |                   |   |                  |
 |---|-----------------------|---|--------------------|---|-------------------|---|------------------|
-|1  |Acelerar               |26 |Curar heridas       |51 |Herramienta        |76 |Oír susurros      |
-|2  |Adherir                |27 |Desmontar           |52 |Hipnotizar         |77 |Ojo arcano        |
-|3  |Agujero                |28 |Desplazar           |53 |Hogar              |78 |Oleada primigenia |
-|4  |Aire líquido           |29 |Detectar magia      |54 |Identificar dueño  |79 |Oler              |
-|5  |Alterar gravedad       |30 |Disfraz             |55 |Iluminar           |80 |Pacificar         |
+|1  |Acelerar               |26 |Curar heridas       |51 |Grupo              |76 |Ojo arcano        |
+|2  |Acelerón primordial    |27 |Desmontar           |52 |Hipnotizar         |77 |Oler              |
+|3  |Adherir                |28 |Desplazar           |53 |Hogar              |78 |Ordenar           |
+|4  |Aire líquido           |29 |Detectar magia      |54 |Identificar dueño  |79 |Pacificar         |
+|5  |Alterar gravedad       |30 |Disfraz             |55 |Iluminar           |80 |Portal            |
 |6  |Amortiguador mágico    |31 |Dormir              |56 |Ilusión auditiva   |81 |Prisión astral    |
 |7  |Ancla                  |32 |Elasticidad         |57 |Ilusión visual     |82 |Proteger          |
-|8  |Antropomorfizar        |33 |Empujar/tirar       |58 |Imagen espejo      |83 |Puerta            |
-|9  |Arrebatar              |34 |Encantar            |59 |Intercambiar       |84 |Puerta espejo     |
-|10 |Atadura invisible      |35 |Enjambre            |60 |Invocar cubo       |85 |Repeler           |
-|11 |Atraer                 |36 |Ensordecer          |61 |Invocar ídolo      |86 |Resbalar          |
-|12 |Balbuceo               |37 |Escalda de araña    |62 |Leer mentes        |87 |Salto             |
-|13 |Bengala                |38 |Escudo              |63 |Levantar espíritu  |88 |Sentir            |
-|14 |Brazo múltiple         |39 |Esculpir materia    |64 |Levantar muerto    |89 |Señalar objetivo  |
-|15 |Cambio de cuerpo       |40 |Esfera nocturna     |65 |Levitar            |90 |Tela              |
-|16 |Canicas                |41 |Espectáculo         |66 |Machete            |91 |Telequinesis      |
-|17 |Clasificar             |42 |Espesura            |67 |Manantial          |92 |Telepatía         |
+|8  |Antropomorfizar        |33 |Empujar/tirar       |58 |Imagen especular   |83 |Puerta espejo     |
+|9  |Apagar                 |34 |Encantar            |59 |Intercambiar       |84 |Red               |
+|10 |Arrebatar              |35 |Ensordecer          |60 |Intercambiar cuerpo|85 |Repeler           |
+|11 |Artilugio              |36 |Enscudo             |61 |Invocar cubo       |86 |Resbalar          |
+|12 |Atadura invisible      |37 |Esculpir materia    |62 |Invocar espíritu   |87 |Salto             |
+|13 |Bengala                |38 |Esfera nocturna     |63 |Invocar ídolo      |88 |Sentir            |
+|14 |Brazo múltiple         |39 |Espectáculo         |64 |Leer mentes        |89 |Señalar objetivo  |
+|15 |Canicas                |40 |Espesura            |65 |Levantar muerto    |90 |Surgencia         |
+|16 |Canicas                |41 |Espiar              |66 |Levitar            |91 |Telepatía         |
+|17 |Clasificar             |42 |Espesura            |67 |Machete            |92 |Telequinesis      |
 |18 |Codicia                |43 |Espiar              |68 |Marca de mago      |93 |Teletransportar   |
-|19 |Comandar               |44 |Extingir            |69 |Mascarada          |94 |Terremoto         |
-|20 |Comprender             |45 |Flor carnada        |70 |Miniaturizar       |95 |Toque             |
-|21 |Confundir              |46 |Fobia               |71 |Muro elemental     |96 |Toque helado      |
-|22 |Cono de espuma         |47 |Forma bestial       |72 |Nube de niebla     |97 |Velo              |
-|23 |Controlar el clima     |48 |Forma de humo       |73 |Objetivar          |98 |Visión            |
-|24 |Controlar el tiempo    |49 |Forma de limo       |74 |Objeto animado     |99 |Visión de rayos X |
-|25 |Controlar plantas      |50 |Frenesí             |75 |Odio               |100|Visión verdadera  |
+|19 |Comprender             |44 |Flor carnada        |69 |Mascarada          |94 |Terremoto         |
+|20 |Confundir              |45 |Fobia               |70 |Miniaturizar       |95 |Toc-toc           |
+|21 |Cono de espuma         |46 |Forma bestial       |71 |Muro elemental     |96 |Toque helado      |
+|22 |Controlar el clima     |47 |Forma de humo       |72 |Nube de niebla     |97 |Trepar como araña |
+|23 |Controlar el tiempo    |48 |Forma de limo       |73 |Objeto animado     |98 |Visión            |
+|24 |Controlar plantas      |49 |Foso                |74 |Odio               |99 |Visión de rayos X |
+|25 |Cosificar              |50 |Frenesí             |75 |Oír susurros       |100|Visión verdadera  |
 
 <p></p>
 
@@ -715,7 +715,7 @@ El **Guardián** cuáles serán las acciones más probables de los **PNJ** o mon
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea ha metido accidentalmente en los terrenos de un enorme Troll del bosque. Para actuar antes que el Troll, realiza una **tirada de salvación** de **DES**. Falla, así que el Troll ataca primero..._
+ _Bea ha metido accidentalmente en los terrenos de un enorme Trol del bosque. Para actuar antes que el Trol, realiza una **tirada de salvación** de **DES**. Falla, así que el Trol ataca primero..._
 </details>
 
 ### Ataque y daño
@@ -725,7 +725,7 @@ El atacante tira el dado asociado a su arma y resta la armadura del objetivo, el
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _El troll del bosque ruge, blandiendo su garrote hacia Bea, que tiene 5 de **PG**. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Bea, dejando a Bea con 2 de **PG** restantes.
+ _El trol del bosque ruge, blandiendo su garrote hacia Bea, que tiene 5 de **PG**. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Bea, dejando a Bea con 2 de **PG** restantes.
 </details>
 
 ### Múltiples atacantes
@@ -791,28 +791,28 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 ## Bestiario
 
 **Goblin de raíz**  
-PG 4, FUE 8, DES 14, VOL 8, Lanza (1d6)
+PG 4, FUE 8, DES 14, VOL 8, lanza (1d6)
 - Evita el combate a menos que lleve las de ganar (como ir en grupos numeroso).
 - Protege a muerte sus bienes robados.
 - Aprecia los libros de hechizos; siempre está dispuesto a comerciar.
 
 **Hombre encapuchado**  
-PG 12, FUE 9, DES 12, VOL 14, Báculo ley (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
+PG 12, FUE 9, DES 12, VOL 14, báculo ley (1d8), un Libro de hechizos (Elige uno: _Encantar, Hipnotizar, Empujar/tirar, Escudo_)
 - Los Vigilantes del Bosque; un culto que obtiene su poder de líneas ley, las piedras rúnicas y cosas similares.
 - Daño Crítico: absorbe una parte del alma de la víctima (1d4 de daño a la VOL).
 
 **Sabueso de piedra**  
-PG 12, Armadura 2, FUE 14, DES 1, VOL 8, Mordisco (1d10)
+PG 12, Armadura 2, FUE 14, DES 1, VOL 8, mordisco (1d10)
 - Constructos inmóviles utilizados normalmente como guardianes de grandes tumbas o artefactos.
-- No se ve afectado por los métodos de persuasión mundanos, pero ama un buen hueso.
+- No se ve afectado por los métodos de persuasión mundanos, pero le encantan los huesos.
 
-**Troll del bosque**   
-PG 12, FUE 15, DES 12, VOL 7, Garras y Mordisco (d8+d8 Estallido)
+**Trol del bosque**   
+PG 12, FUE 15, DES 12, VOL 7, garras y mordisco (d8+d8 estallido)
 - Puede recuperar PG perdidos gastando una acción.
 - Daño crítico: comienzan a crecer musgo y ramitas de las heridas del objetivo.
 
 **Elfo de las nieves**  
-PG 14, Armadura 1, FUE 8, DES 13, VOL 14, daga de témpano (d6), un Libro de hechizos (elige uno: _Dormir, Teletransportarse, Detectar Magia)_
+PG 14, Armadura 1, FUE 8, DES 13, VOL 14, daga de témpano (d6), un Libro de hechizos (elige uno: _Dormir, Teletransportar, Detectar Magia)_
 - Bello, amoral y longevo.
 - Resistente a la mayoría de las formas de magia.
 
@@ -832,19 +832,19 @@ PG X, Armadura X, FUE X, DES X, VOL X, Arma (dx, objetos especialidad, cualidade
 - Efecto especial o consecuencia de daño crítico
 
 **Principios generales**  
-Puntuaciones de característica: 3 es deficiente, 6 es débil, 10 es promedio,14 es digno de mención y 18 es legendario. Ajuste según sea necesario.  
+Puntuaciones de las características: 3 es deficiente, 6 es débil, 10 es lo normal,14 es digno de mención y 18 es legendario. Ajusta según sea necesario.  
 - Asigna *PG** 3 a las criaturas normales, **PG** 6 a las resistentes, y **PG** 10 o más a las amenazas verdaderamente importantes
-- Para que los monstruos y **PNJ** destaquen, dales sabor y estilos propios. Los jugadores recordarán a un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
-- Use el **daño crítico** para dar sentido a la amenaza o la extrañeza de cualquier **PNJ** agresivo.
-- Recuerda que la **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
+- Para que los monstruos y **PNJ** destaquen, dales sabor y estilos propios. Los jugadores recordarán más fácilmente un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
+- Has que el **daño crítico** sea coherente con el nivel de rareza y amenaza de un **PNJ** agresivo
+- Recuerda que **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
 
-**Conversión de juegos OSR**
-- Añade 1 a la **PG** por _Dado de Golpe_ para la mayoría de las criaturas.
+**Conversión desde juegos OSR**
+- Añade 1 a la **PG** por cada _Dado de Golpe_ para la mayoría de las criaturas.
 - La mayoría de los humanoides tienen al menos **PG** 4.
 - **Moral** también se puede utilizar como referencia.
 
 Algunos consejos:
-- ¿Es bueno para evitar un golpe? Dale **PG**.
+- ¿Es bueno evitando los ataques? Dale **PG**.
 - ¿Absorbe el daño? Dale Armadura.
 - ¿Es fuerte? Dale un valor de **FUE** alto.
 - ¿Es ágil? Dale un valor de **DES** alto.
