@@ -165,7 +165,7 @@ Cuando se crea un **PJ**, la jugadora tira 3d6 por cada característica, en orde
   <summary>
 Expandir para ver el Ejemplo
  </summary>
-Inés tira para determinar la **FUE** de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la **DES** y un 13 para la **VOL**. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de **FUE**, 12 de **DES** y 13 de **VOL**.
+Karla tira para determinar la **FUE** de su personaje, obteniendo 2, 4, y 6 en los dados, lo que hace un total de 12. En las siguientes dos tiradas obtiene un 9 para la **DES** y un 13 para la **VOL**. Ella decide intercambiar el  12 y el 9, obteniendo así un personaje con 9 de **FUE**, 12 de **DES** y 13 de **VOL**.
 
 </details>
 
@@ -631,7 +631,7 @@ Una **Tirada de salvación** sirve para evitar los malos resultados de las decis
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea se encuentra con un grupo de goblins fuertemente armados que hacen guardia ante la entrada de un túnel. La jugadora que lleva a Bea traza cuidadosamente un plan, ya que su **DES** es 13, pasar a hurtadillas entre los guardias será la mejor opción. Tira un d20 y el resultado es un 10: ¡Un éxito!_
+ _Sybil se encuentra con un grupo de goblins fuertemente armados que hacen guardia ante la entrada de un túnel. La jugadora que lleva a Sybil traza cuidadosamente un plan, ya que su **DES** es 13, pasar a hurtadillas entre los guardias será la mejor opción. Tira un d20 y el resultado es un 10: ¡Un éxito!_
 
 </details>
 
@@ -715,7 +715,7 @@ El **Guardián** cuáles serán las acciones más probables de los **PNJ** o mon
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Bea ha metido accidentalmente en los terrenos de un enorme Trol del bosque. Para actuar antes que el Trol, realiza una **tirada de salvación** de **DES**. Falla, así que el Trol ataca primero..._
+ _Sybil ha metido accidentalmente en los terrenos de un enorme Trol del bosque. Para actuar antes que el Trol, realiza una **tirada de salvación** de **DES**. Falla, así que el Trol ataca primero..._
 </details>
 
 ### Ataque y daño
@@ -725,7 +725,7 @@ El atacante tira el dado asociado a su arma y resta la armadura del objetivo, el
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _El trol del bosque ruge, blandiendo su garrote hacia Bea, que tiene 5 de **PG**. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Bea, dejando a Bea con 2 de **PG** restantes.
+ _El trol del bosque ruge, blandiendo su garrote hacia Sybil, que tiene **PG** 5. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Sybil, dejándola con **PG** 2.
 </details>
 
 ### Múltiples atacantes
@@ -871,90 +871,90 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 | 10   | [Arrebatar](#arrebatar)                    | Un objeto que puedas ver se teletransporta a tu mano.                                                 |
 | 11   | [Artilugio](#artilugio)                    | La versión primitiva de una herramienta u objeto que hayas dibujado aparece frente a ti y desaparece al poco rato.|
 | 12   | [Atadura invisible](#atadura-invisible)    | Dos objetos a menos de 3 m uno del otro no pueden separarse a más de 3 m de distancia.                |
-| 13   | [Bengala](#bengala)                        | Disparas una esfera de energía brillante hacia el cielo, revelando tu ubicación a cualquier aliado o enemigo.|
-| 14   | [Brazo múltilpe](#brazo-multiple)          | Temporalmente obtienes un brazo extra.                                                                |
-| 15   | [Cambio de cuerpo](#cambio-de-cuerpo)      | Cambias de cuerpo con una criatura que toques. Si un cuerpo muere, el otro también muere.             |
-| 16   | [Canicas](#canicas)                        | Tus bolsillos se llenan de canicas, y vuelven a llenarse cada 30 segundos.                            |
-| 17   | [Clasificar](#clasificar)                  | Los objetos inanimados se organizan a sí mismos según las categorías que determines.                  |
-| 18   | [Codicia](#codicia)                        | Una criatura desarrolla un impulso abrumador de poseer un objeto visible a tu elección.               |
-| 19   | [Comandar](#comandar)                      | Un objetivo obedece un comando de tres palabras siempre y cuando no le cause daño.                    |
+| 13   | [Atraer](#atraer)                          | Dos objetos se atraen fuertemente de manera magnética entre sí, si se acercan a 3 metros.             |
+| 14   | [Balbucear](#balbucear)                    | Una criatura debe repetir en voz alta y clara todo lo que piensas. De lo contrario, se queda muda.    |
+| 15   | [Bengala](#bengala)                        | Una brillante esfera de energía lanza hacia el cielo una columna de luz, revelando tu ubicación a cualquier aliado o enemigo. |
+| 16   | [Brazo múltiple](#brazo-múltiple)          | Temporalmente obtienes un brazo extra.                                                                |
+| 17   | [Canicas](#canicas)                        | Tus bolsillos se llenan de canicas, y vuelven a llenarse cada 30 segundos.                            |
+| 18   | [Clasificar](#clasificar)                  | Los objetos inanimados se organizan a sí mismos según las categorías que determines.                  |
+| 19   | [Codicia](#codicia)                        | Una criatura desarrolla el impulso irrefrenable de poseer un objeto visible, a tu elección.           |
 | 20   | [Comprender](#comprender)                  | Dominas todos los idiomas durante un periodo corto de tiempo.                                         |
-| 21   | [Confundir](#confundir)                    | Una criatura de tu elección no puede formar recuerdos a corto plazo mientras dure el hechizo.                         |
-| 22   | [Cono de espuma](#cono-de-espuma)          | Una densa espuma emerge de tus manos, cubriendo al objetivo.                                          |
+| 21   | [Confudir](#confundir)                     | Una criatura de tu elección no puede formar recuerdos a corto plazo mientras dure el hechizo.         |
+| 22   | [Cono de espuma](#cono-de-espuma)          | Una densa espuma emerge de tu mano, cubriendo al objetivo.                                            |
 | 23   | [Controlar el clima](#controlar-el-clima)  | Puedes alterar el tipo de clima a voluntad, pero no controlarlo.                                      |
-| 24   | [Controlar el tiempo](#controlar-el-tiempo)| El tiempo dentro de una burbuja de 15 metros se alenta o acelera en un 10% por 30 segundos.           |
+| 24   | [Controlar el tiempo](#controlar-el-tiempo)| El tiempo dentro de una burbuja de 15 m se ralentiza o acelera en un 10 % durante 30 segundos.        |
 | 25   | [Controlar plantas](#controlar-plantas)    | Los árboles y plantas cercanas te obedecen y obtienen la habilidad de moverse lentamente.             |
-| 26   | [Curar heridas](#curar-heridas)            | Recupera 1d4 de FUE una vez al día a una criatura que puedas tocar.                                   |
-| 27   | [Desmontar](#desmontar)                    | Puedes desmontar y montar cualquier parte de tu cuerpo a voluntad, sin causar daño ni dolor. Mantienes control sobre las partes desmontadas.                            |
-| 28   | [Desplazar](#desplazar)                    | Un objeto parece estar a 5 metros de su posición real.                                                |
-| 29   | [Detectar magia](#detectar-magia)          | Puedes ver u oír las auras mágicas cercanas.                                                          |
-| 30   | [Disfraz](#disfraz)                        | Puedes alterar la apariencia de un personaje a voluntad, siempre y cuando sea humanoide. Imitar la apariencia de otros personajes tendrá un resultado extraño. |
-| 31   | [Dormir](#dormir)                          | Una criatura que puedas ver cae en un sueño ligero.                                                   |
-| 32   | [Elasticidad](#elasticidad)                | Tu cuerpo puede estirarse hasta 3 metros.                                                             |
-| 33   | [Empujar/tirar](#empujar/tirar)            | Un objeto de cualquier tamaño es lanzado en tu dirección, o empujado directamente desde ti con la fuerza de un hombre.|
-| 34   | [Encantar](#encantar)                      | Una criatura que puedes ver te trata como a un amigo.                                                 |
-| 35   | [Enjambre](#enjambre)                      | Te conviertes en un enjambre de cuervos, ratas o pirañas. Solo puedes ser afectado por ataques de “estallido”. |
-| 36   | [Ensordecer](#ensordecer)                  | Todas las criaturas cercanas pierden la audición.                                                     |
-| 37   | [Escala de araña](#escalada-de-araña)      | Puedes escalar superficies como una araña.                                                            |
-| 38   | [Escudo](#escudo)                          | Una criatura que toques es protegida de los ataques mundanos por un minuto.                           |
-| 39   | [Escupir materia](#esculpir-materia)       | Los materiales inanimados se comportan como arcilla entre tus manos.                                  |
-| 40   | [Esfera nocturna](#esfera-nocturna)        | Una esfera de oscuridad de 15 metros de ancho que contiene el cielo nocturno aparece frente a ti.     |
-| 41   | [Espectáculo](#espectáculo)                | Una ilusión claramente falsa e impresionante aparece bajo tu control. Puede ser tan grande como un palacio y tiene movimiento y sonido. |
-| 42   | [Espesura](#espesura)                      | Un matorral de árboles y arbustos densos de hasta 15 metros. de ancho brota repentinamente.           |
-| 43   | [Espiar](#espiar)                          | Puedes ver a través de los ojos de una criatura que hayas tocado durante el día.                      |
-| 44   | [Extingir](#extingir)                      | Las fuentes de luz mundanas que puedas ver se apagan instantáneamente.                                |
-| 45   | [Flor carnada](#flor-carnada)              | Una planta brota del suelo y emana el olor a carne en descomposición.                                 |
-| 46   | [Fobia](#fobia)                            | Una criatura cercana se aterroriza de un objeto a tu elección.                                        |
-| 47   | [Forma bestial](#forma-bestial)            | Tú y tus posesiones se transforman en un animal común.                                                |
-| 48   | [Forma de humo](#forma-de-humo)            | Tu cuerpo se convierte en una nube de humo viviente que puedes controlar.                             |
-| 49   | [Forma de limo](#forma-de-limo)            | Te conviertes en una gelatina viviente.                                                               |
-| 50   | [Frenesí](#frenesí)                        | Una criatura cercana estalla en un frenesí de violencia.                                              |
-| 51   | [Herramienta](#herramienta)                | Una versión primitiva de una herramienta u objeto aparece frente a ti y desaparece luego de un momento.  |
-| 52   | [Hipnotizar](#hipnotizar)                  | Una criatura entra en trance y responderá con sinceridad una pregunta que le hagas con “sí” o “no”.   |
-| 53   | [Hogar](#hogar)                            | Haces aparecer una cabaña robusta y amueblada durante 12 horas. Puedes decidir quién puede entrar y quién no. |
-| 54   | [Identificar dueño](#identificar-dueño)    | Aparecen letras sobre el objeto que toques, indicando el nombre de su dueño, siempre y cuando lo tenga.  |
-| 55   | [Iluminar](#iluminar)                      | Una luz flotante se mueve  a tu voluntad.                                                             |
-| 56   | [Ilusión auditiva](#ilusión-auditiva)      | Crea la ilusión de sonidos que parecen provenir de una dirección de tu elección.                      |
-| 57   | [Ilusión visual](#ilusión-visual)          | Haces aparecer una ilusión del tamaño de una habitación, inmovil y silenciosa.                        |
-| 58   | [Imagen Espejo](#Imagen-Espejo)            | Un duplicado ilusorio de tí mismo aparece bajo tu control.                                            |
-| 59   | [Intercambiar](#intercambiar)              | Dos criaturas que puedas ver intercambian posiciones.                                                 |
-| 60   | [Invocar cubo](#invocar-cubo)              | Una vez por segundo puedes invocar o desterrar un cubo de tierra de un metro de ancho. Los nuevos cubos deben adherirse a la tierra o a otros cubos. |
-| 61   | [Invocar ídolo](#invocar-ídolo)            | Una estatua de piedra tallada del tamaño de una mula emerge desde el suelo.                           |
-| 62   | [Leer mentes](#leer-mentes)                | Puedes oír los pensamientos superficiales de las criaturas                                            |
-| 63   | [Levantar espíritu](#levantar-espíritu)    | El espíritu de un cuerpo cercano se manifiesta y responde una pregunta.                               |
-| 64   | [Levantar muerto](#levantar-muerto)        | Un esqueleto emerge del suelo para servirte. Es increiblemente estúpido  y solo puede seguir órdenes sencillas. |               
-| 65   | [Levitar](#levitar)                        | Un objeto levita sin fricción a 60 cm del suelo. Puede aguantar hasta el peso de un humanoide.        |
-| 66   | [Machete](#machete)                        | Una cuchilla giratoria sale volando de tu pecho, cortando cualquier material vegetal en su camino. Es inofensiva contra cualquier otro material.       |
-| 67   | [Manantial](#manantial)                    | Haces aparecer un manantial de agua de mar.                                                           |
-| 68   | [Marca de mago](#marca-de-mago)            | Lanzas un chorro de pintura de un color imposible. Solo tú puedes ver esta pintura, a cualquier distancia e incluso a través de objetos sólidos.  |
-| 69   | [Mascarada](#mascarada)                    | La voz y apariencia de un personaje se vuelven idénticas a las de un personaje que toques.            |
-| 70   | [Miniaturizar](#miniaturizar)              | Una criatura que toques es reducida al tamaño de un ratón.                                            |
-| 71   | [Muro elemental](#muro-elemental)          | Un muro recto de 15 metros de largo y 3 metros de ancho, hecha de fuego o hielo, emerge desde el suelo.  |
-| 72   | [Nube de niebla](#nube-de-niebla)          | Produces una espesa nube de niebla desde tu ubicación.                                                |
-| 73   | [Objetivar](#objetivar)                    | Te conviertes en un objeto inanimado. Puede ser tan grande como un piano o pequeño como una manzana.            |
-| 74   | [Objeto animado](#objeto-animado)          | Un objeto obedece tus órdenes lo mejor que puede.                                                     |
-| 75   | [Odio](#odio)                              | Una criatura desarrolla un profundo odio por otra criatura o grupo y desea destruirlas.               |
-| 76   | [Oír susurros](#oír-susurros)              | Puedes escuchar sonidos débiles con claridad.                                                         |
-| 77   | [Ojo Arcano](#ojo-arcano)                  | Puedes ver a través de un globo ocular mágico y flotante que vuela a tu alrededor.                    |
-| 78   | [Oleada Primigenia](#oleada-primigenia)    | Una criatura evoluciona rápidamente en una versión futura de su especie.                              |
-| 79   | [Oler](#oler)                              | Puedes oler incluso los más mínimos rastros de aromas.                                                |
-| 80   | [Pacificar](#pacificar)                    | Una criatura cercana desarrolla aversión a la violencia.                                              |
-| 81   | [Prisión astral](#prision-astral)          | Congela un objeto en el tiempo y el espacio dentro de una coraza de cristal invulnerable.             |
-| 82   | [Proteger](#proteger)                      | Un círculo plateado de 15 metros aparece sobre el suelo. Escoge una especie que no puede atravesarlo.                        |
-| 83   | [Puerta](#puerta)                          | Abres un portal a un plano aleatorio. |
-| 84   | [Puerta Espejo](#puerta-espejo)            | Conviertes un espejo en un portal hacia otro espejo que hayas visto durante el día.                   |
-| 85   | [Repeler](#repeler)                        | Dos objetos se repelen magnéticamente en un radio de 3 metros.                                        |
-| 86   | [Resbalar](#resbalar)                      | Toda superficie en un radio de 9 metros se vuelve extremadamente resbaladiza.                         |
-| 87   | [Salto](#salto)                            | Saltas hasta 3 metros una única vez.                                                                  |
-| 88   | [Sentir](#sentir)                          | Elige un tipo de objeto (llave, oro, flecha, jarra, etc). Puedes sentir el que se encuentre más cerca.  |
-| 89   | [Señalar objetivo](#señalar-objetivo)      | Un objeto que toques se convierte en el objetivo de cualquier hechizo cercano.                        |
-| 90   | [Tela](#tela)                              | Lanzas una tela gruesa desde tus muñecas.                                                             |
-| 91   | [Telequinesis](#telequinesis)              | Puedes mover un objeto de menos de 30 kg con la mente.                                                |
-| 92   | [Telepatía](#telepatia)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren.                       |
-| 93   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver de un lugar a otro en un radio de 15 metros      |
-| 94   | [Terremoto](#terremoto)                    | La tierra se sacude violentamente. Las estructuras colapsarán o sufrirán daño.                        |
-| 95   | [Toque](#toque)                            | Una cerradura mundana o mágica cercana se abre ruidosamente.                                          |
-| 96   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3 metros        |
+| 26   | [Cosificar](#cosificar)                    | Te conviertes en un objeto inanimado. Puede ser tan grande como un piano o tan pequeño como una manzana.|
+| 27   | [Curar heridas](#curar-heridas)            | Una criatura a la que estés tocando recupera 1d4 puntos de FUE. Solo una vez al día, por criatura.    |
+| 28   | [Desmontar](#desmontar)                    | Puedes separar y volver a unir cualquier parte de tu cuerpo a voluntad, sin causar daño ni dolor. Mantienes el control sobre las partes separadas.|
+| 29   | [Desplazar](#desplazar)                    | Un objeto parece estar a 5 metros, o menos, de su posición real.                                      |
+| 30   | [Detectar magia](#detectar-magia)          | Puedes ver u oír las auras mágicas cercanas.                                                          |
+| 31   | [Disfraz](#disfraz)                        | Puedes alterar la apariencia de un personaje a voluntad, siempre y cuando mantenga la forma humanoide. Hacer duplicados de otros personajes resultará inquietante .|
+| 32   | [Dormir](#dormir)                          | Una criatura a la que puedas ver cae en un ligero sueño.                                              |
+| 33   | [Elasticidad](#elasticiadad)               | Tu cuerpo puede estirarse hasta 3 metros.                                                             |
+| 34   | [Empujar/tirar](#empujar-tirar)            | Un objeto de cualquier tamaño es empujado hacia ti o desde ti, con la fuerza de un hombre.            |
+| 35   | [Encantar](#encantar)                      | Una criatura a la que puedas  ver te trata como a un amigo.                                           |
+| 36   | [Ensordecer](#ensordecer)                  | Todas las criaturas cercanas pierden la capacidad de oír.                                             |
+| 37   | [Escudo](#escudo)                          | Una criatura a la que toques queda protegida de los ataques mundanos por un minuto.                   |
+| 38   | [Esculpir materia](#esculpir-materia)      | Los materiales inanimados se comportan como arcilla entre tus manos.                                  |
+| 39   | [Esfera nocturna](#esfera-nocturna)        | Una esfera de oscuridad de 15 m de diámetro, mostrando el cielo nocturno, aparece frente a ti.        |
+| 40   | [Espectáculo](#espectáculo)                | Creas una ilusión claramente falsa, pero impresionante, que se mantiene bajo tu control. Puede ser tan grande como un palacio y tiene movimiento y sonido.|
+| 41   | [Espesura](#espesura)                      | Surge repentinamente una espesura de árboles y densos matorrales, de hasta 15 m de ancho.             |
+| 42   | [Espiar](#espiar)                          | Puedes ver a través de los ojos de una criatura a la que hayas tocado durante el día.                 |
+| 43   | [Flor carnada](#flor-carnada)              | Una planta brota del suelo, emanando olor a carne en descomposición.                                  |
+| 44   | [Fobia](#fobia)                            | Una criatura cercana se aterroriza ante un objeto a tu elección.                                      |
+| 45   | [Forma bestial](#forma-bestial)            | Tú y tus posesiones se transforman en un animal mundano.                                              |
+| 46   | [Forma de humo](#forma-de-humo)            | Tu cuerpo se convierte en una nube de humo viviente que puedes controlar.                             |
+| 47   | [Forma de limo](#forma-de-limo)            | Te conviertes en una gelatina viviente.                                                               |
+| 48   | [Foso](#foso)                              | Un agujero de 3 m de ancho y 3 m de profundidad se abre en el suelo.                                  |
+| 49   | [Frenesí](#frenesí)                        | Una criatura cercana estalla en un frenesí de violencia.                                              |
+| 50   | [Grupo de animales](#grupo-de-animales)    | Te conviertes en una bandada de cuervos, una colonia de ratas o un banco de pirañas. Solo puedes ser afectado por ataques de estallido.|
+| 51   | [Hipnotizar](#hipnotizar)                  | Una criatura entra en trance y responderá con sinceridad a una pregunta que le hagas con “sí” o “no”. |
+| 52   | [Hogar](#hogar)                            | Haces aparecer una cabaña robusta y amueblada durante 12 horas. Puedes decidir quién puede entrar y quién no. |
+| 53   | [Identificar dueño](#identificar-dueño)    | Aparecen letras sobre el objeto que toques, indicando el nombre de su dueño, siempre y cuando lo tenga.|
+| 54   | [Iluminar](#iluminar)                      | Una luz flotante se mueve  a tu voluntad.                                                             |
+| 55   | [Ilusión auditiva](#ilusión-auditiva)      | Creas sonidos ilusorios que parecen provenir de una dirección de tu elección.                         |
+| 56   | [Ilusión visual](#ilusión-visual)          | Haces aparecer una ilusión, estática y silenciosa, del tamaño de una habitación.                      |
+| 57   | [Imagen especular](#imagen-especular)      | Haces aparecer un duplicado ilusorio de tí mismo, que se mantiene bajo tu control.                    |
+| 58   | [Intercambiar](#intercambiar)              | Dos criaturas a las que puedas ver intercambian sus posiciones.                                       |
+| 59   | [Intercambiar cuerpo](#intercambiar-cuerpo)| Intercambias tu cuerpo con la criatura a la que toques. Si un cuerpo muere, el otro también.          |
+| 60   | [Invocar cubo](#invocar-cubo)              | Una vez por segundo puedes invocar o desterrar un cubo de tierra de un metro de lado. Los nuevos cubos deben surgir unidos a la tierra o a otros cubos.|
+| 61   | [Invocar espíritu](#invocar-espíritu)      | El espíritu de un cadáver cercano se manifiesta y responde a una pregunta.                            |
+| 62   | [Invocar ídolo](#invocar-ídolo)            | Una estatua de piedra tallada del tamaño de una mula surge del suelo.                                 |
+| 63   | [Leer mentes](#leer-mentes)                | Puedes oír los pensamientos superficiales de las criaturas cercanas.                                  |
+| 64   | [Levantar muerto](#levantar-muerto)        | Un esqueleto emerge del suelo para servirte. Es increiblemente estúpido  y solo puede seguir órdenes sencillas.|               
+| 65   | [Levitar](#levitar)                        | Un objeto levita sin fricción a 60 cm del suelo. Llega a soportar el peso de un humanoide.            |
+| 66   | [Machete](#machete)                        | Una cuchilla giratoria sale volando de tu pecho, cortando cualquier material vegetal en su camino. Es inofensiva contra cualquier otro material.|
+| 67   | [Marca de mago](#marca-de-mago)            | Lanzas un chorro de pintura de un color imposible, desde la punta de tu dedo. Solo tú puedes ver esta pintura, a cualquier distancia e incluso a través de objetos sólidos.|
+| 68   | [Mascarada](#mascarada)                    | La voz y apariencia de un personaje se vuelven idénticas a las de un personaje que toques.            |
+| 69   | [Miniaturizar](#miniaturizar)              | Una criatura que toques es reducida al tamaño de un ratón.                                            |
+| 70   | [Muro elemental](#muro-elemental)          | Haces que surja del suelo un muro recto de 15 m de largo y 3 m de alto, hecho de fuego o hielo.       |
+| 71   | [Nube de niebla](#nube-de-niebla)          | Una espesa nube de niebla se extiende desde donde estás.                                              |
+| 72   | [Objeto animado](#objeto-animado)          | Un objeto obedece tus órdenes lo mejor que puede.                                                     |
+| 73   | [Odio](#odio)                              | Una criatura desarrolla un profundo odio hacia otra criatura o grupo y desea destruirlas.             |
+| 74   | [Oír susurros](#oír-susurros)              | Puedes escuchar sonidos débiles con claridad.                                                         |
+| 75   | [Ojo arcano](#ojo-arcano)                  | Puedes ver mediante un globo ocular mágico y flotante que vuela a tu voluntad.                        |
+| 76   | [Oler](#Oler)                              | Puedes percibir incluso los más leves rastros de olor.                                                |
+| 77   | [Ordenar](#ordenar)                        | El objetivo obedece una órden de tres palabras, siempre y cuando no le cause daño.                    |
+| 78   | [Pacificar](#pacificar)                    | Una criatura cercana desarrolla aversión a la violencia.                                              |
+| 79   | [Portal](#Portal)                          | Abres un portal a un plano aleatorio.                                                                 |
+| 80   | [Prisión astral](#prisión-astral)          | Atrapa un objeto dentro de un caparazón de cristal invulnerable. El objeto queda fijo en el tiempo y en el espacio.|
+| 81   | [Proteger](#proteger)                      | En el suelo aparece un círculo plateado de 15 m de diámetro. El círculo no podrá ser atravesado por una especie a tu elección. |
+| 82   | [Puerta espejo](#puerta-espejo)            | Conviertes un espejo en un portal que conduce a otro espejo donde te hayas mirado hoy.                |
+| 83   | [Red](#red)                                | Lanzas una gruesa red desde tus muñecas.                                                              |
+| 84   | [Repeler](#repeler)                        | Dos objetos se repelen fuertemente de manera magnética entre sí, si se acercan a 3 metros.            |
+| 85   | [Resbalar](#resbalar)                      | Toda superficie en un radio de 10 m se vuelve extremadamente resbaladiza.                             |
+| 86   | [Salto](#salto)                            | Das un único salto de hasta 3 metros de alto.                                                         |
+| 87   | [Sentir](#sentir)                          | Elige un tipo de objeto (llave, oro, flecha, jarra, etc). Puedes percibir el que se encuentre más cerca.|
+| 88   | [Señalar objetivo](#señalar-objetivo)      | El objeto que toques se convierte en el objetivo de cualquier hechizo cercano.                        |
+| 89   | [Surgencia](#surgencia)                    | Haces aparecer un manantial de agua de mar.                                                           |
+| 90   | [Telepatía](#telepatía)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren            |
+| 91   | [Telequinesis](#telequinesis)              | Puedes mover un objeto de hasta 30 kg con la mente.                                                   |
+| 92   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver hasta a 15 m de donde se encuentre.            |
+| 93   | [Terremoto](#terremoto)                    | La tierra se sacude violentamente. Las edificaciones pueden derrumbarse o sufrir daños.               |
+| 94   | [Toc-toc](#toc-toc)                        | Una cerradura próxima, mundana o mágica, se abre ruidosamente.                                        |
+| 95   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3 m.        |
+| 96   | [Trepar como araña](#trepar-como-araña)    | Puedes subir por las superficies como una araña.                                                      |
 | 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva                                        |
 | 98   | [Visión](#visión)                          | Controlas completamente lo que ve una criatura.                                                       |
 | 99   | [Visión de rayos X](#visión-de-rayos-X)    | Puedes ver a través de las paredes, tierra, tela, etc.                                                |
@@ -966,53 +966,55 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 
 # Resumen de reglas
 
-**ACCIONES**  
-En su turno, un personaje puede moverse hasta 12 metros y realizar solo una acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades razonables. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Siempre que el orden de los turnos sea incierto, los **PJ** deberían hacer una tirada de **DES** para ver si van antes que sus enemigos.
+**Acciones**  
+En su turno, un personaje puede moverse hasta 12 metros y realizar una única acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades que tengan sentido. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Cuando el orden de los turnos no esté claro, los **PJ** deberían hacer una tirada de salvación de **DES** para ver si actúan antes que sus enemigos.
 
-**Retirada** de una situación peligrosa siempre requiere una tirada de salvación de **DES** exitosa, así como un destino seguro para correr.
+Para abatirse en **Retirada** ante una situación peligrosa, es necesario tener éxito en una tirada de salvación de **DES**, así como un lugar seguro al que huir.
 
 **Características**  
 **FUE:** Fuerza muscular, potencia y resistencia  
-**DES:** Esquivar, escabullirse y tener reflejos.   
+**DES:** Esquivar, sigilo y reflejos.   
 **VOL:**  Persuasión, intimidación y magia.
 
-**Tiradas de Salvación**  
-- Tira un d20 para lograr un resultado igual o menor a una habilidad.
-- Un resultado de 1 es siempre un éxito, un resultado de 20 es siempre un fallo.
+**Tiradas de salvación**  
+- Tienes éxito si sacas igual o menos que tu característica con un d20
+- Un resultado de 1 siempre es un éxito, un resultado de 20 siempre es un fallo.
 
 **Protección contra Golpes**  
-**PG** indica la capacidad de un **PJ** para evitar ser lastimado. Se pierde esa capacidad durante el combate y se recupera después de unos momentos de descanso.
+La **PG** indica la capacidad de un **PJ** para evitar ser lastimado. Esta capacidad se pierde durante el combate y se recupera tras unos momentos de descanso.
 
-**INVENTARIO**  
-Los **PJ** tienen 10 espacios de inventario: cuatro en su cuerpo y seis en su mochila (que puede servir como un saco de dormir si se vacía). La mayoría de los objetos ocupan un solo espacio, pero los objetos más pequeños se pueden agrupar y contar como uno solo. Los objetos **voluminosos** ocupan dos espacios y son incómodos o difíciles de transportar.
+**Inventario**  
+Los **PJ** tienen 10 espacios de inventario: cuatro en su cuerpo y seis en su mochila (que puede servir como saco de dormir si se vacía). La mayoría de los objetos ocupan un solo espacio, pero los objetos más pequeños se pueden agrupar y contarían como uno solo. Los objetos **voluminosos** ocupan dos espacios y son incómodos o difíciles de transportar.
 
-Llenar los diez espacios de inventario reduce a 0 la **PG** de un **PJ**. Los **PJ** no pueden llevar más de lo que permite su inventario, aunque las carretas y los caballos pueden proporcionar un aumento en los espacios.
+Si se ocupan los 10 espacios de inventario, la **PG** del **PJ** se reduce a cero. Los **PJ** no pueden llevar más de lo que permite su inventario, aunque las carretas y los caballos pueden proporcionar más espacios.
 
-**Estar Exhausto**  
-En una condición de **exhausto** los **PJ** no pueden recuperar su **PG**. Si siguen privados de sus necesidad más de un día, añaden un punto de **Fatiga** en su inventario. La **Fatiga** ocupa un espacio y permanece así hasta que pueden descargar en un lugar a salvo. Este efecto es acumulativo.
+**Estar exhausto**  
+Un **PJ** **Exhausto** no pueden recuperar su **PG**. Si sigue **Exhausto** por más de un día, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que pueda descansar en un lugar seguro. Este efecto es acumulativo.
 
 **Curación**  
-Un momento de descanso y un trago de agua restaurarán los puntos perdidos de la **PG**, pero pueden dejar vulnerable al grupo. Perder puntos de la puntuación de **Características** requiere una semana de descanso y la ayuda de un sanador experto.
+Un momento de descanso y un trago de agua restaurarán la **PG** perdida, pero pueden dejar vulnerable al grupo. Perder puntos de **Característica** requiere una semana de descanso y la ayuda de un sanador experto.
 
-**Libro de Hechizos**
-Los libros de hechizos contienen un solo hechizo y ocupan un espacio de objeto en el inventario. Cualquiera puede lanzar un hechizo sosteniendo un Libro de hechizos con ambas manos y leyendo su contenido en voz alta. Lanzar un hechizo agrega **Fatiga** al inventario del **PJ**.
+**Libro de hechizos**
+Los **Libros de hechizos** contienen un único hechizo y ocupan un espacio de objeto en el inventario. Cualquiera puede lanzar un hechizo mientras sostenga un Libro de hechizos con ambas manos y lea su contenido en voz alta. Lanzar un hechizo agrega **Fatiga** al inventario del **PJ**.
 
-Con suficiente tiempo y seguridad, los **PJ** pueden mejorar un hechizo sin ningún coste adicional. Si están exhaustos o en peligro, puede ser necesaria una tirada de salvación de **VOL** para evitar terribles consecuencias.
+Si disponen de tiempo suficiente y un lugar seguro, los **PJ** pueden mejorar un hechizo sin ningún coste adicional. Si están **exhaustos** o en peligro, puede ser necesaria una tirada de salvación de **VOL** para evitar malas consecuencias.
 
-**COMBATE**  
-El atacante tira su dado de arma y resta la **Armadura** del objetivo, luego resta el total que queda a la **PG** de su oponente.
+**Combate**  
+El atacante tira su dado de arma y resta la **Armadura** del objetivo, luego resta el resultado obtenido a la **PG** de su oponente.
 
-Antes de calcular el daño a la **PG**, resta el valor de la **Armadura** del objetivo del resultado de las tiradas de daño. Los escudos y armaduras similares brindan una defensa adicional (por ejemplo, +1 Armadura), pero solo mientras se sostiene o se usa el objeto.
+Resta el valor de la **Armadura** del objetivo a las tiradas de daño, antes de calcular el daño. Los escudos y otras protecciones proporcionan un bonus a la defensa (por ejemplo, +1 Armadura), pero solo si el objeto se está empuñando (o se lleva puesto en caso de protecciones).
 
-Nadie puede tener más de 3 de **Armadura**.
+El valor máximo de **Armadura** es 3
 
-Los ataques **sin armas** siempre hacen 1d4 de daño. Si **múltiples atacantes** apuntan al mismo enemigo, tira todos los dados de daño y quédate con el único resultado más alto. Si atacas con **dos armas** al mismo tiempo, tira ambos dados de daño y mantén el más alto.
+Los ataques **sin armas** siempre hacen 1d4 de daño. Si el objetivo de **múltiples atacantes** es el mismo, tira todos los dados de daño y quédate con el resultado más alto. Si atacas con **dos armas** al mismo tiempo, tira ambos dados de daño y quédate con el más alto
 
-Si un ataque está en **desventaja**, el dado de daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante tira 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando por separado para cada uno de ellos.
+Si un ataque está en **desventaja**, el daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante usa 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando el daño por separado para cada uno de ellos.
 
-**DAÑO**  
-Si un ataque lleva la **PG** de una **PJ** exactamente a 0, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
+**Daño**  
+Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
 
-El daño que reduce el HP de un objetivo **por debajo** de 0 disminuye su **FUE** de acuerdo con la cantidad restante. Luego debe hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. El fallo deja al **PJ** fuera de combate y mueren si no se trata.
+El daño que sobra tras reducir la **PG** de un objetivo a _cero_ se resta a la **FUE** de ese objetivo. Luego, debe hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. El fallo deja al **PJ** fuera de combate y si no recibe tratamiento, morirá.
 
-Tener **FUE** 0 significa **muerte;** tener **DES** 0 es parálisis; tener **VOL** 0 es delirio.
+Tener **FUE** _0_ significa la **muerte;** tener **DES** _0_ significa parálisis; tener **VOL** _0_ significa que estás delirando.
+
+V.1.0 [27-05-2022]
