@@ -1017,4 +1017,4 @@ El daño que sobra tras reducir la **PG** de un objetivo a _cero_ se resta a la 
 
 Tener **FUE** _0_ significa la **muerte;** tener **DES** _0_ significa parálisis; tener **VOL** _0_ significa que estás delirando.
 
-V.1.0 [27-05-2022]
+V.1.1 [27-05-2022]
