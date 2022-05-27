@@ -233,11 +233,11 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 |||||||||
 |------------|--------------|-----------|-------------|----------|-------------|------|----------|
-|1           |Alquimista    |6          |Carterista   |11        |Enterradora  |16    |Mago      |
-|2           |Jugador       |7          |Cazadora     |12        |Explorador   |17    |Mercader  |
-|3           |Artista       |8          |Clérigo      |13        |Herbolaria   |18    |Mercenario|
-|4           |Carnicero     |9          |Criada       |14        |Herrero      |19    |Minera    |
-|5           |Carpintera    |10         |Criminal     |15        |Ladrona      |20    |Traficante|
+|1           |Alquimista    |6          |Carterista   |11        |Enterrador   |16    |Mago      |
+|2           |Jugador       |7          |Cazador      |12        |Explorador   |17    |Mercader  |
+|3           |Artista       |8          |Clérigo      |13        |Herbolario   |18    |Mercenario|
+|4           |Carnicero     |9          |Criado       |14        |Herrero      |19    |Minero    |
+|5           |Carpintero    |10         |Criminal     |15        |Ladrón       |20    |Traficante|
 
 <p></p>
 
@@ -301,47 +301,47 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | 2        | Con barro      | 7    | Elegante      |
 | 3        | De otro lugar  | 8    | Maloliente    |
 | 4        | Desalineada    | 9    | Sucia         |
-| 5        | Deshilachada   | 10   | Uniformado    |
+| 5        | Deshilachada   | 10   | Uniforme      |
 
 #### Virtud
 
 |        |               |      |               |
 | ------ | ------------- | ---- | ------------- |
-| 1      | Ambiciosa     | 6    | Precavido     |
-| 2      | Disciplinado  | 7    | Serena        |
+| 1      | Ambicioso     | 6    | Precavido     |
+| 2      | Disciplinado  | 7    | Sereno        |
 | 3      | Honorable     | 8    | Sociable      |
 | 4      | Humilde       | 9    | Tolerante     |
-| 5      | Misericordiosa| 10   | Valiente      |
+| 5      | Misericordioso| 10   | Valiente      |
 
 #### Vicio
 
 |      |              |      |             |
 | ---- | ------------ | ---- | ----------- |
 | 1    | Agresivo     | 6    | Mentiroso   |
-| 2    | Amargada     | 7    | Nerviosa    |
+| 2    | Amargado     | 7    | Nervioso    |
 | 3    | Avaricioso   | 8    | Perezoso    |
-| 4    | Codiciosa    | 9    | Ruda        |
+| 4    | Codicioso    | 9    | Rudo        |
 | 5    | Engreído     | 10   | Vengativo   |
 
 #### Reputación
 
 |            |                |      |            |
 | ---------- | -------------- | ---- | ---------- |
-| 1          | Ambicioso      | 6    | Honrada    |
+| 1          | Ambicioso      | 6    | Honrado    |
 | 2          | Bicho raro     | 7    | Patán      |
-| 3          | Desagradable   | 8    | Peligrosa  |
-| 4          | Divertida      | 9    | Respetado  |
-| 5          | Holgazán       | 10   | Sabia      |
+| 3          | Desagradable   | 8    | Peligroso  |
+| 4          | Divertido      | 9    | Respetado  |
+| 5          | Holgazán       | 10   | Sabio      |
 
 #### Desgracia
 
 |             |              |      |                |
 | ----------- | ------------ | ---- | -------------- |
-| 1           | Abandonada   | 6    | Degradado      |
-| 2           | Adicto       | 7    | Desheredada    |
-| 3           | Chantajeada  | 8    | Desacreditado  |
-| 4           | Condenado    | 9    | Exiliada       |
-| 5           | Defraudada   | 10   | Maldito        |
+| 1           | Abandonado   | 6    | Degradado      |
+| 2           | Adicto       | 7    | Desheredado    |
+| 3           | Chantajeado  | 8    | Desacreditado  |
+| 4           | Condenado    | 9    | Exiliado       |
+| 5           | Defraudado   | 10   | Maldito        |
 
 <p></p>
 
@@ -834,7 +834,7 @@ PG X, Armadura X, FUE X, DES X, VOL X, Arma (dx, objetos especialidad, cualidade
 **Principios generales**  
 Puntuaciones de las características: 3 es deficiente, 6 es débil, 10 es lo normal,14 es digno de mención y 18 es legendario. Ajusta según sea necesario.  
 - Asigna *PG** 3 a las criaturas normales, **PG** 6 a las resistentes, y **PG** 10 o más a las amenazas verdaderamente importantes
-- Para que los monstruos y **PNJ** destaquen, dales sabor y estilos propios. Los jugadores recordarán más fácilmente un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
+- Para que los monstruos y **PNJ** destaquen, dales sabor y estilos propios. Las jugadoras recordarán más fácilmente un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
 - Has que el **daño crítico** sea coherente con el nivel de rareza y amenaza de un **PNJ** agresivo
 - Recuerda que **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
 
@@ -1011,7 +1011,7 @@ Los ataques **sin armas** siempre hacen 1d4 de daño. Si el objetivo de **múlti
 Si un ataque está en **desventaja**, el daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante usa 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando el daño por separado para cada uno de ellos.
 
 **Daño**  
-Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, el jugador tira en la tabla de [**Cicatrices**](#Cicatrices-1).
+Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, la jugadora tira en la tabla de [**Cicatrices**](#Cicatrices-1).
 
 El daño que sobra tras reducir la **PG** de un objetivo a _cero_ se resta a la **FUE** de ese objetivo. Luego, debe hacer una tirada de salvación de **FUE** para evitar el **daño crítico**. El fallo deja al **PJ** fuera de combate y si no recibe tratamiento, morirá.
 
