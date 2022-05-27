@@ -411,31 +411,31 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 
 |   |                       |   |                    |   |                   |   |                  |
 |---|-----------------------|---|--------------------|---|-------------------|---|------------------|
-|1  |Acelerar               |26 |Curar heridas       |51 |Grupo              |76 |Ojo arcano        |
-|2  |Acelerón primordial    |27 |Desmontar           |52 |Hipnotizar         |77 |Oler              |
-|3  |Adherir                |28 |Desplazar           |53 |Hogar              |78 |Ordenar           |
-|4  |Aire líquido           |29 |Detectar magia      |54 |Identificar dueño  |79 |Pacificar         |
-|5  |Alterar gravedad       |30 |Disfraz             |55 |Iluminar           |80 |Portal            |
-|6  |Amortiguador mágico    |31 |Dormir              |56 |Ilusión auditiva   |81 |Prisión astral    |
-|7  |Ancla                  |32 |Elasticidad         |57 |Ilusión visual     |82 |Proteger          |
-|8  |Antropomorfizar        |33 |Empujar/tirar       |58 |Imagen especular   |83 |Puerta espejo     |
-|9  |Apagar                 |34 |Encantar            |59 |Intercambiar       |84 |Red               |
-|10 |Arrebatar              |35 |Ensordecer          |60 |Intercambiar cuerpo|85 |Repeler           |
-|11 |Artilugio              |36 |Enscudo             |61 |Invocar cubo       |86 |Resbalar          |
-|12 |Atadura invisible      |37 |Esculpir materia    |62 |Invocar espíritu   |87 |Salto             |
-|13 |Bengala                |38 |Esfera nocturna     |63 |Invocar ídolo      |88 |Sentir            |
-|14 |Brazo múltiple         |39 |Espectáculo         |64 |Leer mentes        |89 |Señalar objetivo  |
-|15 |Canicas                |40 |Espesura            |65 |Levantar muerto    |90 |Surgencia         |
-|16 |Canicas                |41 |Espiar              |66 |Levitar            |91 |Telepatía         |
-|17 |Clasificar             |42 |Espesura            |67 |Machete            |92 |Telequinesis      |
-|18 |Codicia                |43 |Espiar              |68 |Marca de mago      |93 |Teletransportar   |
-|19 |Comprender             |44 |Flor carnada        |69 |Mascarada          |94 |Terremoto         |
-|20 |Confundir              |45 |Fobia               |70 |Miniaturizar       |95 |Toc-toc           |
-|21 |Cono de espuma         |46 |Forma bestial       |71 |Muro elemental     |96 |Toque helado      |
-|22 |Controlar el clima     |47 |Forma de humo       |72 |Nube de niebla     |97 |Trepar como araña |
-|23 |Controlar el tiempo    |48 |Forma de limo       |73 |Objeto animado     |98 |Visión            |
-|24 |Controlar plantas      |49 |Foso                |74 |Odio               |99 |Visión de rayos X |
-|25 |Cosificar              |50 |Frenesí             |75 |Oír susurros       |100|Visión verdadera  |
+|1  |Acelerar               |26 |Cosificar           |51 |Hipnotizar         |76 |Oler              |
+|2  |Acelerón primordial    |27 |Curar heridas       |52 |Hogar              |77 |Ordenar           |
+|3  |Adherir                |28 |Desmontar           |53 |Identificar sueño  |78 |Pacificar         |
+|4  |Aire líquido           |29 |Desplazar           |54 |Iluminar           |79 |Portal            |
+|5  |Alterar gravedad       |30 |Detectar magia      |55 |Ilusión auditiva   |80 |Prisión astral    |
+|6  |Amortiguador mágico    |31 |Disfraz             |56 |Ilusión visual     |81 |Proteger          |
+|7  |Ancla                  |32 |Dormir              |57 |Imagen especular   |82 |Puerta espejo     |
+|8  |Antropomorfizar        |33 |Elasticidad         |58 |Intercambiar       |83 |Red               |
+|9  |Apagar                 |34 |Empujar/tirar       |59 |Intercambiar cuerpo|84 |Repeler           |
+|10 |Arrebatar              |35 |Encantar            |60 |Invocar cubo       |85 |Resbalar          |
+|11 |Artilugio              |36 |Ensordecer          |61 |Invocar espíritu   |86 |Salto             |
+|12 |Atadura invisible      |37 |Escudo              |62 |Invocar ídolo      |87 |Sentir            |
+|13 |Atraer                 |38 |Esculpir materia    |63 |Leer mentes        |88 |Señalar objetivo  |
+|14 |Balbucear              |39 |Esfera nocturna     |64 |Levantar muerto    |89 |Surgencia         |
+|15 |Bengala                |40 |Espectáculo         |65 |Levitar            |90 |Telepatía         |
+|16 |Brazo múltiple         |41 |Espesura            |66 |Machete            |91 |Telequinesis      |
+|17 |Canicas                |42 |Espiar              |67 |Marca de mago      |92 |Teletransportar   |
+|18 |Clasificar             |43 |Flor carnada        |68 |Mascarada          |93 |Terremoto         |
+|19 |Codicia                |44 |Fobia               |69 |Miniaturizar       |94 |Toc-toc           |
+|20 |Comprender             |45 |Forma bestial       |70 |Muro elemental     |95 |Toque helado      |
+|21 |Confundir              |46 |Forma de humo       |71 |Nube de niebla     |96 |Trepar como araña |
+|22 |Cono de espuma         |47 |Forma de limo       |72 |Objeto animado     |97 |Velo              |
+|23 |Controlar el clima     |48 |Foso                |73 |Odio               |98 |Visión            |
+|24 |Controlar el tiempo    |49 |Frenesí             |74 |Oír susurros       |99 |Visión de rayos X |
+|25 |Controlar plantas      |50 |Grupo de animales   |75 |Ojo arcano         |100|Visión verdadera  |
 
 <p></p>
 
@@ -772,12 +772,12 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 
 |        |                                                                                                                                            |
 |------- |--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
+| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. &#124; Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
 | 2      | Golpe Aturdidor: Estás desorientado y conmocionado. Describe cómo recuperas la concentración. Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
 | 3      | Derribado: Te lanzaron por los aires y caíste de bruces  sin aliento. Estás exhausto hasta que descanses unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
-| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
+| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. &#124; Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
 | 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando la superes, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
-| 6      |Herida en la cabeza que cambiará tu vida: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. Tira 3d6. Si el resultado es más alto que tu puntuación de característica actual, entonces ese nuevo valor lo sustuiría en adelante. |
+| 6      |Herida en la cabeza que cambiará tu vida: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. &#124; Tira 3d6. Si el resultado es más alto que tu puntuación de característica actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 7      | Inmovilizado: Apenas puedes moverte hasta que recibas cuidados serios y descanses. Tras recuperarte, tira 3d6. Si el el resultado es mayor que tu DES máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 8      | Sordo: No puedes oír nada hasta que encuentres un remedio significativo. En todo caso, realiza una tirada de salvación de VOL. Si tienes éxito, aumenta tu VOL máxima actual en 1d4. |
 | 9      | Cerebro reestructurado: El daño ha arrancado una parte oculta de tu psique. Tira 3d6. Si el resultado es mayor que tu VOL máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
@@ -855,22 +855,22 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 [regresa al contenido](#contenido)
 <p></p>
 
-## 100 Hechizos
+## 100 hechizos
 
 |      |                                            |                                                                                                       |
 | ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------  |
 | 1    | [Acelerar](#acelerar)                      | Triplicas tu velocidad de movimiento.                                                                 |
-| 2    | [Adherir](#adherir)                        | Cubre un objeto de una baba extremadamente pegajosa.                                                  |
-| 3    | [Agujero](#agujero)                        | Un agujero de 3 metros de ancho y profundidad se abre en el suelo.                                    |
+| 2    | [Acelerón primordial](#acelerón-primordial)| Una criatura evoluciona rápidamente hasta llegar a ser una versión futura de su especie.              |
+| 3    | [Adherir](#adherir)                        | Cubre un objeto de una baba extremadamente pegajosa.                                                  |
 | 4    | [Aire líquido](#aire-líquido)              | El aire a tu alrededor se vuelve apto para nadar.                                                     |
 | 5    | [Alterar gravedad](#alterar-gravedad)      | Cambias la dirección de la gravedad. Solo tú te ves afectado.                                         |
 | 6    | [Amortiguador mágico](#astral-prison)      | Todos los efectos mágicos cercanos reducen su efectividad a la mitad.                                 |
 | 7    | [Ancla](#ancla)                            | Un resistente cable brota de tus brazos, fijándote en dos puntos a 15 metros a cada lado.             |
-| 8    | [Antropomorfizar](#antropomorfizar)        | Un animal adquiere inteligencia o apariencia humana durante un día.                                   |
-| 9    | [Arrebatar](#arrebatar)                    | Un objeto que puedas ver se transporta a tu mano.                                                     |
-| 10   | [Atadura invisible](#atadura-invisible)    | Dos objetos a menos de 3 metros uno del otro no pueden separarse a más de 3 metros de distancia.      |
-| 11   | [Atraer](#beast-form)                      | Dos objetos se atraen fuertemente de manera magnética entre sí, si se acercan a 3 metros.             |
-| 12   | [Balbuceo](#balbuceo)                      | Una criatura debe repetir en voz alta y clara todo lo que piensas. De lo contrario, se queda mudo.    |
+| 8    | [Antropomorfizar](#antropomorfizar)        | Un animal adquiere inteligencia humana, o bien apariencia humana, durante un día.                     |
+| 9    | [Apagar](#apagar)                          | Las fuentes de luz mundanas que puedas ver se apagan instantáneamente.                                |
+| 10   | [Arrebatar](#arrebatar)                    | Un objeto que puedas ver se teletransporta a tu mano.                                                 |
+| 11   | [Artilugio](#artilugio)                    | La versión primitiva de una herramienta u objeto que hayas dibujado aparece frente a ti y desaparece al poco rato.|
+| 12   | [Atadura invisible](#atadura-invisible)    | Dos objetos a menos de 3 m uno del otro no pueden separarse a más de 3 m de distancia.                |
 | 13   | [Bengala](#bengala)                        | Disparas una esfera de energía brillante hacia el cielo, revelando tu ubicación a cualquier aliado o enemigo.|
 | 14   | [Brazo múltilpe](#brazo-multiple)          | Temporalmente obtienes un brazo extra.                                                                |
 | 15   | [Cambio de cuerpo](#cambio-de-cuerpo)      | Cambias de cuerpo con una criatura que toques. Si un cuerpo muere, el otro también muere.             |
