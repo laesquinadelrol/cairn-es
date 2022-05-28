@@ -179,7 +179,7 @@ La mayoría de los objetos ocupan un espacio y los objetos pequeños pueden agru
 
 Los objetos **Voluminosos** ocupan dos espacios, suelen llevarse con dos manos o son difíciles de transportar.   Si alguien rellena su inventario hasta dejarlo sin espacios, reduce su **PG** a cero.
 
-Un **PJ** no puede cargar más objetos de los que le permita su inventario. Las carretas en general (las cuales deben ser conducidas con ambas manos), caballos o mulas pueden incrementar la capacidad del inventario. También se puede contratar **Ayudantes** para que carguen el equipo.
+Un **PJ** no puede cargar más objetos de los que le permita su inventario. Las carretas en general (las cuales deben ser conducidas con ambas manos), caballos o mulas pueden incrementar la capacidad del inventario. También se puede contratar **Seguidores** para que carguen el equipo.
 
 #### Equipo inicial
 Todos los **PJ** comienzan con:
@@ -662,7 +662,7 @@ Cuando los **PJ** encuentre un **PNJ** cuya _reacción_ al grupo no es obvia, el
 Los enemigos tienen que superar una tirada de salvación de **VOL** para no huir cuando sufren su primera baja y tendrán que superar otra cuando su número se reduzca a la mitad. Algunos grupos pueden utilizan la **VOL** de su líder en lugar de la suya. Los enemigos solitarios deben superar una tirada de salvación de **VOL** cuando la **PG** queda reducida a 0. Los **PJ** no se ven afectados por reglas de moral.
 
 #### Seguidores
-Los **PJ** pueden contratar **Seguidores** para que los apoyen durante una expedición. Para crear un ayudante, tira 3d6 para calcular cada característica, luego asígnale 1d6 de **PG** y un arma (1d6), luego utiliza las tablas de la sección [**Creación del Personaje**](##creación-del-personaje) para darle más forma al **PNJ**. Los **Seguidores** tienen un salario entre 1 y 3 mo por día, o se les puede pagar con una parte del tesoro que obtenga el grupo.
+Los **PJ** pueden contratar **Seguidores** para que los apoyen durante una expedición. Para crear un seguidor, tira 3d6 para calcular cada característica, luego asígnale 1d6 de **PG** y un arma (1d6), luego utiliza las tablas de la sección [**Creación del Personaje**](##creación-del-personaje) para darle más forma al **PNJ**. Los **Seguidores** tienen un salario entre 1 y 3 mo por día, o se les puede pagar con una parte del tesoro que obtenga el grupo.
 
 ### Riqueza y tesoro
 La moneda más común es la moneda de oro (mo), la cual equivale a 10 monedas de plata (mp) y 100 monedas de cobre (mc).
