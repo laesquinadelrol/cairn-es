@@ -641,7 +641,7 @@ Descansar unos instantes y beber agua restablece la **PG** perdida, pero deja al
 ### Estar Exhausto y Fatiga
 Un **PJ** con la condición **Exhausto**, obtenida por no satisfacer sus necesidades básicas (como comer o descansar), no puede recuperar su *PG* ni sus puntos de **Características**. Por cada día (después del primero) que el personaje mantenga su condición de **exhausto**, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que el **PJ** pueda descansar en un lugar seguro toda una noche, después de lo cual recuperará _todos_ los espacios ocupados.
 
-Los **PJ** también pueden obtener **Fatiga** por **lanzar hechizos**, o por cosas que pasen en la ficción..
+Los **PJ** también pueden obtener **Fatiga** por **lanzar hechizos**, o por cosas que pasen en la ficción.
 
 ### Armadura
 Resta el valor de la **Armadura** del objetivo a las tiradas de daño, antes de calcular el daño. Los escudos y otras protecciones proporcionan un bonus a la defensa (por ejemplo, +1 Armadura), pero solo si el objeto se está empuñando (o se lleva puesto en caso de protecciones). El valor máximo de **Armadura** es 3.  
@@ -651,7 +651,7 @@ Los escudos, guanteletes y yelmos pueden proveer beneficios adicionales de acuer
 ### Los personajes no jugadores
 
 #### Reacciones
-Cuando los **PJ** encuentre un **PNJ** cuya _reacción_ al grupo no es obvia, el **Guardián** puede tirar 2d6 y consultar el resultado obtenido en la siguiente tabla:
+Cuando los **PJ** encuentren un **PNJ** cuya _reacción_ al grupo no es obvia, el **Guardián** puede tirar 2d6 y consultar el resultado obtenido en la siguiente tabla:
 
 |         |           |         |        |           |
 | :-----: | :-------: | :-----: | :----: | :-------: |
@@ -667,9 +667,9 @@ Los **PJ** pueden contratar **Seguidores** para que los apoyen durante una exped
 ### Riqueza y tesoro
 La moneda más común es la moneda de oro (mo), la cual equivale a 10 monedas de plata (mp) y 100 monedas de cobre (mc).
 
-El tesoro es muy valioso, generalmente voluminoso y rara vez útil más allá de su valor. Puede ser un señuelo para que los personajes vayan a lugares exóticos, normalmente bajo el dominio de terribles enemigos
+El tesoro es muy valioso, generalmente voluminoso y rara vez útil más allá de su valor. Puede ser un señuelo para que los personajes vayan a lugares exóticos, normalmente bajo el dominio de terribles enemigos.
 
-Las aldeas, fortalezas y puertos comercian e intercambian en función de su valor y exclusividad
+Las aldeas, fortalezas y puertos comercian e intercambian en función de su valor y exclusividad.
 
 ## Magia
 Los **Libros de hechizos** contienen un solo hechizo y ocupan un espacio. No se pueden copiar ni crear, sino que se obtienden de lugares como tumbas, mazmorras y mansiones.
@@ -685,14 +685,14 @@ Los **Pergaminos** son similares a los Libros de hechizos, sin embargo:
 - Desaparecen tras su uso.
 
 ### Lanzar hechizos
-Para lanzar un hechizo debe sostenerse el Libro de hechizos con ambas manos y leer su contenido en voz alta. Luego debe añadirse la **Fatiga** en un espacio del inventario. Si se dispone de tiempo y tranquilidad, el **PJ** puede _mejorar_ el efecto del hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el **PJ** está exhausto o en peligro, el **Guardián** puede pedir que el **PJ** realice una **Tirada de Salvación** de **VOL** para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de fallar deben ser similares al efecto previsto y pueden añadir **Fatiga** adicional, destruir el Libro de hechizos o causar lesiones e incluso la muerte.
+Para lanzar un hechizo debe sostenerse el Libro de hechizos con ambas manos y leer su contenido en voz alta. Luego debe añadirse una **Fatiga** en un espacio del inventario. Si se dispone de tiempo y tranquilidad, el **PJ** puede _mejorar_ el efecto del hechizo (por ejemplo: afectando a múltiples objetivos, aumentando su poder, etc.) sin ningún costo adicional. Si el **PJ** está exhausto o en peligro, el **Guardián** puede pedir que el **PJ** realice una **Tirada de Salvación** de **VOL** para evitar cualquier efecto adverso al lanzar el hechizo. Las consecuencias de fallar deben ser similares al efecto previsto y pueden añadir **Fatiga** adicional, destruir el Libro de hechizos o causar lesiones e incluso la muerte.
 
 ### Reliquias
-Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causa **Fatiga**. Las reliquias tienen un uso limitado y un tiempo de recarga predeterminado. Algunos ejemplos son:
+Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causarán **Fatiga**. Las reliquias tienen un uso limitado y un tiempo de recarga predeterminado. Algunos ejemplos son:
 
 **Agarre de miel** , 3 cargas. Un anillo oxidado que encoge al portador a 15 cm de alto. Recarga: colócalo en una taza de jalea real del tamaño de un dedal.
 
-**Amigo del halconero** , 1 carga. Una varita en forma de perno que contiene el hechizo _Prisa_. Recarga: dispáralo una ballesta y recupéralo.
+**Amigo del halconero** , 1 carga. Una varita con forma de virote que contiene el hechizo _Prisa_. Recarga: dispáralo una ballesta y recupéralo.
 
 **Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 15 metros. Recarga: exponerla a la luz de la luna llena.
 
@@ -706,16 +706,16 @@ Normalmente se juega sin llevar un control estricto del tiempo. En un combate o 
 ### Acciones  
 En su turno, un personaje puede moverse hasta 12 metros y realizar una única acción, que puede consistir en: lanzar un hechizo, atacar, hacer un segundo movimiento o alguna otra acción que tenga sentido.
 
-En cada ronda, los **PJ** declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el **Guardián** pedirá una **Tirada de Salvación** pertinente a las jugadoras o a los **PNJ**.
+En cada ronda, los **PJ** declaran lo que están haciendo antes de tirar los dados. Si un personaje intenta algo arriesgado, el **Guardián** pedirá una **Tirada de Salvación** a las jugadoras o PNJ pertinentes.
 
 ### Turnos
-El **Guardián** cuáles serán las acciones más probables de los **PNJ** o monstruos. Al comienzo del combate, cada **PJ** debe realizar una **Tirada de Salvación** de **DES** para actuar antes que sus oponentes.
+El **Guardián** indicará cuáles serán las acciones más probables de los **PNJ** o monstruos. Al comienzo del combate, cada **PJ** debe realizar una **Tirada de Salvación** de **DES** para actuar antes que sus oponentes.
 
 <details markdown="block">
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _Sybil ha metido accidentalmente en los terrenos de un enorme Trol del bosque. Para actuar antes que el Trol, realiza una **Tirada de Salvación** de **DES**. Falla, así que el Trol ataca primero..._
+ Sybil ha metido accidentalmente en los terrenos de un enorme Trol de los bosques. Para actuar antes que el Trol, realiza una **Tirada de Salvación** de **DES**. Falla, así que el Trol ataca primero..._
 </details>
 
 ### Ataque y daño
@@ -725,7 +725,7 @@ El atacante tira el dado asociado a su arma y resta la armadura del objetivo, el
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _El trol del bosque ruge, blandiendo su garrote hacia Sybil, que tiene **PG** 5. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Sybil, dejándola con **PG** 2.
+ _El trol de los bosques ruge, blandiendo su garrote hacia Sybil, que tiene **PG** 5. El garrote hace 1d10 de daño, el **Guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Sybil, dejándola con **PG** 2.
 </details>
 
 ### Múltiples atacantes
@@ -734,7 +734,7 @@ Si el objetivo de varios atacantes es el mismo, tira todos los dados de daño y 
 ### Modificadores de ataque
 Si se combate desde una posición en desventaja (como a través de una cobertura o con las manos atadas), el ataque queda en **desventaja** y el atacante debe tirar 1d4 de daño independientemente de qué dado de daño utilice.
 
-Si se pelea desde una posición de ventaja (como contra un enemigo indefenso o gracias a una audaz maniobra), el ataque queda en **ventaja**, lo que permite al atacante tire 1d12 de daño en lugar de su dado normal.
+Si se pelea desde una posición de ventaja (como contra un enemigo indefenso o gracias a una audaz maniobra), el ataque queda en **ventaja**, lo que permite al atacante tirar 1d12 de daño en lugar de su dado normal.
 
 ### Ataque con dos armas
 Si atacas con dos armas al mismo tiempo, tira ambos dados de daño y quédate con el más alto.
@@ -752,8 +752,7 @@ Si la **FUE** de un **PJ** se reduce a 0, muere. Si su **DES** se reduce a 0, qu
 La pérdida completa de **DES** y **VOL** hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios extraordinarios.
 
 ### Cicatrices
-Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente
-a veces este hecho lo hace cambiar para siempre. Ver la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
+Cuando el daño reduce *exactamente* a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Ver la tabla [**Cicatrices**](/cairn-srd#Cicatrices).
 
 ### Inconsciencia y muerte
 Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un seguidor. Para reducir el tiempo muerto, el nuevo personaje se incorpora de inmediato al grupo.
@@ -768,15 +767,15 @@ Los **Destacamentos** que ataquen individuos lo harán con **ventaja** y causar�
 Para huir de una situación nefasta será necesario tener éxito en una **Tirada de Salvación** de **DES**. También hará falta un lugar seguro al que huir.
 
 ### Cicatrices
-Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afectado. Busque el resultado en la siguiente tabla en función del daño total recibido:
+Cuando un ataque reduzca la **PG** de un **PJ** *exactamente* a 0, se verá especialmente afectado. Busque el resultado en la siguiente tabla en función del daño total recibido:
 
 |        |                                                                                                                                            |
 |------- |--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. &#124; Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
-| 2      | Golpe Aturdidor: Estás desorientado y conmocionado. Describe cómo recuperas la concentración. Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG.|
-| 3      | Derribado: Te lanzaron por los aires y caíste de bruces  sin aliento. Estás exhausto hasta que descanses unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG. |
-| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. &#124; Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
-| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando la superes, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG. |
+| 1      | Cicatriz permanente: Tira 1d6 &#124; 1: Cuello, 2: Manos, 3: Ojo, 4: Pecho, 5: Piernas, 6: Oídos. &#124; Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG máxima.|
+| 2      | Golpe Aturdidor: Estás desorientado y conmocionado. Describe cómo recuperas la concentración. Tira 1d6. Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG máxima.|
+| 3      | Derribado: Te lanzaron por los aires y caíste de bruces  sin aliento. Estás exhausto hasta que descanses unas horas. Luego, tira 1d6. Añade el resultado obtenido a tu PG máxima. |
+| 4      | Fractura: Tira 1d6 &#124; 1-2: Pierna, 3-4: Brazo, 5: Costilla, 6: Cráneo. &#124; Una vez recuperado, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG máxima. |
+| 5      | Enfermo: Estás afectado por una infección asquerosa e incómoda. Cuando la superes, tira 2d6.  Si el resultado es mayor que tu PG máxima actual, entonces ese nuevo valor sustituirá en adelante tu PG máxima. |
 | 6      |Herida en la cabeza que cambiará tu vida: Tira 1d6 &#124; 1-2: FUE, 3-4: DES, 5-6: VOL. &#124; Tira 3d6. Si el resultado es más alto que tu puntuación de característica actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 7      | Inmovilizado: Apenas puedes moverte hasta que recibas cuidados serios y descanses. Tras recuperarte, tira 3d6. Si el el resultado es mayor que tu DES máxima actual, entonces ese nuevo valor lo sustuiría en adelante. |
 | 8      | Sordo: No puedes oír nada hasta que encuentres un remedio significativo. En todo caso, realiza una Tirada de Salvación de VOL. Si tienes éxito, aumenta tu VOL máxima actual en 1d4. |
@@ -792,7 +791,7 @@ Cuando un ataque reduce la **PG** de un **PJ** igual a 0, es especialmente afect
 
 **Goblin de raíz**  
 PG 4, FUE 8, DES 14, VOL 8, lanza (1d6)
-- Evita el combate a menos que lleve las de ganar (como ir en grupos numeroso).
+- Evita el combate a menos que lleve las de ganar (como ir en grupos numerosos).
 - Protege a muerte sus bienes robados.
 - Aprecia los libros de hechizos; siempre está dispuesto a comerciar.
 
@@ -806,9 +805,9 @@ PG 12, Armadura 2, FUE 14, DES 1, VOL 8, mordisco (1d10)
 - Constructos inmóviles utilizados normalmente como guardianes de grandes tumbas o artefactos.
 - No se ve afectado por los métodos de persuasión mundanos, pero le encantan los huesos.
 
-**Trol del bosque**   
+**Trol de lo bosques**   
 PG 12, FUE 15, DES 12, VOL 7, garras y mordisco (d8+d8 estallido)
-- Puede recuperar PG perdidos gastando una acción.
+- Puede recuperar la PG perdida gastando una acción.
 - Daño crítico: comienzan a crecer musgo y ramitas de las heridas del objetivo.
 
 **Elfo de las nieves**  
@@ -826,22 +825,22 @@ PG 3, FUE 4, DES 17, VOL 13
 Usa la siguiente plantilla para crear cualquier _monstruo_ o **PNJ** más sofisticado:
 
 **Nombre**
-PG X, Armadura X, FUE X, DES X, VOL X, Arma (dx, objetos especialidad, cualidades)
+PG X, Armadura X, FUE X, DES X, VOL X, Arma (dX, objetos especialidad, cualidades)
 - Descriptor sugerente de su apariencia o comportamiento.
-- Extravagancias, táctica o peculiaridad que hace que este PNJ sea único
-- Efecto especial o consecuencia de daño crítico
+- Una extravagancia, táctica o peculiaridad que haga único a este **PNJ**.
+- Efecto especial o consecuencia de daño crítico.
 
 **Principios generales**  
-Puntuaciones de las **Características**: 3 es deficiente, 6 es débil, 10 es lo normal,14 es digno de mención y 18 es legendario. Ajusta según sea necesario.  
-- Asigna *PG** 3 a las criaturas normales, **PG** 6 a las resistentes, y **PG** 10 o más a las amenazas verdaderamente importantes
+Puntuaciones de las **Características**: 3 es deficiente, 6 es débil, 10 es lo normal, 14 es digno de mención y 18 es legendario. Ajusta según sea necesario.  
+- Asigna **PG** 3 a las criaturas normales, **PG** 6 a las resistentes, y **PG** 10 o más a las amenazas verdaderamente importantes.
 - Para que los monstruos y **PNJ** destaquen, dales sabor y estilos propios. Las jugadoras recordarán más fácilmente un humanoide con cara de cerdo buscando a su oveja desaparecida más fácilmente que a un arquero goblin genérico.
-- Has que el **daño crítico** sea coherente con el nivel de rareza y amenaza de un **PNJ** agresivo
+- Haz que el **daño crítico** sea coherente con el nivel de rareza y amenaza de un **PNJ** agresivo
 - Recuerda que **PG** es **Protección contra Golpes**, no _Puntos de Golpe_. Es una medida de resiliencia, suerte y sentido común, no de salud.
 
 **Conversión desde juegos OSR**
 - Añade 1 a la **PG** por cada _Dado de Golpe_ para la mayoría de las criaturas.
 - La mayoría de los humanoides tienen al menos **PG** 4.
-- **Moral** también se puede utilizar como referencia.
+- La **Moral** también se puede utilizar como referencia.
 
 Algunos consejos:
 - ¿Es bueno evitando los ataques? Dale **PG**.
@@ -889,7 +888,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 | 28   | [Desmontar](#desmontar)                    | Puedes separar y volver a unir cualquier parte de tu cuerpo a voluntad, sin causar daño ni dolor. Mantienes el control sobre las partes separadas.|
 | 29   | [Desplazar](#desplazar)                    | Un objeto parece estar a 5 metros, o menos, de su posición real.                                      |
 | 30   | [Detectar magia](#detectar-magia)          | Puedes ver u oír las auras mágicas cercanas.                                                          |
-| 31   | [Disfraz](#disfraz)                        | Puedes alterar la apariencia de un personaje a voluntad, siempre y cuando mantenga la forma humanoide. Hacer duplicados de otros personajes resultará inquietante .|
+| 31   | [Disfraz](#disfraz)                        | Puedes alterar la apariencia de un personaje a voluntad, siempre y cuando mantenga la forma humanoide. Hacer duplicados de otros personajes resultará inquietante.|
 | 32   | [Dormir](#dormir)                          | Una criatura a la que puedas ver cae en un ligero sueño.                                              |
 | 33   | [Elasticidad](#elasticiadad)               | Tu cuerpo puede estirarse hasta 3 metros.                                                             |
 | 34   | [Empujar/tirar](#empujar-tirar)            | Un objeto de cualquier tamaño es empujado hacia ti o desde ti, con la fuerza de un hombre.            |
@@ -931,7 +930,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 | 70   | [Muro elemental](#muro-elemental)          | Haces que surja del suelo un muro recto de 15 m de largo y 3 m de alto, hecho de fuego o hielo.       |
 | 71   | [Nube de niebla](#nube-de-niebla)          | Una espesa nube de niebla se extiende desde donde estás.                                              |
 | 72   | [Objeto animado](#objeto-animado)          | Un objeto obedece tus órdenes lo mejor que puede.                                                     |
-| 73   | [Odio](#odio)                              | Una criatura desarrolla un profundo odio hacia otra criatura o grupo y desea destruirlas.             |
+| 73   | [Odio](#odio)                              | Una criatura desarrolla un profundo odio hacia otra criatura o grupo de ellas, y deseará destruirlas.             |
 | 74   | [Oír susurros](#oír-susurros)              | Puedes escuchar sonidos débiles con claridad.                                                         |
 | 75   | [Ojo arcano](#ojo-arcano)                  | Puedes ver mediante un globo ocular mágico y flotante que vuela a tu voluntad.                        |
 | 76   | [Oler](#Oler)                              | Puedes percibir incluso los más leves rastros de olor.                                                |
@@ -948,14 +947,14 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 | 87   | [Sentir](#sentir)                          | Elige un tipo de objeto (llave, oro, flecha, jarra, etc). Puedes percibir el que se encuentre más cerca.|
 | 88   | [Señalar objetivo](#señalar-objetivo)      | El objeto que toques se convierte en el objetivo de cualquier hechizo cercano.                        |
 | 89   | [Surgencia](#surgencia)                    | Haces aparecer un manantial de agua de mar.                                                           |
-| 90   | [Telepatía](#telepatía)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren            |
+| 90   | [Telepatía](#telepatía)                    | Dos criaturas pueden escuchar sus pensamientos, sin importar a qué distancia se encuentren.            |
 | 91   | [Telequinesis](#telequinesis)              | Puedes mover un objeto de hasta 30 kg con la mente.                                                   |
 | 92   | [Teletransportar](#teletransportar)        | Teletransportas un objeto o una persona que puedas ver hasta a 15 m de donde se encuentre.            |
 | 93   | [Terremoto](#terremoto)                    | La tierra se sacude violentamente. Las edificaciones pueden derrumbarse o sufrir daños.               |
 | 94   | [Toc-toc](#toc-toc)                        | Una cerradura próxima, mundana o mágica, se abre ruidosamente.                                        |
 | 95   | [Toque helado](#toque-helado)              | Una gruesa capa de hielo se extiende en la superficie tocada, cubriendo hasta un radio de 3 m.        |
 | 96   | [Trepar como araña](#trepar-como-araña)    | Puedes subir por las superficies como una araña.                                                      |
-| 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva                                        |
+| 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva.                                        |
 | 98   | [Visión](#visión)                          | Controlas completamente lo que ve una criatura.                                                       |
 | 99   | [Visión de rayos X](#visión-de-rayos-X)    | Puedes ver a través de las paredes, tierra, tela, etc.                                                |
 | 100  | [Visión verdadera](#visión-verdadera)      | Ves a través de todas las ilusiones cercanas.                                                         |
@@ -969,15 +968,15 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 **Acciones**  
 En su turno, un personaje puede moverse hasta 12 metros y realizar una única acción. Las acciones pueden incluir lanzar un hechizo, atacar, hacer un segundo movimiento u otras actividades que tengan sentido. Las acciones, los ataques y los movimientos tienen lugar simultáneamente. Cuando el orden de los turnos no esté claro, los **PJ** deberían hacer una **Tirada de Salvación** de **DES** para ver si actúan antes que sus enemigos.
 
-Para abatirse en **Retirada** ante una situación peligrosa, es necesario tener éxito en una **Tirada de Salvación** de **DES**, así como un lugar seguro al que huir.
+Para batirse en **Retirada** ante una situación peligrosa, es necesario tener éxito en una **Tirada de Salvación** de **DES**, así como un lugar seguro al que huir.
 
 **Características**  
-**FUE:** Fuerza muscular, potencia y resistencia  
+**FUE:** Fuerza muscular, potencia y resistencia.  
 **DES:** Esquivar, sigilo y reflejos.   
 **VOL:**  Persuasión, intimidación y magia.
 
 **Tiradas de salvación**  
-- Tienes éxito si sacas igual o menos que tu característica con un d20
+- Tienes éxito si sacas igual o menos que tu característica con un d20.
 - Un resultado de 1 siempre es un éxito, un resultado de 20 siempre es un fallo.
 
 **Protección contra Golpes**  
@@ -992,10 +991,11 @@ Si se ocupan los 10 espacios de inventario, la **PG** del **PJ** se reduce a cer
 Un **PJ** **Exhausto** no pueden recuperar su **PG**. Si sigue **Exhausto** por más de un día, añade una **Fatiga** a su inventario. Cada **Fatiga** ocupa un espacio, y permanecerá ahí hasta que pueda descansar en un lugar seguro. Este efecto es acumulativo.
 
 **Curación**  
-Un momento de descanso y un trago de agua restaurarán la **PG** perdida, pero pueden dejar vulnerable al grupo. Perder puntos de **Característica** requiere una semana de descanso y la ayuda de un sanador experto.
+Un momento de descanso y un trago de agua restaurarán la **PG** perdida, pero pueden dejar vulnerable al grupo. La recuperación de puntos de**característica** requiere una semana de descanso y la ayuda de un sanador experto.
 
 **Libro de hechizos**
-Los **Libros de hechizos** contienen un único hechizo y ocupan un espacio de objeto en el inventario. Cualquiera puede lanzar un hechizo mientras sostenga un Libro de hechizos con ambas manos y lea su contenido en voz alta. Lanzar un hechizo agrega **Fatiga** al inventario del **PJ**.
+
+Los **Libros de hechizos** contienen un único hechizo y ocupan un espacio en el inventario. Cualquiera puede lanzar un hechizo mientras sostenga un Libro de hechizos con ambas manos y lea su contenido en voz alta. Lanzar un hechizo agrega una **Fatiga** al inventario del **PJ**.
 
 Si disponen de tiempo suficiente y un lugar seguro, los **PJ** pueden mejorar un hechizo sin ningún coste adicional. Si están **exhaustos** o en peligro, puede ser necesaria una **Tirada de Salvación** de **VOL** para evitar malas consecuencias.
 
@@ -1004,9 +1004,9 @@ El atacante tira su dado de arma y resta la **Armadura** del objetivo, luego res
 
 Resta el valor de la **Armadura** del objetivo a las tiradas de daño, antes de calcular el daño. Los escudos y otras protecciones proporcionan un bonus a la defensa (por ejemplo, +1 Armadura), pero solo si el objeto se está empuñando (o se lleva puesto en caso de protecciones).
 
-El valor máximo de **Armadura** es 3
+El valor máximo de **Armadura** es 3.
 
-Los ataques **sin armas** siempre hacen 1d4 de daño. Si el objetivo de **múltiples atacantes** es el mismo, tira todos los dados de daño y quédate con el resultado más alto. Si atacas con **dos armas** al mismo tiempo, tira ambos dados de daño y quédate con el más alto
+Los ataques **sin armas** siempre hacen 1d4 de daño. Si el objetivo de **múltiples atacantes** es el mismo, tira todos los dados de daño y quédate con el resultado más alto. Si atacas con **dos armas** al mismo tiempo, tira ambos dados de daño y quédate con el más alto.
 
 Si un ataque está en **desventaja**, el daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante usa 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando el daño por separado para cada uno de ellos.
 
@@ -1017,4 +1017,4 @@ El daño que sobra tras reducir la **PG** de un objetivo a _cero_ se resta a la 
 
 Tener **FUE** _0_ significa la **muerte;** tener **DES** _0_ significa parálisis; tener **VOL** _0_ significa que estás delirando.
 
-V.1.1 [27-05-2022]
+V.1.2 [30-05-2022]
