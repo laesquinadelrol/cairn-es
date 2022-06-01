@@ -665,7 +665,7 @@ Cuando los **PJ** encuentre un **PNJ** cuya _reacción_ frente al grupo no resul
 Los enemigos tienen que superar una **tirada de salvación** de **VOL** para no huir cuando sufren su primera baja y tendrán que superar otra cuando su número se reduzca a la mitad. Algunos grupos pueden utilizar la **VOL** de su líder en lugar de la suya. Los enemigos solitarios deben superar una **tirada de salvación** de **VOL** cuando la **PG** quede reducida a 0. Los **PJ** no se ven afectados por reglas de moral.
 
 #### Seguidores
-Los PJ pueden contratar **seguidores** para que les ayuden durante una expedición. Para crear un seguidor, tira 3d6 para calcular cada característica, luego asígnale 1d6 a la **PG** y un arma (1d6). Por último, utiliza las tablas de la sección [**creación del personaje**](#character-creation) para darle más forma al **PNJ**. Los **seguidores** tienen un salario entre 1 y 3 mo por día, o se les puede pagar con una parte del tesoro que obtenga el grupo.
+Los PJ pueden contratar **seguidores** para que les ayuden durante una expedición. Para crear un seguidor, tira 3d6 para calcular cada característica, luego asígnale 1d6 a la **PG** y un arma (1d6). Por último, utiliza las tablas de la sección [**creación del personaje**](#creación-del-personaje) para darle más forma al **PNJ**. Los **seguidores** tienen un salario entre 1 y 3 mo por día, o se les puede pagar con una parte del tesoro que obtenga el grupo.
 
 ### Riqueza y tesoro
 La moneda más común es la moneda de oro (mo), la cual equivale a 10 monedas de plata (mp) o 100 monedas de cobre (mc).
@@ -755,7 +755,7 @@ Si la **FUE** de un **PJ** se reduce a 0, muere. Si su **DES** se reduce a 0, qu
 La pérdida completa de **DES** y **VOL** hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios especiales.
 
 ### Cicatrices
-Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Consulta la tabla [**cicatrices**](/cairn-srd#Cicatrices).
+Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Consulta la tabla [**cicatrices**](/cairn-srd#cicatrices).
 
 ### Inconsciencia y muerte
 Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un seguidor. Para reducir el tiempo muerto, el nuevo personaje se incorpora de inmediato al grupo.
@@ -1013,7 +1013,7 @@ Los ataques **sin armas** siempre hacen 1d4 de daño. Si el objetivo está siend
 Si un ataque está en **desventaja**, el daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante usa 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando el daño por separado para cada uno de ellos.
 
 **Daño**  
-Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, debe consultarse la tabla de [**Cicatrices**](#Cicatrices-1).
+Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, debe consultarse la tabla de [**Cicatrices**] (#Cicatrices-1).
 
 El daño que sobra tras reducir la **PG** de un objetivo a _cero_ se resta a la **FUE** de ese objetivo. Luego, debe hacer una **tirada de salvación** de **FUE** para evitar el **daño crítico**. El fallo deja al **PJ** fuera de combate y si no recibe tratamiento, morirá.
 
