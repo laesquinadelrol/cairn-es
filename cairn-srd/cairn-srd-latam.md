@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD versión español europa
+title: SRD versión español latinoamérica
 parent: Cairn SRD
 nav_order: 1
 ---
