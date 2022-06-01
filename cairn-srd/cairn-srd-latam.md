@@ -5,7 +5,7 @@ parent: Cairn SRD
 nav_order: 1
 ---
 
-# Cairn Documento de referencia del sistema (v.1.0)
+# Cairn Documento de referencia del sistema (v.1.0) versión latinoamérica
 
 <p></p>
 
