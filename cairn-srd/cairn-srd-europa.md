@@ -1013,7 +1013,7 @@ Los ataques **sin armas** siempre hacen 1d4 de daño. Si el objetivo está siend
 Si un ataque está en **desventaja**, el daño se reduce a 1d4, independientemente del arma. Si el ataque está en **ventaja**, el atacante usa 1d12. Los ataques con la cualidad **estallido** afectan a todos los objetivos del área, tirando el daño por separado para cada uno de ellos.
 
 **Daño**  
-Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, debe consultarse la tabla de [**Cicatrices**] (#Cicatrices-1).
+Si un ataque reduce la **PG** de un **PJ** exactamente a _cero_, debe consultarse la tabla de [**Cicatrices**.](#cicatrices-1)
 
 El daño que sobra tras reducir la **PG** de un objetivo a _cero_ se resta a la **FUE** de ese objetivo. Luego, debe hacer una **tirada de salvación** de **FUE** para evitar el **daño crítico**. El fallo deja al **PJ** fuera de combate y si no recibe tratamiento, morirá.
 
