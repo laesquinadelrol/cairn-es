@@ -12,4 +12,4 @@ nav_order: 2
 
 **Cairn** está bajo una licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-La traducción al español de Cairn SRD con permiso del autor se realizó por [**La esquina del rol**](https://twitter.com/laesquinadelrol), [**Antigona**](https://twitter.com/Antigona_404),  y **Alinel**. Las correcciones del texto estuvieron a cargo de **calpurnio pison**.
+La traducción al español de Cairn SRD con permiso del autor se realizó por [**La esquina del rol**](https://twitter.com/laesquinadelrol), [**Antigona**](https://twitter.com/Antigona_404),  y [**Alinel.**](https://ailinel.itch.io/) Las correcciones del texto estuvieron a cargo de **calpurnio pison**.
