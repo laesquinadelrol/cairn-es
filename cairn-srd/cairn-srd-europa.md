@@ -755,7 +755,7 @@ Si la **FUE** de un **PJ** se reduce a 0, muere. Si su **DES** se reduce a 0, qu
 La pérdida completa de **DES** y **VOL** hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios especiales.
 
 ### Cicatrices
-Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Consulta la tabla [**cicatrices**](/cairn-srd#cicatrices).
+Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Consulta la tabla [**cicatrices**](/cairn-srd-europa#cicatrices).
 
 ### Inconsciencia y muerte
 Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un seguidor. Para reducir el tiempo muerto, el nuevo personaje se incorpora de inmediato al grupo.
