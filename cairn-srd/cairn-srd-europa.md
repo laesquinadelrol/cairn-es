@@ -521,7 +521,7 @@ Si se desea algo más parecido a las clases tradicionales, puede consultarse la 
 | Guanteletes (+1 **armadura**)                     |
 | Espada purificadora (1d6)                     |
 | Símbolo sagrado (protege una vez al día)      |
-| Capa de la Orden                              |
+| Capa su orden religiosa                              |
 
 #### Elfo
 
@@ -728,7 +728,7 @@ El atacante tira el dado asociado a su arma y resta la armadura del objetivo, el
   <summary>
 Expandir para ver el ejemplo
  </summary>
- _El trol del bosque ruge, blandiendo su garrote hacia Chindas, que tiene **PG** 5. El garrote hace 1d10 de daño, el **guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Chindas, dejándola con **PG** 2.
+ El trol del bosque ruge, blandiendo su garrote hacia Chindas, que tiene **PG** 5. El garrote hace 1d10 de daño, el **guardián** tira y obtiene un resultado de 4. Resta 1 debido a la armadura de cuero de Chindas, dejándola con **PG** 2.
 </details>
 
 ### Múltiples atacantes
@@ -959,7 +959,7 @@ Los dados de daño son más o menos los mismos, aunque los ataques con armas deb
 | 96   | [Trepar como araña](#trepar-como-araña)    | Puedes subir por las superficies como una araña.                                                      |
 | 97   | [Velo](#velo)                              | Una criatura que toques se vuelve invisible hasta que se mueva.                                       |
 | 98   | [Visión](#visión)                          | Controlas completamente lo que ve una criatura.                                                       |
-| 99   | [Visión de rayos X](#visión-de-rayos-X)    | Puedes ver a través de las paredes, tierra, tela, etc.                                                |
+| 99   | [Visión de rayos X](#visión-de-rayos-X)    | Puedes ver a través de paredes, tierra, tela, etc.                                                |
 | 100  | [Visión verdadera](#visión-verdadera)      | Ves a través de todas las ilusiones cercanas.                                                         |
 
 
