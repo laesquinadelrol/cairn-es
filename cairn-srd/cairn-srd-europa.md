@@ -695,7 +695,7 @@ Las **reliquias** son objetos imbuidos con un hechizo o poder mágico. No causan
 
 **Abrazo de miel** , 3 cargas. Un anillo oxidado que reduce al portador hasta tener 15 cm de alto. Recarga: colócalo en una taza de jalea real del tamaño de un dedal.
 
-**Amigo del halconero** , 1 carga. Una varita con forma de virote y que contiene el hechizo _Prisa_. Recarga: dispáralo con una ballesta y recupéralo luego.
+**Amigo del halconero** , 1 carga. Una varita con forma de virote y que contiene el hechizo _Acelerar_. Recarga: dispáralo con una ballesta y recupéralo luego.
 
 **Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 15 metros. Recarga: exponerla a la luz de la luna llena.
 
@@ -755,7 +755,7 @@ Si la **FUE** de un **PJ** se reduce a 0, muere. Si su **DES** se reduce a 0, qu
 La pérdida completa de **DES** y **VOL** hace que el personaje no pueda actuar hasta que se recupere mediante un descanso prolongado o por medios especiales.
 
 ### Cicatrices
-Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Consulta la tabla [**cicatrices**](/cairn-srd-europa#cicatrices).
+Cuando el daño reduce exactamente a 0 la **PG** de un **PJ**, puede que este sufra un cambio permanente. Consulta la tabla [**cicatrices**](#cicatrices-1).
 
 ### Inconsciencia y muerte
 Cuando un personaje muere, la jugadora es libre de crear un nuevo personaje o tomar el control de un seguidor. Para reducir el tiempo muerto, el nuevo personaje se incorpora de inmediato al grupo.

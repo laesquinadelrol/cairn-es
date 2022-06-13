@@ -693,7 +693,7 @@ Las **Reliquias** son objetos imbuidos con un hechizo o poder mágico. No causar
 
 **Agarre de miel** , 3 cargas. Un anillo oxidado que encoge al portador a 15 cm de alto. Recarga: colócalo en una taza de jalea real del tamaño de un dedal.
 
-**Amigo del halconero** , 1 carga. Una varita con forma de virote que contiene el hechizo _Prisa_. Recarga: dispáralo una ballesta y recupéralo.
+**Amigo del halconero** , 1 carga. Una varita con forma de virote que contiene el hechizo _Acelerar_. Recarga: dispáralo una ballesta y recupéralo.
 
 **Bastón de silencio** , 1 carga. Esta vara ennegrecida desactiva temporalmente toda la magia en un radio de 15 metros. Recarga: exponerla a la luz de la luna llena.
 
