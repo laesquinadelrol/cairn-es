@@ -15,4 +15,4 @@ Este sitio es mantenido por [La esquina del rol](https://twitter.com/laesquinade
 
 <p></p>
 
-![Alt text](/img/cairn.svg)
+![Alt text](/img/cairn.png)
