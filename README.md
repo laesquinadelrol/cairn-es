@@ -13,6 +13,8 @@ Los archivos originales en Affinity Publisher están igualmente disponibles en D
 
 Este sitio es mantenido por [La esquina del rol](https://twitter.com/laesquinadelrol).
 
+<iframe frameborder="0" src="https://itch.io/embed/1596629" width="552" height="167"><a href="https://laesquinadelrol.itch.io/cairn-es">Cairn [Edición en español] by La esquina del rol 🎲</a></iframe>
+
 <p></p>
 
 ![Alt text](/img/cairn.png)
